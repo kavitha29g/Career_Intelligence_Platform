@@ -1,0 +1,61 @@
+company_id,company_name,industry,company_size,headquarters
+COMP001,Company 1,FinTech,Medium,Hyderabad
+COMP002,Company 2,Consulting,Small,Chennai
+COMP003,Company 3,FinTech,Medium,Pune
+COMP004,Company 4,IT Services,Large,Bengaluru
+COMP005,Company 5,IT Services,Medium,Pune
+COMP006,Company 6,Consulting,Medium,Pune
+COMP007,Company 7,Product,Small,Pune
+COMP008,Company 8,IT Services,Large,Bengaluru
+COMP009,Company 9,IT Services,Medium,Pune
+COMP010,Company 10,Consulting,Large,Hyderabad
+COMP011,Company 11,Product,Medium,Chennai
+COMP012,Company 12,FinTech,Large,Mumbai
+COMP013,Company 13,Healthcare IT,Medium,Pune
+COMP014,Company 14,Consulting,Large,Hyderabad
+COMP015,Company 15,Product,Medium,Hyderabad
+COMP016,Company 16,Healthcare IT,Large,Chennai
+COMP017,Company 17,Consulting,Medium,Chennai
+COMP018,Company 18,FinTech,Medium,Mumbai
+COMP019,Company 19,FinTech,Large,Mumbai
+COMP020,Company 20,Product,Small,Mumbai
+COMP021,Company 21,Product,Medium,Bengaluru
+COMP022,Company 22,FinTech,Medium,Bengaluru
+COMP023,Company 23,FinTech,Small,Hyderabad
+COMP024,Company 24,Consulting,Medium,Chennai
+COMP025,Company 25,Product,Large,Pune
+COMP026,Company 26,Healthcare IT,Small,Chennai
+COMP027,Company 27,FinTech,Medium,Bengaluru
+COMP028,Company 28,Healthcare IT,Large,Hyderabad
+COMP029,Company 29,Product,Large,Pune
+COMP030,Company 30,Product,Small,Mumbai
+COMP031,Company 31,IT Services,Small,Mumbai
+COMP032,Company 32,FinTech,Small,Bengaluru
+COMP033,Company 33,Product,Large,Hyderabad
+COMP034,Company 34,Product,Medium,Chennai
+COMP035,Company 35,FinTech,Large,Bengaluru
+COMP036,Company 36,IT Services,Large,Chennai
+COMP037,Company 37,IT Services,Small,Pune
+COMP038,Company 38,IT Services,Medium,Chennai
+COMP039,Company 39,IT Services,Large,Pune
+COMP040,Company 40,Consulting,Small,Hyderabad
+COMP041,Company 41,FinTech,Small,Bengaluru
+COMP042,Company 42,FinTech,Medium,Chennai
+COMP043,Company 43,FinTech,Medium,Hyderabad
+COMP044,Company 44,IT Services,Small,Hyderabad
+COMP045,Company 45,IT Services,Medium,Chennai
+COMP046,Company 46,Product,Medium,Mumbai
+COMP047,Company 47,Consulting,Large,Mumbai
+COMP048,Company 48,FinTech,Medium,Pune
+COMP049,Company 49,Consulting,Small,Hyderabad
+COMP050,Company 50,FinTech,Medium,Bengaluru
+COMP051,Company 51,IT Services,Large,Bengaluru
+COMP052,Company 52,IT Services,Medium,Hyderabad
+COMP053,Company 53,FinTech,Large,Mumbai
+COMP054,Company 54,Healthcare IT,Medium,Hyderabad
+COMP055,Company 55,IT Services,Medium,Pune
+COMP056,Company 56,Product,Small,Hyderabad
+COMP057,Company 57,IT Services,Small,Chennai
+COMP058,Company 58,Product,Medium,Mumbai
+COMP059,Company 59,Consulting,Medium,Chennai
+COMP060,Company 60,IT Services,Large,Chennai
