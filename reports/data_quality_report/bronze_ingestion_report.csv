@@ -1,0 +1,15 @@
+dataset,source_folder,rows_ingested,columns_ingested,ingestion_time,status
+communication_assessments_synthetic.csv,assessments,1000,5,2026-11-23 12:29:05,success
+programming_assessments_synthetic.csv,assessments,1000,6,2026-11-23 12:29:05,success
+technical_assessments_synthetic.csv,assessments,1000,14,2026-11-23 12:29:05,success
+companies_synthetic.csv,companies,60,5,2026-11-23 12:29:05,success
+company_requirements_synthetic.csv,companies,135,6,2026-11-23 12:29:05,success
+mock_interviews_synthetic.csv,interviews,1000,5,2026-11-23 12:29:05,success
+job_descriptions_synthetic.csv,jobs,300,10,2026-11-23 12:29:05,success
+job_salary_roles_synthetic.csv,jobs,6,4,2026-11-23 12:29:05,success
+job_skills_synthetic.csv,jobs,1667,2,2026-11-23 12:29:05,success
+historical_placements_synthetic.csv,placements,747,8,2026-11-23 12:29:05,success
+student_job_applications_synthetic.csv,placements,3041,6,2026-11-23 12:29:05,success
+institutions_synthetic.csv,students,10,4,2026-11-23 12:29:05,success
+students_master_synthetic.csv,students,1000,12,2026-11-23 12:29:05,success
+attendance_training_synthetic.csv,training,1000,8,2026-11-23 12:29:05,success

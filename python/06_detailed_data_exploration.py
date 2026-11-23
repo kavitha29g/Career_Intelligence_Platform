@@ -51,3 +51,4 @@ report.to_csv(
 
 print("\nDetailed exploration completed!")
 print("Total columns analyzed:", len(report))
+

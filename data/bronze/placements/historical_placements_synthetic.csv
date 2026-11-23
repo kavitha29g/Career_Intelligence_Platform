@@ -1,0 +1,748 @@
+placement_id,student_id,company_id,job_title,placement_date,offered_salary_lpa,placement_type,offer_status
+PLC00001,ST00001,COMP057,BI Analyst,2026-10-22,8.99,Internship to Full Time,Accepted
+PLC00002,ST00003,COMP057,Data Scientist,2023-12-25,5.92,Internship to Full Time,Accepted
+PLC00003,ST00004,COMP057,Business Analyst,2025-03-11,9.48,Internship to Full Time,Accepted
+PLC00004,ST00005,COMP020,Junior Data Engineer,2023-03-26,9.37,Internship to Full Time,Accepted
+PLC00005,ST00006,COMP054,Data Scientist,2023-09-09,7.77,Internship to Full Time,Accepted
+PLC00006,ST00007,COMP037,Business Analyst,2024-08-13,4.21,Full Time,Accepted
+PLC00007,ST00008,COMP032,BI Analyst,2023-10-29,8.13,Full Time,Accepted
+PLC00008,ST00010,COMP034,Business Analyst,2026-07-01,9.14,Full Time,Accepted
+PLC00009,ST00011,COMP020,Software Engineer,2024-08-13,3.71,Internship to Full Time,Accepted
+PLC00010,ST00012,COMP001,Software Engineer,2023-03-25,5.39,Full Time,Accepted
+PLC00011,ST00013,COMP004,Software Engineer,2024-09-18,3.06,Internship to Full Time,Accepted
+PLC00012,ST00014,COMP043,Data Analyst,2023-04-13,5.77,Internship to Full Time,Accepted
+PLC00013,ST00015,COMP057,Business Analyst,2025-10-25,10.32,Full Time,Accepted
+PLC00014,ST00016,COMP006,BI Analyst,2024-07-08,4.57,Full Time,Accepted
+PLC00015,ST00017,COMP028,Data Scientist,2023-06-15,6.2,Full Time,Accepted
+PLC00016,ST00018,COMP031,Business Analyst,2024-05-24,11.93,Internship to Full Time,Accepted
+PLC00017,ST00019,COMP028,Software Engineer,2023-07-20,12.82,Internship to Full Time,Accepted
+PLC00018,ST00020,COMP039,Business Analyst,2023-12-21,9.2,Internship to Full Time,Accepted
+PLC00019,ST00021,COMP052,Data Scientist,2023-10-13,10.52,Full Time,Accepted
+PLC00020,ST00022,COMP017,Junior Data Engineer,2025-05-02,9.1,Internship to Full Time,Accepted
+PLC00021,ST00023,COMP020,Data Analyst,2024-08-31,9.23,Internship to Full Time,Accepted
+PLC00022,ST00024,COMP035,Junior Data Engineer,2025-02-08,11.61,Internship to Full Time,Accepted
+PLC00023,ST00026,COMP007,Junior Data Engineer,2025-12-14,7.86,Internship to Full Time,Accepted
+PLC00024,ST00027,COMP033,BI Analyst,2025-01-02,8.15,Internship to Full Time,Accepted
+PLC00025,ST00028,COMP030,Software Engineer,2025-04-20,8.07,Full Time,Accepted
+PLC00026,ST00029,COMP050,Software Engineer,2023-07-01,11.31,Internship to Full Time,Accepted
+PLC00027,ST00031,COMP051,Junior Data Engineer,2026-04-03,8.63,Full Time,Accepted
+PLC00028,ST00033,COMP040,Data Scientist,2026-03-04,12.66,Full Time,Accepted
+PLC00029,ST00034,COMP049,Software Engineer,2023-09-15,7.43,Full Time,Accepted
+PLC00030,ST00036,COMP030,Data Scientist,2025-07-31,12.23,Full Time,Accepted
+PLC00031,ST00037,COMP004,Business Analyst,2026-08-23,4.18,Full Time,Accepted
+PLC00032,ST00038,COMP053,Business Analyst,2026-03-04,8.3,Internship to Full Time,Accepted
+PLC00033,ST00040,COMP056,Data Analyst,2023-09-06,11.15,Full Time,Accepted
+PLC00034,ST00042,COMP045,Junior Data Engineer,2025-11-23,4.59,Internship to Full Time,Accepted
+PLC00035,ST00044,COMP009,Junior Data Engineer,2026-10-15,10.04,Full Time,Accepted
+PLC00036,ST00046,COMP020,BI Analyst,2024-09-28,10.91,Full Time,Accepted
+PLC00037,ST00048,COMP052,Software Engineer,2026-07-01,10.57,Full Time,Accepted
+PLC00038,ST00049,COMP005,Data Analyst,2023-11-10,9.64,Full Time,Accepted
+PLC00039,ST00050,COMP034,Data Analyst,2024-05-21,5.25,Internship to Full Time,Accepted
+PLC00040,ST00051,COMP002,Data Scientist,2025-06-27,7.3,Full Time,Accepted
+PLC00041,ST00052,COMP020,Software Engineer,2025-09-17,13.81,Full Time,Accepted
+PLC00042,ST00054,COMP054,Data Scientist,2024-06-17,12.04,Internship to Full Time,Accepted
+PLC00043,ST00055,COMP055,BI Analyst,2026-06-17,4.36,Full Time,Accepted
+PLC00044,ST00056,COMP041,Data Analyst,2024-01-14,4.56,Full Time,Accepted
+PLC00045,ST00057,COMP011,Data Scientist,2026-01-24,5.2,Internship to Full Time,Accepted
+PLC00046,ST00058,COMP019,Business Analyst,2026-09-29,4.1,Internship to Full Time,Accepted
+PLC00047,ST00062,COMP024,BI Analyst,2024-07-17,7.3,Full Time,Accepted
+PLC00048,ST00064,COMP030,Software Engineer,2025-05-20,4.63,Internship to Full Time,Accepted
+PLC00049,ST00065,COMP030,Data Analyst,2026-03-01,7.28,Internship to Full Time,Accepted
+PLC00050,ST00066,COMP003,BI Analyst,2026-08-25,12.83,Internship to Full Time,Accepted
+PLC00051,ST00067,COMP003,Business Analyst,2023-10-13,8.15,Internship to Full Time,Accepted
+PLC00052,ST00070,COMP018,Data Analyst,2023-11-21,6.94,Full Time,Accepted
+PLC00053,ST00071,COMP023,BI Analyst,2025-12-11,7.3,Full Time,Accepted
+PLC00054,ST00072,COMP012,BI Analyst,2023-11-07,6.87,Internship to Full Time,Accepted
+PLC00055,ST00073,COMP030,BI Analyst,2023-10-14,6.06,Internship to Full Time,Accepted
+PLC00056,ST00074,COMP060,Software Engineer,2023-05-20,13.08,Internship to Full Time,Accepted
+PLC00057,ST00076,COMP025,Software Engineer,2026-05-25,10.25,Internship to Full Time,Accepted
+PLC00058,ST00077,COMP009,BI Analyst,2024-10-25,9.48,Internship to Full Time,Accepted
+PLC00059,ST00078,COMP038,Data Scientist,2025-04-06,3.74,Full Time,Accepted
+PLC00060,ST00079,COMP055,BI Analyst,2023-11-22,5.55,Full Time,Accepted
+PLC00061,ST00080,COMP032,BI Analyst,2025-09-02,6.56,Full Time,Accepted
+PLC00062,ST00084,COMP050,BI Analyst,2024-04-29,4.16,Full Time,Accepted
+PLC00063,ST00085,COMP047,Software Engineer,2025-05-10,13.15,Full Time,Accepted
+PLC00064,ST00086,COMP040,Business Analyst,2023-08-23,3.41,Full Time,Accepted
+PLC00065,ST00089,COMP029,Business Analyst,2026-05-27,9.94,Full Time,Accepted
+PLC00066,ST00090,COMP060,Junior Data Engineer,2024-10-19,4.18,Internship to Full Time,Accepted
+PLC00067,ST00091,COMP025,Junior Data Engineer,2026-07-29,9.31,Full Time,Accepted
+PLC00068,ST00092,COMP013,Business Analyst,2025-10-02,7.81,Internship to Full Time,Accepted
+PLC00069,ST00093,COMP015,Junior Data Engineer,2023-11-28,7.77,Full Time,Accepted
+PLC00070,ST00094,COMP006,Data Scientist,2023-02-19,9.92,Full Time,Accepted
+PLC00071,ST00095,COMP014,Data Analyst,2023-10-15,12.83,Internship to Full Time,Accepted
+PLC00072,ST00096,COMP050,Software Engineer,2026-03-09,9.01,Full Time,Accepted
+PLC00073,ST00097,COMP022,Junior Data Engineer,2026-10-29,11.03,Internship to Full Time,Accepted
+PLC00074,ST00098,COMP013,Junior Data Engineer,2026-03-14,12.1,Internship to Full Time,Accepted
+PLC00075,ST00099,COMP023,Data Scientist,2026-02-18,12.39,Full Time,Accepted
+PLC00076,ST00101,COMP029,Software Engineer,2026-07-04,7.14,Full Time,Accepted
+PLC00077,ST00102,COMP037,Data Analyst,2023-09-18,11.61,Internship to Full Time,Accepted
+PLC00078,ST00104,COMP007,Data Analyst,2025-10-18,5.54,Internship to Full Time,Accepted
+PLC00079,ST00105,COMP002,Junior Data Engineer,2024-08-16,13.15,Internship to Full Time,Accepted
+PLC00080,ST00106,COMP025,BI Analyst,2025-01-02,3.75,Full Time,Accepted
+PLC00081,ST00107,COMP019,Data Analyst,2025-12-30,9.33,Internship to Full Time,Accepted
+PLC00082,ST00108,COMP026,Data Scientist,2023-04-27,9.01,Full Time,Accepted
+PLC00083,ST00109,COMP038,Software Engineer,2024-06-22,10.19,Full Time,Accepted
+PLC00084,ST00110,COMP022,Software Engineer,2024-06-18,5.21,Full Time,Accepted
+PLC00085,ST00112,COMP009,Junior Data Engineer,2026-01-25,11.98,Internship to Full Time,Accepted
+PLC00086,ST00113,COMP060,BI Analyst,2023-05-08,5.59,Full Time,Accepted
+PLC00087,ST00114,COMP052,Data Scientist,2026-06-03,10.73,Full Time,Accepted
+PLC00088,ST00116,COMP023,Data Analyst,2025-05-02,9.58,Full Time,Accepted
+PLC00089,ST00118,COMP057,Data Scientist,2025-09-07,13.41,Internship to Full Time,Accepted
+PLC00090,ST00119,COMP047,Data Analyst,2023-08-02,3.39,Full Time,Accepted
+PLC00091,ST00120,COMP042,Business Analyst,2025-06-02,8.25,Full Time,Accepted
+PLC00092,ST00121,COMP002,Data Analyst,2023-02-23,11.51,Full Time,Accepted
+PLC00093,ST00122,COMP035,Data Scientist,2025-02-15,10.5,Full Time,Accepted
+PLC00094,ST00123,COMP036,Software Engineer,2023-04-17,7.26,Internship to Full Time,Accepted
+PLC00095,ST00124,COMP045,Junior Data Engineer,2025-05-30,10.71,Full Time,Accepted
+PLC00096,ST00125,COMP008,Software Engineer,2023-08-30,12.87,Internship to Full Time,Accepted
+PLC00097,ST00126,COMP023,Junior Data Engineer,2024-12-03,7.8,Full Time,Accepted
+PLC00098,ST00128,COMP016,Junior Data Engineer,2023-07-08,9.47,Full Time,Accepted
+PLC00099,ST00131,COMP027,BI Analyst,2026-01-03,9.25,Full Time,Accepted
+PLC00100,ST00132,COMP056,BI Analyst,2024-05-26,11.94,Full Time,Accepted
+PLC00101,ST00133,COMP004,Junior Data Engineer,2025-06-17,4.99,Full Time,Accepted
+PLC00102,ST00136,COMP021,Business Analyst,2026-05-18,10.21,Full Time,Accepted
+PLC00103,ST00139,COMP019,Junior Data Engineer,2026-05-26,7.38,Full Time,Accepted
+PLC00104,ST00140,COMP043,Data Analyst,2023-06-06,5.75,Full Time,Accepted
+PLC00105,ST00142,COMP032,BI Analyst,2025-01-01,12.87,Full Time,Accepted
+PLC00106,ST00143,COMP029,BI Analyst,2024-09-11,13.36,Internship to Full Time,Accepted
+PLC00107,ST00144,COMP056,BI Analyst,2024-05-15,8.8,Internship to Full Time,Accepted
+PLC00108,ST00145,COMP021,BI Analyst,2026-01-13,8.54,Full Time,Accepted
+PLC00109,ST00147,COMP023,Software Engineer,2026-06-27,8.35,Full Time,Accepted
+PLC00110,ST00148,COMP014,Junior Data Engineer,2025-12-02,5.54,Full Time,Accepted
+PLC00111,ST00150,COMP008,Business Analyst,2023-10-18,3.39,Full Time,Accepted
+PLC00112,ST00151,COMP045,Software Engineer,2026-08-24,11.41,Full Time,Accepted
+PLC00113,ST00152,COMP002,Software Engineer,2023-03-11,5.97,Internship to Full Time,Accepted
+PLC00114,ST00153,COMP020,Data Analyst,2023-05-03,6.07,Internship to Full Time,Accepted
+PLC00115,ST00154,COMP032,Data Analyst,2025-02-22,7.23,Full Time,Accepted
+PLC00116,ST00155,COMP015,Junior Data Engineer,2025-02-15,5.03,Internship to Full Time,Accepted
+PLC00117,ST00156,COMP035,Data Analyst,2026-09-14,6.36,Internship to Full Time,Accepted
+PLC00118,ST00157,COMP060,Data Analyst,2026-05-31,11.3,Internship to Full Time,Accepted
+PLC00119,ST00160,COMP060,Business Analyst,2026-04-25,5.38,Full Time,Accepted
+PLC00120,ST00161,COMP022,BI Analyst,2026-06-26,7.77,Internship to Full Time,Accepted
+PLC00121,ST00162,COMP051,BI Analyst,2023-04-27,11.88,Internship to Full Time,Accepted
+PLC00122,ST00163,COMP047,BI Analyst,2024-08-11,12.44,Internship to Full Time,Accepted
+PLC00123,ST00164,COMP028,Data Scientist,2026-03-09,11.46,Internship to Full Time,Accepted
+PLC00124,ST00166,COMP011,Software Engineer,2025-08-15,11.2,Full Time,Accepted
+PLC00125,ST00167,COMP009,Data Analyst,2024-07-28,11.8,Internship to Full Time,Accepted
+PLC00126,ST00168,COMP006,Junior Data Engineer,2026-01-16,6.25,Internship to Full Time,Accepted
+PLC00127,ST00170,COMP003,Data Scientist,2024-07-15,6.98,Internship to Full Time,Accepted
+PLC00128,ST00173,COMP051,BI Analyst,2026-05-30,3.14,Internship to Full Time,Accepted
+PLC00129,ST00174,COMP037,BI Analyst,2024-10-19,12.2,Full Time,Accepted
+PLC00130,ST00175,COMP029,Software Engineer,2023-02-05,7.84,Internship to Full Time,Accepted
+PLC00131,ST00176,COMP003,Business Analyst,2025-09-10,10.02,Full Time,Accepted
+PLC00132,ST00177,COMP027,Data Analyst,2026-04-01,13.33,Internship to Full Time,Accepted
+PLC00133,ST00178,COMP058,Data Scientist,2026-02-03,6.45,Full Time,Accepted
+PLC00134,ST00179,COMP029,Junior Data Engineer,2024-06-12,11.43,Internship to Full Time,Accepted
+PLC00135,ST00182,COMP017,Software Engineer,2023-09-18,5.5,Full Time,Accepted
+PLC00136,ST00185,COMP010,Data Scientist,2026-09-05,3.55,Full Time,Accepted
+PLC00137,ST00186,COMP042,Data Analyst,2024-01-13,10.53,Internship to Full Time,Accepted
+PLC00138,ST00187,COMP038,Business Analyst,2023-03-27,9.09,Full Time,Accepted
+PLC00139,ST00189,COMP004,BI Analyst,2024-06-14,13.73,Full Time,Accepted
+PLC00140,ST00190,COMP044,Business Analyst,2026-01-11,10.9,Full Time,Accepted
+PLC00141,ST00193,COMP023,Data Analyst,2023-06-08,8.58,Full Time,Accepted
+PLC00142,ST00194,COMP033,Data Analyst,2024-04-30,5.24,Internship to Full Time,Accepted
+PLC00143,ST00195,COMP054,BI Analyst,2025-05-01,3.79,Internship to Full Time,Accepted
+PLC00144,ST00196,COMP057,Business Analyst,2023-10-21,3.27,Internship to Full Time,Accepted
+PLC00145,ST00197,COMP022,Software Engineer,2026-08-28,7.12,Internship to Full Time,Accepted
+PLC00146,ST00198,COMP040,Data Analyst,2023-11-25,7.05,Internship to Full Time,Accepted
+PLC00147,ST00199,COMP060,Junior Data Engineer,2026-04-25,3.28,Full Time,Accepted
+PLC00148,ST00200,COMP052,Business Analyst,2025-11-12,10.87,Internship to Full Time,Accepted
+PLC00149,ST00203,COMP014,Software Engineer,2026-04-08,3.36,Full Time,Accepted
+PLC00150,ST00204,COMP025,BI Analyst,2023-06-10,13.51,Full Time,Accepted
+PLC00151,ST00206,COMP037,Data Scientist,2026-03-22,9.93,Internship to Full Time,Accepted
+PLC00152,ST00209,COMP035,BI Analyst,2023-09-06,12.32,Full Time,Accepted
+PLC00153,ST00210,COMP039,Software Engineer,2026-09-12,8.77,Internship to Full Time,Accepted
+PLC00154,ST00211,COMP021,Business Analyst,2024-02-04,12.2,Internship to Full Time,Accepted
+PLC00155,ST00212,COMP059,Junior Data Engineer,2024-11-04,5.67,Internship to Full Time,Accepted
+PLC00156,ST00213,COMP015,Software Engineer,2024-10-06,11.23,Full Time,Accepted
+PLC00157,ST00214,COMP045,Junior Data Engineer,2025-06-30,11.06,Internship to Full Time,Accepted
+PLC00158,ST00216,COMP024,Data Analyst,2024-12-21,9.17,Full Time,Accepted
+PLC00159,ST00217,COMP059,Business Analyst,2026-08-31,8.33,Full Time,Accepted
+PLC00160,ST00218,COMP029,Software Engineer,2024-04-15,9.26,Full Time,Accepted
+PLC00161,ST00219,COMP060,Data Scientist,2024-05-16,11.54,Internship to Full Time,Accepted
+PLC00162,ST00220,COMP044,Data Scientist,2026-09-25,4.52,Internship to Full Time,Accepted
+PLC00163,ST00221,COMP051,Business Analyst,2024-11-30,6.45,Full Time,Accepted
+PLC00164,ST00222,COMP027,Software Engineer,2025-10-31,13.82,Internship to Full Time,Accepted
+PLC00165,ST00223,COMP041,Junior Data Engineer,2024-01-04,12.64,Full Time,Accepted
+PLC00166,ST00224,COMP011,Data Analyst,2025-05-07,5.9,Internship to Full Time,Accepted
+PLC00167,ST00225,COMP048,Data Analyst,2023-09-16,12.56,Internship to Full Time,Accepted
+PLC00168,ST00228,COMP002,BI Analyst,2023-12-08,13.89,Full Time,Accepted
+PLC00169,ST00229,COMP033,Data Scientist,2025-03-05,12.95,Internship to Full Time,Accepted
+PLC00170,ST00231,COMP009,Software Engineer,2026-02-14,5.66,Internship to Full Time,Accepted
+PLC00171,ST00233,COMP008,Business Analyst,2024-11-20,9.51,Full Time,Accepted
+PLC00172,ST00234,COMP047,Data Analyst,2023-06-01,11.13,Internship to Full Time,Accepted
+PLC00173,ST00235,COMP029,Software Engineer,2026-07-15,7.95,Internship to Full Time,Accepted
+PLC00174,ST00237,COMP019,Software Engineer,2023-10-03,11.07,Full Time,Accepted
+PLC00175,ST00240,COMP010,Data Analyst,2026-04-30,9.52,Internship to Full Time,Accepted
+PLC00176,ST00241,COMP025,Business Analyst,2025-06-17,4.94,Internship to Full Time,Accepted
+PLC00177,ST00243,COMP050,Data Analyst,2024-04-20,6.27,Internship to Full Time,Accepted
+PLC00178,ST00244,COMP004,Data Scientist,2025-11-26,12.87,Internship to Full Time,Accepted
+PLC00179,ST00245,COMP019,Business Analyst,2025-02-25,6.5,Full Time,Accepted
+PLC00180,ST00246,COMP010,Data Analyst,2024-03-07,7.74,Internship to Full Time,Accepted
+PLC00181,ST00248,COMP037,Data Scientist,2024-10-05,4.09,Internship to Full Time,Accepted
+PLC00182,ST00249,COMP011,Data Analyst,2024-08-12,6.01,Internship to Full Time,Accepted
+PLC00183,ST00250,COMP015,Junior Data Engineer,2024-08-13,13.33,Internship to Full Time,Accepted
+PLC00184,ST00251,COMP039,Data Analyst,2024-04-19,10.33,Full Time,Accepted
+PLC00185,ST00252,COMP007,Junior Data Engineer,2026-02-04,12.23,Full Time,Accepted
+PLC00186,ST00254,COMP002,Data Scientist,2023-03-23,13.56,Full Time,Accepted
+PLC00187,ST00255,COMP001,Software Engineer,2023-02-22,7.06,Internship to Full Time,Accepted
+PLC00188,ST00257,COMP037,Software Engineer,2025-06-30,8.73,Internship to Full Time,Accepted
+PLC00189,ST00258,COMP019,Data Analyst,2023-09-03,7.89,Internship to Full Time,Accepted
+PLC00190,ST00261,COMP032,Business Analyst,2023-06-27,12.51,Internship to Full Time,Accepted
+PLC00191,ST00262,COMP047,BI Analyst,2023-08-27,13.65,Full Time,Accepted
+PLC00192,ST00263,COMP048,Junior Data Engineer,2023-06-02,6.6,Internship to Full Time,Accepted
+PLC00193,ST00264,COMP018,Software Engineer,2026-07-15,11.09,Full Time,Accepted
+PLC00194,ST00265,COMP046,BI Analyst,2024-10-06,12.81,Full Time,Accepted
+PLC00195,ST00266,COMP028,Data Analyst,2025-12-03,6.49,Full Time,Accepted
+PLC00196,ST00267,COMP041,BI Analyst,2023-01-17,5.71,Internship to Full Time,Accepted
+PLC00197,ST00268,COMP056,Junior Data Engineer,2026-10-11,5.15,Internship to Full Time,Accepted
+PLC00198,ST00269,COMP010,Software Engineer,2024-01-19,11.07,Internship to Full Time,Accepted
+PLC00199,ST00271,COMP009,Junior Data Engineer,2026-07-24,12.63,Full Time,Accepted
+PLC00200,ST00272,COMP001,Software Engineer,2023-05-18,8.4,Full Time,Accepted
+PLC00201,ST00273,COMP046,Junior Data Engineer,2023-03-21,7.6,Internship to Full Time,Accepted
+PLC00202,ST00274,COMP040,Software Engineer,2026-07-16,9.42,Internship to Full Time,Accepted
+PLC00203,ST00276,COMP031,Data Scientist,2026-09-07,13.5,Internship to Full Time,Accepted
+PLC00204,ST00277,COMP054,Junior Data Engineer,2024-08-21,10.35,Internship to Full Time,Accepted
+PLC00205,ST00278,COMP051,BI Analyst,2025-03-14,9.58,Internship to Full Time,Accepted
+PLC00206,ST00279,COMP019,Data Analyst,2024-03-24,4.24,Internship to Full Time,Accepted
+PLC00207,ST00280,COMP027,Software Engineer,2024-10-28,5.72,Internship to Full Time,Accepted
+PLC00208,ST00281,COMP008,Junior Data Engineer,2025-08-09,13.52,Full Time,Accepted
+PLC00209,ST00282,COMP023,BI Analyst,2025-03-26,10.75,Internship to Full Time,Accepted
+PLC00210,ST00283,COMP054,Software Engineer,2026-05-15,7.53,Full Time,Accepted
+PLC00211,ST00284,COMP002,Business Analyst,2024-07-02,8.58,Internship to Full Time,Accepted
+PLC00212,ST00285,COMP004,Data Scientist,2024-10-23,5.88,Internship to Full Time,Accepted
+PLC00213,ST00288,COMP027,Software Engineer,2025-06-24,7.68,Internship to Full Time,Accepted
+PLC00214,ST00289,COMP059,Data Analyst,2024-07-03,8.34,Full Time,Accepted
+PLC00215,ST00290,COMP022,BI Analyst,2023-04-04,6.39,Internship to Full Time,Accepted
+PLC00216,ST00292,COMP015,Data Scientist,2023-12-08,8.9,Full Time,Accepted
+PLC00217,ST00293,COMP040,Data Scientist,2024-11-06,4.42,Full Time,Accepted
+PLC00218,ST00294,COMP047,Data Analyst,2025-02-15,3.99,Internship to Full Time,Accepted
+PLC00219,ST00295,COMP059,Business Analyst,2026-02-06,3.7,Full Time,Accepted
+PLC00220,ST00296,COMP034,Junior Data Engineer,2025-01-11,8.89,Full Time,Accepted
+PLC00221,ST00297,COMP054,Data Scientist,2025-03-21,12.46,Full Time,Accepted
+PLC00222,ST00300,COMP019,Junior Data Engineer,2025-02-04,6.65,Full Time,Accepted
+PLC00223,ST00301,COMP036,BI Analyst,2024-05-24,13.34,Full Time,Accepted
+PLC00224,ST00304,COMP055,Data Analyst,2025-12-14,4.13,Internship to Full Time,Accepted
+PLC00225,ST00305,COMP051,Software Engineer,2023-03-28,4.73,Internship to Full Time,Accepted
+PLC00226,ST00306,COMP002,Junior Data Engineer,2026-07-17,11.5,Full Time,Accepted
+PLC00227,ST00307,COMP003,Business Analyst,2023-09-11,11.94,Internship to Full Time,Accepted
+PLC00228,ST00308,COMP042,Software Engineer,2023-09-26,12.0,Internship to Full Time,Accepted
+PLC00229,ST00309,COMP056,Data Analyst,2023-06-06,3.81,Internship to Full Time,Accepted
+PLC00230,ST00310,COMP002,Data Analyst,2026-01-14,9.65,Full Time,Accepted
+PLC00231,ST00311,COMP007,BI Analyst,2026-04-19,11.72,Full Time,Accepted
+PLC00232,ST00312,COMP054,Data Scientist,2024-10-01,11.63,Internship to Full Time,Accepted
+PLC00233,ST00315,COMP033,BI Analyst,2023-02-17,6.32,Internship to Full Time,Accepted
+PLC00234,ST00316,COMP013,Data Analyst,2024-06-25,13.66,Internship to Full Time,Accepted
+PLC00235,ST00318,COMP025,Business Analyst,2025-05-29,4.02,Internship to Full Time,Accepted
+PLC00236,ST00319,COMP036,Business Analyst,2025-09-16,6.13,Full Time,Accepted
+PLC00237,ST00320,COMP025,Data Analyst,2025-10-14,11.0,Internship to Full Time,Accepted
+PLC00238,ST00322,COMP049,Data Scientist,2023-08-10,7.97,Full Time,Accepted
+PLC00239,ST00324,COMP026,Junior Data Engineer,2025-07-04,7.07,Full Time,Accepted
+PLC00240,ST00325,COMP042,Business Analyst,2024-11-11,4.58,Full Time,Accepted
+PLC00241,ST00326,COMP007,Data Scientist,2023-12-13,5.28,Internship to Full Time,Accepted
+PLC00242,ST00327,COMP038,Junior Data Engineer,2023-06-21,4.55,Internship to Full Time,Accepted
+PLC00243,ST00328,COMP034,BI Analyst,2026-03-06,11.37,Full Time,Accepted
+PLC00244,ST00330,COMP050,Software Engineer,2024-05-31,7.53,Internship to Full Time,Accepted
+PLC00245,ST00331,COMP054,Junior Data Engineer,2023-03-16,6.54,Internship to Full Time,Accepted
+PLC00246,ST00332,COMP056,Data Analyst,2024-07-03,10.59,Internship to Full Time,Accepted
+PLC00247,ST00333,COMP035,Software Engineer,2024-10-03,13.55,Full Time,Accepted
+PLC00248,ST00334,COMP021,Software Engineer,2025-09-16,8.66,Full Time,Accepted
+PLC00249,ST00335,COMP059,Data Analyst,2025-05-21,10.69,Internship to Full Time,Accepted
+PLC00250,ST00339,COMP009,Data Analyst,2023-11-28,8.72,Full Time,Accepted
+PLC00251,ST00340,COMP011,Junior Data Engineer,2025-06-15,12.57,Full Time,Accepted
+PLC00252,ST00341,COMP003,Software Engineer,2025-10-11,4.88,Internship to Full Time,Accepted
+PLC00253,ST00342,COMP009,BI Analyst,2026-01-25,7.6,Full Time,Accepted
+PLC00254,ST00345,COMP019,Data Analyst,2025-06-10,13.95,Internship to Full Time,Accepted
+PLC00255,ST00346,COMP034,Business Analyst,2026-06-13,12.78,Full Time,Accepted
+PLC00256,ST00348,COMP010,Business Analyst,2025-12-07,10.54,Internship to Full Time,Accepted
+PLC00257,ST00350,COMP034,Data Scientist,2024-05-29,8.19,Full Time,Accepted
+PLC00258,ST00351,COMP060,Business Analyst,2023-10-05,4.81,Internship to Full Time,Accepted
+PLC00259,ST00352,COMP001,Business Analyst,2025-05-02,4.97,Internship to Full Time,Accepted
+PLC00260,ST00353,COMP005,Data Analyst,2024-09-30,10.72,Full Time,Accepted
+PLC00261,ST00354,COMP045,Data Analyst,2026-01-06,8.04,Full Time,Accepted
+PLC00262,ST00355,COMP004,Data Scientist,2025-08-17,9.54,Full Time,Accepted
+PLC00263,ST00356,COMP023,BI Analyst,2026-02-19,12.72,Internship to Full Time,Accepted
+PLC00264,ST00357,COMP041,Data Analyst,2024-01-30,6.02,Internship to Full Time,Accepted
+PLC00265,ST00358,COMP038,BI Analyst,2024-09-18,7.04,Internship to Full Time,Accepted
+PLC00266,ST00359,COMP060,Business Analyst,2026-02-23,8.95,Full Time,Accepted
+PLC00267,ST00360,COMP005,Data Scientist,2023-11-09,4.13,Full Time,Accepted
+PLC00268,ST00361,COMP018,Junior Data Engineer,2024-06-22,9.2,Full Time,Accepted
+PLC00269,ST00362,COMP052,Data Scientist,2026-04-17,10.09,Internship to Full Time,Accepted
+PLC00270,ST00363,COMP022,Data Scientist,2026-04-27,9.65,Internship to Full Time,Accepted
+PLC00271,ST00364,COMP014,Junior Data Engineer,2023-01-06,11.62,Full Time,Accepted
+PLC00272,ST00365,COMP006,Data Scientist,2023-10-28,4.58,Internship to Full Time,Accepted
+PLC00273,ST00366,COMP056,Data Analyst,2024-10-24,3.86,Full Time,Accepted
+PLC00274,ST00367,COMP009,Data Scientist,2025-06-19,7.68,Internship to Full Time,Accepted
+PLC00275,ST00368,COMP021,Business Analyst,2025-10-21,11.36,Full Time,Accepted
+PLC00276,ST00369,COMP036,Software Engineer,2025-02-11,11.51,Internship to Full Time,Accepted
+PLC00277,ST00371,COMP023,Business Analyst,2025-12-05,6.49,Full Time,Accepted
+PLC00278,ST00372,COMP057,Data Scientist,2024-03-14,13.51,Internship to Full Time,Accepted
+PLC00279,ST00373,COMP046,Junior Data Engineer,2025-06-14,9.17,Internship to Full Time,Accepted
+PLC00280,ST00377,COMP045,Business Analyst,2023-09-04,9.14,Internship to Full Time,Accepted
+PLC00281,ST00379,COMP042,Business Analyst,2023-12-31,3.28,Internship to Full Time,Accepted
+PLC00282,ST00380,COMP055,Software Engineer,2026-10-04,6.81,Internship to Full Time,Accepted
+PLC00283,ST00381,COMP014,Data Scientist,2026-02-20,12.64,Full Time,Accepted
+PLC00284,ST00382,COMP025,Business Analyst,2024-01-02,13.27,Full Time,Accepted
+PLC00285,ST00383,COMP013,Software Engineer,2025-01-09,8.79,Full Time,Accepted
+PLC00286,ST00384,COMP038,Business Analyst,2024-11-03,4.04,Internship to Full Time,Accepted
+PLC00287,ST00385,COMP059,Business Analyst,2025-10-26,13.14,Internship to Full Time,Accepted
+PLC00288,ST00387,COMP003,BI Analyst,2024-07-17,10.06,Internship to Full Time,Accepted
+PLC00289,ST00388,COMP003,BI Analyst,2024-06-02,6.02,Full Time,Accepted
+PLC00290,ST00389,COMP037,Data Analyst,2025-08-22,13.97,Internship to Full Time,Accepted
+PLC00291,ST00390,COMP032,Junior Data Engineer,2025-08-27,11.25,Full Time,Accepted
+PLC00292,ST00391,COMP003,Business Analyst,2023-03-01,9.74,Full Time,Accepted
+PLC00293,ST00392,COMP046,BI Analyst,2023-12-29,12.58,Full Time,Accepted
+PLC00294,ST00393,COMP006,Software Engineer,2023-09-02,3.62,Full Time,Accepted
+PLC00295,ST00394,COMP021,Data Analyst,2026-01-19,6.05,Full Time,Accepted
+PLC00296,ST00396,COMP042,Data Scientist,2023-02-04,6.66,Internship to Full Time,Accepted
+PLC00297,ST00397,COMP058,BI Analyst,2023-12-13,12.96,Internship to Full Time,Accepted
+PLC00298,ST00399,COMP034,Data Analyst,2026-09-22,7.43,Full Time,Accepted
+PLC00299,ST00400,COMP005,Junior Data Engineer,2025-10-24,4.62,Internship to Full Time,Accepted
+PLC00300,ST00401,COMP006,Junior Data Engineer,2025-06-27,3.49,Full Time,Accepted
+PLC00301,ST00402,COMP045,Data Scientist,2025-04-18,4.9,Full Time,Accepted
+PLC00302,ST00403,COMP020,Business Analyst,2026-02-22,6.86,Internship to Full Time,Accepted
+PLC00303,ST00404,COMP030,Data Scientist,2023-06-26,9.23,Internship to Full Time,Accepted
+PLC00304,ST00407,COMP006,Data Analyst,2023-07-05,5.01,Full Time,Accepted
+PLC00305,ST00409,COMP012,Business Analyst,2026-04-25,9.89,Full Time,Accepted
+PLC00306,ST00410,COMP050,Junior Data Engineer,2023-01-22,5.39,Internship to Full Time,Accepted
+PLC00307,ST00411,COMP030,Data Analyst,2024-05-20,6.39,Full Time,Accepted
+PLC00308,ST00414,COMP048,BI Analyst,2023-09-29,6.42,Internship to Full Time,Accepted
+PLC00309,ST00415,COMP046,Business Analyst,2023-12-31,6.07,Internship to Full Time,Accepted
+PLC00310,ST00416,COMP027,Junior Data Engineer,2024-01-21,6.0,Full Time,Accepted
+PLC00311,ST00419,COMP012,Business Analyst,2024-06-15,10.67,Internship to Full Time,Accepted
+PLC00312,ST00420,COMP006,Software Engineer,2024-12-28,9.37,Internship to Full Time,Accepted
+PLC00313,ST00421,COMP050,BI Analyst,2025-12-07,7.95,Full Time,Accepted
+PLC00314,ST00422,COMP003,Data Scientist,2025-02-28,4.71,Full Time,Accepted
+PLC00315,ST00423,COMP045,Software Engineer,2024-12-11,10.11,Internship to Full Time,Accepted
+PLC00316,ST00424,COMP014,Business Analyst,2025-10-28,9.07,Internship to Full Time,Accepted
+PLC00317,ST00425,COMP006,Data Scientist,2024-03-07,5.84,Internship to Full Time,Accepted
+PLC00318,ST00426,COMP017,Data Analyst,2023-08-25,8.69,Full Time,Accepted
+PLC00319,ST00427,COMP031,Junior Data Engineer,2025-08-14,9.46,Internship to Full Time,Accepted
+PLC00320,ST00428,COMP037,Software Engineer,2026-09-10,9.47,Full Time,Accepted
+PLC00321,ST00429,COMP021,BI Analyst,2023-08-03,9.92,Full Time,Accepted
+PLC00322,ST00431,COMP011,Software Engineer,2025-08-31,6.68,Full Time,Accepted
+PLC00323,ST00432,COMP012,Business Analyst,2024-09-19,4.79,Full Time,Accepted
+PLC00324,ST00434,COMP049,Data Analyst,2025-06-18,11.9,Internship to Full Time,Accepted
+PLC00325,ST00435,COMP038,Data Scientist,2025-06-09,11.04,Internship to Full Time,Accepted
+PLC00326,ST00436,COMP054,Junior Data Engineer,2024-06-01,10.96,Internship to Full Time,Accepted
+PLC00327,ST00437,COMP031,BI Analyst,2025-04-01,6.3,Full Time,Accepted
+PLC00328,ST00438,COMP049,Data Scientist,2023-08-09,7.63,Internship to Full Time,Accepted
+PLC00329,ST00439,COMP037,Software Engineer,2026-04-29,3.31,Full Time,Accepted
+PLC00330,ST00440,COMP060,Business Analyst,2026-05-07,13.62,Full Time,Accepted
+PLC00331,ST00441,COMP037,Junior Data Engineer,2023-09-24,10.3,Full Time,Accepted
+PLC00332,ST00442,COMP006,Business Analyst,2023-10-17,11.82,Internship to Full Time,Accepted
+PLC00333,ST00444,COMP026,Junior Data Engineer,2025-08-01,3.01,Full Time,Accepted
+PLC00334,ST00445,COMP013,Junior Data Engineer,2024-09-09,6.38,Full Time,Accepted
+PLC00335,ST00446,COMP016,Junior Data Engineer,2025-06-13,3.99,Full Time,Accepted
+PLC00336,ST00447,COMP010,BI Analyst,2026-02-11,12.3,Internship to Full Time,Accepted
+PLC00337,ST00448,COMP001,Software Engineer,2023-11-23,6.79,Internship to Full Time,Accepted
+PLC00338,ST00449,COMP036,BI Analyst,2025-03-18,10.69,Internship to Full Time,Accepted
+PLC00339,ST00453,COMP043,Software Engineer,2025-08-07,10.77,Full Time,Accepted
+PLC00340,ST00454,COMP025,Junior Data Engineer,2024-10-13,11.39,Full Time,Accepted
+PLC00341,ST00456,COMP026,Business Analyst,2024-08-02,12.02,Internship to Full Time,Accepted
+PLC00342,ST00457,COMP039,Software Engineer,2025-12-29,3.79,Internship to Full Time,Accepted
+PLC00343,ST00458,COMP043,BI Analyst,2026-04-16,3.3,Full Time,Accepted
+PLC00344,ST00459,COMP050,Junior Data Engineer,2025-01-25,6.99,Full Time,Accepted
+PLC00345,ST00460,COMP040,Data Scientist,2025-03-26,13.06,Full Time,Accepted
+PLC00346,ST00461,COMP009,Software Engineer,2024-01-20,3.49,Internship to Full Time,Accepted
+PLC00347,ST00462,COMP028,Data Analyst,2024-11-26,7.22,Full Time,Accepted
+PLC00348,ST00463,COMP028,Junior Data Engineer,2024-08-06,6.42,Internship to Full Time,Accepted
+PLC00349,ST00464,COMP003,Business Analyst,2025-05-13,4.97,Internship to Full Time,Accepted
+PLC00350,ST00465,COMP044,Data Scientist,2023-08-06,8.11,Full Time,Accepted
+PLC00351,ST00466,COMP023,BI Analyst,2023-07-27,10.21,Internship to Full Time,Accepted
+PLC00352,ST00467,COMP052,Data Analyst,2023-11-26,6.51,Internship to Full Time,Accepted
+PLC00353,ST00468,COMP044,Software Engineer,2023-01-24,8.35,Internship to Full Time,Accepted
+PLC00354,ST00470,COMP028,Data Analyst,2024-09-12,7.67,Full Time,Accepted
+PLC00355,ST00471,COMP039,Software Engineer,2025-10-25,7.1,Internship to Full Time,Accepted
+PLC00356,ST00472,COMP046,Business Analyst,2025-12-31,13.69,Full Time,Accepted
+PLC00357,ST00474,COMP051,Junior Data Engineer,2025-05-18,8.85,Internship to Full Time,Accepted
+PLC00358,ST00477,COMP056,BI Analyst,2023-06-13,4.65,Internship to Full Time,Accepted
+PLC00359,ST00478,COMP060,BI Analyst,2026-04-23,5.84,Internship to Full Time,Accepted
+PLC00360,ST00479,COMP028,Data Analyst,2025-08-09,6.1,Full Time,Accepted
+PLC00361,ST00482,COMP056,Software Engineer,2025-07-31,7.04,Internship to Full Time,Accepted
+PLC00362,ST00483,COMP017,Software Engineer,2024-11-22,10.42,Full Time,Accepted
+PLC00363,ST00484,COMP035,Business Analyst,2024-01-02,6.23,Internship to Full Time,Accepted
+PLC00364,ST00487,COMP002,Software Engineer,2024-10-26,6.27,Full Time,Accepted
+PLC00365,ST00488,COMP039,Data Analyst,2025-01-01,11.05,Internship to Full Time,Accepted
+PLC00366,ST00489,COMP016,Junior Data Engineer,2023-06-22,8.88,Full Time,Accepted
+PLC00367,ST00490,COMP047,Junior Data Engineer,2026-07-20,8.43,Internship to Full Time,Accepted
+PLC00368,ST00491,COMP023,Software Engineer,2026-06-18,5.69,Internship to Full Time,Accepted
+PLC00369,ST00492,COMP003,Data Analyst,2024-10-30,7.1,Full Time,Accepted
+PLC00370,ST00493,COMP039,BI Analyst,2026-07-30,11.94,Full Time,Accepted
+PLC00371,ST00494,COMP025,Data Scientist,2023-06-11,6.72,Internship to Full Time,Accepted
+PLC00372,ST00495,COMP028,Software Engineer,2023-02-15,5.02,Internship to Full Time,Accepted
+PLC00373,ST00496,COMP047,BI Analyst,2023-06-12,12.21,Internship to Full Time,Accepted
+PLC00374,ST00497,COMP008,Junior Data Engineer,2026-03-15,5.87,Internship to Full Time,Accepted
+PLC00375,ST00500,COMP040,Data Scientist,2026-01-09,12.4,Full Time,Accepted
+PLC00376,ST00501,COMP045,Data Analyst,2025-02-05,9.31,Full Time,Accepted
+PLC00377,ST00504,COMP049,Software Engineer,2024-07-16,11.22,Full Time,Accepted
+PLC00378,ST00505,COMP018,Data Scientist,2026-10-07,3.5,Internship to Full Time,Accepted
+PLC00379,ST00506,COMP059,Junior Data Engineer,2026-10-20,6.13,Full Time,Accepted
+PLC00380,ST00507,COMP027,Junior Data Engineer,2023-02-08,11.6,Full Time,Accepted
+PLC00381,ST00508,COMP018,Business Analyst,2025-08-05,9.59,Internship to Full Time,Accepted
+PLC00382,ST00509,COMP007,Junior Data Engineer,2024-04-05,3.2,Internship to Full Time,Accepted
+PLC00383,ST00511,COMP015,Data Analyst,2026-06-06,6.17,Internship to Full Time,Accepted
+PLC00384,ST00512,COMP038,Software Engineer,2026-07-24,9.55,Internship to Full Time,Accepted
+PLC00385,ST00513,COMP031,Data Scientist,2023-01-26,6.77,Internship to Full Time,Accepted
+PLC00386,ST00514,COMP023,Software Engineer,2023-11-07,8.08,Internship to Full Time,Accepted
+PLC00387,ST00515,COMP014,Data Scientist,2023-12-15,10.4,Internship to Full Time,Accepted
+PLC00388,ST00516,COMP026,Data Analyst,2026-09-15,12.38,Full Time,Accepted
+PLC00389,ST00518,COMP041,Software Engineer,2026-02-23,13.83,Full Time,Accepted
+PLC00390,ST00521,COMP014,BI Analyst,2025-12-20,7.06,Internship to Full Time,Accepted
+PLC00391,ST00522,COMP049,Business Analyst,2025-07-13,10.42,Full Time,Accepted
+PLC00392,ST00523,COMP010,Data Scientist,2026-04-12,4.83,Internship to Full Time,Accepted
+PLC00393,ST00524,COMP037,Software Engineer,2025-04-30,13.95,Full Time,Accepted
+PLC00394,ST00527,COMP049,Business Analyst,2026-02-13,11.18,Full Time,Accepted
+PLC00395,ST00529,COMP025,Data Scientist,2023-09-27,7.16,Full Time,Accepted
+PLC00396,ST00530,COMP007,Software Engineer,2024-03-23,5.32,Full Time,Accepted
+PLC00397,ST00531,COMP037,Business Analyst,2024-01-01,12.51,Internship to Full Time,Accepted
+PLC00398,ST00532,COMP036,Software Engineer,2024-12-21,11.26,Internship to Full Time,Accepted
+PLC00399,ST00534,COMP058,Data Scientist,2024-07-25,6.51,Internship to Full Time,Accepted
+PLC00400,ST00535,COMP041,Data Analyst,2026-09-22,12.73,Internship to Full Time,Accepted
+PLC00401,ST00536,COMP033,Data Scientist,2025-12-26,7.31,Internship to Full Time,Accepted
+PLC00402,ST00537,COMP032,Software Engineer,2024-08-09,12.09,Internship to Full Time,Accepted
+PLC00403,ST00538,COMP011,Junior Data Engineer,2025-03-30,6.17,Internship to Full Time,Accepted
+PLC00404,ST00539,COMP049,Software Engineer,2026-09-05,4.89,Full Time,Accepted
+PLC00405,ST00540,COMP025,Data Scientist,2026-08-30,7.6,Internship to Full Time,Accepted
+PLC00406,ST00541,COMP027,Junior Data Engineer,2026-07-27,3.32,Full Time,Accepted
+PLC00407,ST00543,COMP009,Data Scientist,2026-06-23,8.54,Full Time,Accepted
+PLC00408,ST00544,COMP039,Data Scientist,2025-04-17,13.4,Internship to Full Time,Accepted
+PLC00409,ST00545,COMP040,Junior Data Engineer,2023-12-07,9.26,Internship to Full Time,Accepted
+PLC00410,ST00546,COMP044,Data Analyst,2025-01-28,3.25,Internship to Full Time,Accepted
+PLC00411,ST00547,COMP036,Data Scientist,2024-01-31,12.35,Full Time,Accepted
+PLC00412,ST00548,COMP030,Business Analyst,2024-05-05,4.93,Full Time,Accepted
+PLC00413,ST00549,COMP021,Junior Data Engineer,2024-08-23,3.71,Full Time,Accepted
+PLC00414,ST00550,COMP014,Data Scientist,2025-08-02,8.05,Internship to Full Time,Accepted
+PLC00415,ST00551,COMP016,Junior Data Engineer,2025-08-02,8.5,Full Time,Accepted
+PLC00416,ST00553,COMP052,Data Scientist,2024-11-09,12.59,Full Time,Accepted
+PLC00417,ST00554,COMP016,Software Engineer,2023-05-24,3.08,Full Time,Accepted
+PLC00418,ST00556,COMP044,BI Analyst,2025-04-12,12.54,Internship to Full Time,Accepted
+PLC00419,ST00557,COMP056,Software Engineer,2023-05-25,11.61,Internship to Full Time,Accepted
+PLC00420,ST00558,COMP057,BI Analyst,2026-01-05,4.33,Full Time,Accepted
+PLC00421,ST00560,COMP029,Software Engineer,2023-05-03,6.22,Internship to Full Time,Accepted
+PLC00422,ST00561,COMP054,BI Analyst,2023-03-23,7.0,Internship to Full Time,Accepted
+PLC00423,ST00562,COMP028,Data Analyst,2023-08-01,4.61,Internship to Full Time,Accepted
+PLC00424,ST00564,COMP049,Data Scientist,2023-08-17,10.94,Internship to Full Time,Accepted
+PLC00425,ST00565,COMP027,BI Analyst,2024-11-26,4.56,Full Time,Accepted
+PLC00426,ST00566,COMP051,Software Engineer,2024-03-06,5.91,Internship to Full Time,Accepted
+PLC00427,ST00567,COMP042,BI Analyst,2023-06-01,8.04,Internship to Full Time,Accepted
+PLC00428,ST00569,COMP049,Junior Data Engineer,2024-06-16,6.77,Internship to Full Time,Accepted
+PLC00429,ST00570,COMP022,Software Engineer,2024-06-12,9.25,Full Time,Accepted
+PLC00430,ST00572,COMP049,Junior Data Engineer,2023-10-31,8.74,Full Time,Accepted
+PLC00431,ST00574,COMP015,Business Analyst,2026-02-28,6.99,Internship to Full Time,Accepted
+PLC00432,ST00575,COMP020,BI Analyst,2023-11-21,9.24,Internship to Full Time,Accepted
+PLC00433,ST00577,COMP031,BI Analyst,2025-06-19,10.41,Full Time,Accepted
+PLC00434,ST00578,COMP048,BI Analyst,2023-09-21,4.61,Internship to Full Time,Accepted
+PLC00435,ST00579,COMP055,Software Engineer,2024-06-10,10.0,Full Time,Accepted
+PLC00436,ST00580,COMP055,Junior Data Engineer,2026-04-09,6.33,Full Time,Accepted
+PLC00437,ST00581,COMP017,Business Analyst,2025-11-07,11.2,Internship to Full Time,Accepted
+PLC00438,ST00582,COMP031,Data Scientist,2023-12-15,13.7,Full Time,Accepted
+PLC00439,ST00583,COMP038,Data Scientist,2024-10-05,8.76,Internship to Full Time,Accepted
+PLC00440,ST00584,COMP056,Software Engineer,2026-08-20,4.86,Internship to Full Time,Accepted
+PLC00441,ST00585,COMP012,Software Engineer,2025-02-16,3.16,Full Time,Accepted
+PLC00442,ST00586,COMP022,Junior Data Engineer,2024-09-25,5.27,Full Time,Accepted
+PLC00443,ST00588,COMP018,Data Scientist,2023-09-02,10.15,Internship to Full Time,Accepted
+PLC00444,ST00589,COMP032,Software Engineer,2026-03-12,13.04,Full Time,Accepted
+PLC00445,ST00592,COMP054,BI Analyst,2025-12-09,12.88,Full Time,Accepted
+PLC00446,ST00593,COMP024,BI Analyst,2023-03-09,7.38,Full Time,Accepted
+PLC00447,ST00594,COMP022,Data Scientist,2023-05-18,5.99,Full Time,Accepted
+PLC00448,ST00596,COMP052,Data Analyst,2025-07-03,9.23,Full Time,Accepted
+PLC00449,ST00597,COMP016,Business Analyst,2024-01-10,10.59,Full Time,Accepted
+PLC00450,ST00598,COMP015,BI Analyst,2025-07-23,4.95,Internship to Full Time,Accepted
+PLC00451,ST00599,COMP036,Business Analyst,2023-07-07,11.17,Full Time,Accepted
+PLC00452,ST00600,COMP058,Junior Data Engineer,2025-12-06,6.33,Full Time,Accepted
+PLC00453,ST00601,COMP015,Junior Data Engineer,2026-04-14,11.38,Internship to Full Time,Accepted
+PLC00454,ST00602,COMP030,Data Analyst,2026-01-04,12.7,Full Time,Accepted
+PLC00455,ST00603,COMP021,BI Analyst,2023-05-30,5.16,Full Time,Accepted
+PLC00456,ST00604,COMP029,Data Analyst,2025-09-01,5.17,Full Time,Accepted
+PLC00457,ST00605,COMP039,Software Engineer,2024-09-06,9.26,Internship to Full Time,Accepted
+PLC00458,ST00606,COMP056,Data Analyst,2025-06-25,11.55,Full Time,Accepted
+PLC00459,ST00609,COMP038,BI Analyst,2026-06-12,11.31,Full Time,Accepted
+PLC00460,ST00610,COMP017,Software Engineer,2026-05-16,5.98,Full Time,Accepted
+PLC00461,ST00612,COMP022,Data Scientist,2025-09-16,8.66,Internship to Full Time,Accepted
+PLC00462,ST00613,COMP017,Data Scientist,2024-05-24,6.75,Internship to Full Time,Accepted
+PLC00463,ST00614,COMP041,Software Engineer,2023-08-17,13.75,Full Time,Accepted
+PLC00464,ST00616,COMP032,Data Analyst,2024-10-15,12.83,Internship to Full Time,Accepted
+PLC00465,ST00617,COMP032,Junior Data Engineer,2024-01-02,3.72,Internship to Full Time,Accepted
+PLC00466,ST00618,COMP044,Business Analyst,2023-07-13,13.18,Internship to Full Time,Accepted
+PLC00467,ST00619,COMP022,BI Analyst,2026-01-08,12.05,Full Time,Accepted
+PLC00468,ST00621,COMP050,Data Analyst,2024-04-19,5.35,Internship to Full Time,Accepted
+PLC00469,ST00622,COMP021,Data Scientist,2025-08-24,4.13,Internship to Full Time,Accepted
+PLC00470,ST00623,COMP060,Data Scientist,2024-03-06,9.28,Full Time,Accepted
+PLC00471,ST00625,COMP021,Junior Data Engineer,2024-01-29,11.43,Full Time,Accepted
+PLC00472,ST00626,COMP055,Junior Data Engineer,2026-06-03,10.29,Internship to Full Time,Accepted
+PLC00473,ST00627,COMP034,Software Engineer,2026-08-31,9.55,Internship to Full Time,Accepted
+PLC00474,ST00628,COMP050,BI Analyst,2024-07-05,5.52,Internship to Full Time,Accepted
+PLC00475,ST00629,COMP031,Business Analyst,2025-01-29,4.59,Internship to Full Time,Accepted
+PLC00476,ST00630,COMP047,Business Analyst,2024-10-07,7.95,Internship to Full Time,Accepted
+PLC00477,ST00631,COMP037,Software Engineer,2025-05-04,3.06,Internship to Full Time,Accepted
+PLC00478,ST00632,COMP004,Software Engineer,2024-12-25,10.1,Full Time,Accepted
+PLC00479,ST00633,COMP030,Business Analyst,2023-02-09,12.0,Full Time,Accepted
+PLC00480,ST00635,COMP014,BI Analyst,2024-06-08,6.24,Internship to Full Time,Accepted
+PLC00481,ST00638,COMP002,Business Analyst,2025-05-25,11.7,Internship to Full Time,Accepted
+PLC00482,ST00639,COMP036,Data Scientist,2024-02-13,11.77,Internship to Full Time,Accepted
+PLC00483,ST00641,COMP055,Business Analyst,2023-08-07,3.82,Full Time,Accepted
+PLC00484,ST00643,COMP021,BI Analyst,2025-09-09,13.36,Internship to Full Time,Accepted
+PLC00485,ST00644,COMP003,BI Analyst,2025-03-09,10.57,Internship to Full Time,Accepted
+PLC00486,ST00646,COMP016,Business Analyst,2026-05-27,9.45,Full Time,Accepted
+PLC00487,ST00647,COMP007,Data Analyst,2026-08-02,6.77,Internship to Full Time,Accepted
+PLC00488,ST00648,COMP029,Business Analyst,2023-08-16,8.19,Full Time,Accepted
+PLC00489,ST00649,COMP021,BI Analyst,2025-04-27,12.07,Full Time,Accepted
+PLC00490,ST00651,COMP038,Business Analyst,2026-03-21,5.2,Full Time,Accepted
+PLC00491,ST00654,COMP029,Junior Data Engineer,2024-11-02,9.3,Internship to Full Time,Accepted
+PLC00492,ST00655,COMP036,Data Scientist,2024-08-19,10.59,Full Time,Accepted
+PLC00493,ST00659,COMP050,Data Analyst,2024-10-04,13.53,Internship to Full Time,Accepted
+PLC00494,ST00660,COMP058,Software Engineer,2024-03-15,5.03,Internship to Full Time,Accepted
+PLC00495,ST00661,COMP015,Software Engineer,2025-01-11,6.66,Internship to Full Time,Accepted
+PLC00496,ST00662,COMP017,Data Scientist,2023-02-17,4.54,Internship to Full Time,Accepted
+PLC00497,ST00663,COMP028,Software Engineer,2025-09-23,11.78,Full Time,Accepted
+PLC00498,ST00664,COMP059,Data Scientist,2025-02-03,3.18,Internship to Full Time,Accepted
+PLC00499,ST00665,COMP003,Data Scientist,2024-10-31,11.69,Internship to Full Time,Accepted
+PLC00500,ST00667,COMP019,Data Scientist,2024-11-14,9.98,Full Time,Accepted
+PLC00501,ST00668,COMP037,Data Analyst,2026-02-17,11.59,Full Time,Accepted
+PLC00502,ST00669,COMP052,Data Scientist,2023-06-29,9.31,Internship to Full Time,Accepted
+PLC00503,ST00670,COMP040,BI Analyst,2024-01-26,11.27,Internship to Full Time,Accepted
+PLC00504,ST00671,COMP053,Business Analyst,2025-08-11,7.96,Full Time,Accepted
+PLC00505,ST00672,COMP042,Business Analyst,2023-05-30,5.0,Internship to Full Time,Accepted
+PLC00506,ST00674,COMP030,Data Scientist,2025-06-04,12.78,Internship to Full Time,Accepted
+PLC00507,ST00675,COMP037,Business Analyst,2023-01-14,9.86,Internship to Full Time,Accepted
+PLC00508,ST00677,COMP002,Data Analyst,2024-04-06,6.55,Full Time,Accepted
+PLC00509,ST00678,COMP017,Junior Data Engineer,2026-04-11,10.42,Internship to Full Time,Accepted
+PLC00510,ST00679,COMP035,Software Engineer,2026-08-31,10.32,Internship to Full Time,Accepted
+PLC00511,ST00681,COMP058,BI Analyst,2026-03-27,4.68,Full Time,Accepted
+PLC00512,ST00682,COMP014,Business Analyst,2024-01-07,4.11,Full Time,Accepted
+PLC00513,ST00684,COMP050,Junior Data Engineer,2026-01-11,6.83,Full Time,Accepted
+PLC00514,ST00685,COMP021,Business Analyst,2024-04-16,10.24,Full Time,Accepted
+PLC00515,ST00686,COMP020,Junior Data Engineer,2025-05-18,13.9,Full Time,Accepted
+PLC00516,ST00688,COMP060,Junior Data Engineer,2024-12-28,3.3,Internship to Full Time,Accepted
+PLC00517,ST00689,COMP008,Software Engineer,2023-02-22,7.88,Full Time,Accepted
+PLC00518,ST00691,COMP025,Data Analyst,2025-07-04,7.82,Full Time,Accepted
+PLC00519,ST00693,COMP014,Software Engineer,2026-04-23,11.96,Full Time,Accepted
+PLC00520,ST00694,COMP012,Data Scientist,2026-03-30,10.97,Full Time,Accepted
+PLC00521,ST00695,COMP011,Junior Data Engineer,2023-09-04,13.35,Internship to Full Time,Accepted
+PLC00522,ST00696,COMP048,Business Analyst,2025-04-30,5.1,Full Time,Accepted
+PLC00523,ST00697,COMP052,Data Scientist,2025-01-06,8.26,Full Time,Accepted
+PLC00524,ST00698,COMP030,Data Analyst,2023-01-15,7.18,Internship to Full Time,Accepted
+PLC00525,ST00699,COMP026,Data Analyst,2024-12-27,6.96,Internship to Full Time,Accepted
+PLC00526,ST00701,COMP054,Data Analyst,2025-06-08,13.41,Internship to Full Time,Accepted
+PLC00527,ST00703,COMP015,BI Analyst,2023-06-22,10.15,Internship to Full Time,Accepted
+PLC00528,ST00704,COMP057,Software Engineer,2023-02-02,13.46,Internship to Full Time,Accepted
+PLC00529,ST00705,COMP047,BI Analyst,2024-10-24,3.5,Full Time,Accepted
+PLC00530,ST00706,COMP012,Data Scientist,2023-01-19,4.41,Full Time,Accepted
+PLC00531,ST00707,COMP009,BI Analyst,2025-08-20,11.39,Full Time,Accepted
+PLC00532,ST00710,COMP039,Junior Data Engineer,2026-09-15,6.22,Internship to Full Time,Accepted
+PLC00533,ST00711,COMP053,Junior Data Engineer,2025-05-08,4.9,Full Time,Accepted
+PLC00534,ST00713,COMP048,BI Analyst,2024-01-07,7.02,Full Time,Accepted
+PLC00535,ST00714,COMP051,Junior Data Engineer,2023-03-03,8.47,Internship to Full Time,Accepted
+PLC00536,ST00716,COMP026,BI Analyst,2025-02-03,13.0,Internship to Full Time,Accepted
+PLC00537,ST00717,COMP040,Business Analyst,2023-02-28,11.62,Internship to Full Time,Accepted
+PLC00538,ST00718,COMP002,Software Engineer,2023-03-12,11.08,Full Time,Accepted
+PLC00539,ST00719,COMP059,Software Engineer,2023-04-06,8.93,Full Time,Accepted
+PLC00540,ST00720,COMP011,Data Analyst,2023-01-31,6.84,Full Time,Accepted
+PLC00541,ST00721,COMP006,Software Engineer,2023-05-16,4.24,Internship to Full Time,Accepted
+PLC00542,ST00723,COMP030,Software Engineer,2026-01-04,7.84,Full Time,Accepted
+PLC00543,ST00724,COMP020,Software Engineer,2025-08-19,12.9,Internship to Full Time,Accepted
+PLC00544,ST00725,COMP009,Business Analyst,2026-09-06,8.94,Full Time,Accepted
+PLC00545,ST00726,COMP031,Software Engineer,2026-03-15,5.16,Full Time,Accepted
+PLC00546,ST00727,COMP033,Junior Data Engineer,2023-10-20,5.48,Full Time,Accepted
+PLC00547,ST00733,COMP048,Data Analyst,2025-04-07,6.11,Full Time,Accepted
+PLC00548,ST00734,COMP016,Junior Data Engineer,2024-05-28,5.03,Internship to Full Time,Accepted
+PLC00549,ST00735,COMP022,BI Analyst,2025-08-04,10.35,Internship to Full Time,Accepted
+PLC00550,ST00736,COMP049,Junior Data Engineer,2024-11-02,7.64,Full Time,Accepted
+PLC00551,ST00737,COMP038,BI Analyst,2023-03-12,11.23,Internship to Full Time,Accepted
+PLC00552,ST00738,COMP041,Data Analyst,2024-02-10,13.77,Full Time,Accepted
+PLC00553,ST00739,COMP010,BI Analyst,2023-03-11,12.19,Full Time,Accepted
+PLC00554,ST00741,COMP011,Software Engineer,2024-10-22,3.13,Internship to Full Time,Accepted
+PLC00555,ST00742,COMP031,Business Analyst,2024-01-20,9.92,Internship to Full Time,Accepted
+PLC00556,ST00743,COMP029,Junior Data Engineer,2025-07-17,9.83,Internship to Full Time,Accepted
+PLC00557,ST00744,COMP008,BI Analyst,2024-07-26,10.21,Internship to Full Time,Accepted
+PLC00558,ST00745,COMP022,Junior Data Engineer,2024-06-06,6.75,Internship to Full Time,Accepted
+PLC00559,ST00746,COMP050,Data Scientist,2025-07-23,10.3,Internship to Full Time,Accepted
+PLC00560,ST00747,COMP049,Data Scientist,2024-06-22,3.69,Internship to Full Time,Accepted
+PLC00561,ST00748,COMP028,BI Analyst,2023-02-22,13.61,Full Time,Accepted
+PLC00562,ST00751,COMP007,Junior Data Engineer,2025-07-25,12.13,Full Time,Accepted
+PLC00563,ST00752,COMP036,BI Analyst,2024-08-28,4.39,Internship to Full Time,Accepted
+PLC00564,ST00753,COMP020,Software Engineer,2025-06-12,9.09,Full Time,Accepted
+PLC00565,ST00755,COMP056,Data Scientist,2024-01-09,7.37,Full Time,Accepted
+PLC00566,ST00756,COMP010,BI Analyst,2024-03-30,11.54,Full Time,Accepted
+PLC00567,ST00758,COMP047,BI Analyst,2024-12-25,8.78,Full Time,Accepted
+PLC00568,ST00759,COMP037,Data Scientist,2025-12-11,3.52,Internship to Full Time,Accepted
+PLC00569,ST00760,COMP035,Junior Data Engineer,2025-12-23,4.83,Full Time,Accepted
+PLC00570,ST00761,COMP007,BI Analyst,2023-12-06,9.98,Full Time,Accepted
+PLC00571,ST00764,COMP054,BI Analyst,2023-11-08,8.95,Internship to Full Time,Accepted
+PLC00572,ST00765,COMP055,Junior Data Engineer,2024-07-24,3.54,Internship to Full Time,Accepted
+PLC00573,ST00768,COMP019,Software Engineer,2025-12-04,13.69,Internship to Full Time,Accepted
+PLC00574,ST00769,COMP030,Business Analyst,2023-10-06,10.94,Internship to Full Time,Accepted
+PLC00575,ST00770,COMP001,Data Analyst,2024-05-29,10.79,Internship to Full Time,Accepted
+PLC00576,ST00771,COMP014,BI Analyst,2026-06-09,9.53,Full Time,Accepted
+PLC00577,ST00772,COMP004,Software Engineer,2023-10-15,4.58,Full Time,Accepted
+PLC00578,ST00773,COMP049,Junior Data Engineer,2025-03-12,11.65,Internship to Full Time,Accepted
+PLC00579,ST00774,COMP026,Data Scientist,2024-02-01,5.73,Internship to Full Time,Accepted
+PLC00580,ST00775,COMP005,Junior Data Engineer,2024-07-19,4.54,Internship to Full Time,Accepted
+PLC00581,ST00776,COMP008,BI Analyst,2026-04-14,13.39,Full Time,Accepted
+PLC00582,ST00778,COMP014,Software Engineer,2023-10-19,10.39,Internship to Full Time,Accepted
+PLC00583,ST00779,COMP001,BI Analyst,2023-08-29,8.73,Full Time,Accepted
+PLC00584,ST00780,COMP050,BI Analyst,2026-05-10,8.18,Internship to Full Time,Accepted
+PLC00585,ST00781,COMP020,Data Analyst,2026-01-13,11.17,Internship to Full Time,Accepted
+PLC00586,ST00782,COMP010,Data Analyst,2024-11-30,12.63,Full Time,Accepted
+PLC00587,ST00785,COMP025,Business Analyst,2023-08-20,9.9,Internship to Full Time,Accepted
+PLC00588,ST00786,COMP038,Junior Data Engineer,2025-09-24,11.34,Full Time,Accepted
+PLC00589,ST00787,COMP034,Data Analyst,2023-07-01,13.97,Internship to Full Time,Accepted
+PLC00590,ST00789,COMP016,BI Analyst,2025-10-09,12.2,Internship to Full Time,Accepted
+PLC00591,ST00790,COMP027,Data Analyst,2026-07-30,4.16,Internship to Full Time,Accepted
+PLC00592,ST00791,COMP054,BI Analyst,2024-07-18,12.95,Internship to Full Time,Accepted
+PLC00593,ST00792,COMP027,BI Analyst,2024-05-29,13.81,Full Time,Accepted
+PLC00594,ST00793,COMP001,Data Analyst,2025-09-21,5.67,Internship to Full Time,Accepted
+PLC00595,ST00794,COMP015,Data Scientist,2025-06-07,10.32,Full Time,Accepted
+PLC00596,ST00798,COMP050,BI Analyst,2025-09-26,9.17,Internship to Full Time,Accepted
+PLC00597,ST00799,COMP039,Data Scientist,2026-09-29,7.21,Full Time,Accepted
+PLC00598,ST00801,COMP038,BI Analyst,2023-07-21,9.33,Full Time,Accepted
+PLC00599,ST00802,COMP049,Junior Data Engineer,2025-01-08,9.38,Internship to Full Time,Accepted
+PLC00600,ST00804,COMP053,Software Engineer,2023-03-23,6.82,Internship to Full Time,Accepted
+PLC00601,ST00806,COMP055,Software Engineer,2026-03-20,12.5,Full Time,Accepted
+PLC00602,ST00807,COMP026,BI Analyst,2025-06-03,10.36,Full Time,Accepted
+PLC00603,ST00808,COMP014,Data Scientist,2024-01-06,3.27,Internship to Full Time,Accepted
+PLC00604,ST00809,COMP007,Business Analyst,2025-04-24,11.82,Internship to Full Time,Accepted
+PLC00605,ST00810,COMP055,Business Analyst,2025-01-04,12.0,Internship to Full Time,Accepted
+PLC00606,ST00811,COMP023,Junior Data Engineer,2024-07-20,7.91,Full Time,Accepted
+PLC00607,ST00812,COMP021,Software Engineer,2026-07-24,5.89,Full Time,Accepted
+PLC00608,ST00814,COMP014,Data Scientist,2026-01-25,10.13,Internship to Full Time,Accepted
+PLC00609,ST00815,COMP049,Business Analyst,2023-12-19,12.29,Full Time,Accepted
+PLC00610,ST00816,COMP022,Business Analyst,2026-06-16,8.92,Full Time,Accepted
+PLC00611,ST00817,COMP021,Business Analyst,2023-07-27,13.06,Full Time,Accepted
+PLC00612,ST00818,COMP041,Software Engineer,2024-10-02,9.84,Full Time,Accepted
+PLC00613,ST00819,COMP049,Software Engineer,2024-02-19,5.91,Internship to Full Time,Accepted
+PLC00614,ST00820,COMP023,Business Analyst,2025-06-15,12.85,Full Time,Accepted
+PLC00615,ST00821,COMP011,Business Analyst,2023-02-02,4.23,Internship to Full Time,Accepted
+PLC00616,ST00823,COMP059,Data Scientist,2026-08-08,9.17,Full Time,Accepted
+PLC00617,ST00825,COMP026,Data Scientist,2023-06-05,5.18,Full Time,Accepted
+PLC00618,ST00826,COMP046,Data Scientist,2026-09-20,7.45,Internship to Full Time,Accepted
+PLC00619,ST00827,COMP010,BI Analyst,2024-11-27,8.86,Internship to Full Time,Accepted
+PLC00620,ST00828,COMP009,Software Engineer,2023-08-01,12.3,Internship to Full Time,Accepted
+PLC00621,ST00829,COMP040,Data Scientist,2023-06-18,6.56,Full Time,Accepted
+PLC00622,ST00830,COMP029,Data Analyst,2024-05-18,9.03,Internship to Full Time,Accepted
+PLC00623,ST00831,COMP002,Software Engineer,2024-04-04,12.17,Full Time,Accepted
+PLC00624,ST00832,COMP016,Junior Data Engineer,2025-06-20,10.13,Full Time,Accepted
+PLC00625,ST00833,COMP010,Data Analyst,2024-08-30,5.68,Full Time,Accepted
+PLC00626,ST00834,COMP055,Data Scientist,2025-09-16,12.22,Internship to Full Time,Accepted
+PLC00627,ST00837,COMP036,Data Scientist,2026-03-09,5.11,Full Time,Accepted
+PLC00628,ST00838,COMP055,Data Scientist,2026-04-04,7.4,Internship to Full Time,Accepted
+PLC00629,ST00840,COMP048,Business Analyst,2025-01-15,11.84,Internship to Full Time,Accepted
+PLC00630,ST00841,COMP028,Business Analyst,2025-01-16,12.9,Full Time,Accepted
+PLC00631,ST00842,COMP021,Data Scientist,2025-01-01,3.85,Full Time,Accepted
+PLC00632,ST00843,COMP021,BI Analyst,2024-05-20,11.75,Full Time,Accepted
+PLC00633,ST00844,COMP007,Data Scientist,2025-09-01,8.89,Full Time,Accepted
+PLC00634,ST00845,COMP052,Data Scientist,2024-04-11,10.92,Full Time,Accepted
+PLC00635,ST00846,COMP030,Business Analyst,2026-03-22,12.2,Internship to Full Time,Accepted
+PLC00636,ST00848,COMP040,Software Engineer,2025-10-15,9.5,Full Time,Accepted
+PLC00637,ST00849,COMP011,Data Analyst,2026-02-20,7.93,Full Time,Accepted
+PLC00638,ST00850,COMP058,Business Analyst,2025-09-03,12.54,Full Time,Accepted
+PLC00639,ST00853,COMP005,BI Analyst,2024-12-26,3.72,Internship to Full Time,Accepted
+PLC00640,ST00854,COMP037,Business Analyst,2023-02-26,10.85,Internship to Full Time,Accepted
+PLC00641,ST00856,COMP028,BI Analyst,2023-10-01,13.85,Full Time,Accepted
+PLC00642,ST00857,COMP043,Software Engineer,2024-09-26,8.92,Internship to Full Time,Accepted
+PLC00643,ST00858,COMP022,Junior Data Engineer,2026-03-13,11.78,Internship to Full Time,Accepted
+PLC00644,ST00859,COMP010,Data Scientist,2026-10-27,9.46,Full Time,Accepted
+PLC00645,ST00860,COMP040,Data Analyst,2025-01-03,9.46,Full Time,Accepted
+PLC00646,ST00861,COMP040,Data Analyst,2025-12-20,7.55,Full Time,Accepted
+PLC00647,ST00862,COMP047,Junior Data Engineer,2024-05-24,13.78,Full Time,Accepted
+PLC00648,ST00863,COMP054,Junior Data Engineer,2023-03-02,10.14,Internship to Full Time,Accepted
+PLC00649,ST00865,COMP047,Data Analyst,2024-11-10,3.98,Internship to Full Time,Accepted
+PLC00650,ST00866,COMP037,BI Analyst,2025-03-04,11.85,Internship to Full Time,Accepted
+PLC00651,ST00867,COMP045,Software Engineer,2023-10-11,12.32,Full Time,Accepted
+PLC00652,ST00868,COMP007,Business Analyst,2024-12-28,4.95,Internship to Full Time,Accepted
+PLC00653,ST00869,COMP057,Business Analyst,2025-10-20,4.0,Internship to Full Time,Accepted
+PLC00654,ST00870,COMP026,Junior Data Engineer,2024-04-09,6.86,Full Time,Accepted
+PLC00655,ST00873,COMP022,Software Engineer,2023-07-12,8.76,Full Time,Accepted
+PLC00656,ST00874,COMP057,Data Scientist,2023-05-05,13.8,Full Time,Accepted
+PLC00657,ST00875,COMP044,Business Analyst,2023-07-15,4.85,Full Time,Accepted
+PLC00658,ST00876,COMP001,Business Analyst,2025-02-26,6.37,Internship to Full Time,Accepted
+PLC00659,ST00877,COMP055,Data Analyst,2023-12-20,5.07,Internship to Full Time,Accepted
+PLC00660,ST00879,COMP012,Data Scientist,2024-03-23,13.73,Full Time,Accepted
+PLC00661,ST00880,COMP056,BI Analyst,2023-11-13,9.6,Full Time,Accepted
+PLC00662,ST00882,COMP058,Software Engineer,2023-12-30,8.58,Internship to Full Time,Accepted
+PLC00663,ST00883,COMP002,Data Scientist,2023-03-21,13.29,Full Time,Accepted
+PLC00664,ST00887,COMP052,Business Analyst,2024-08-19,4.19,Full Time,Accepted
+PLC00665,ST00888,COMP038,Data Scientist,2023-12-09,12.9,Internship to Full Time,Accepted
+PLC00666,ST00889,COMP013,Data Scientist,2023-11-14,13.97,Internship to Full Time,Accepted
+PLC00667,ST00890,COMP030,BI Analyst,2026-01-27,12.15,Internship to Full Time,Accepted
+PLC00668,ST00891,COMP008,BI Analyst,2026-02-09,3.72,Full Time,Accepted
+PLC00669,ST00893,COMP024,Junior Data Engineer,2024-05-05,13.56,Internship to Full Time,Accepted
+PLC00670,ST00895,COMP013,Software Engineer,2023-03-27,6.94,Internship to Full Time,Accepted
+PLC00671,ST00896,COMP052,BI Analyst,2026-04-25,4.09,Full Time,Accepted
+PLC00672,ST00897,COMP043,BI Analyst,2024-10-18,13.03,Internship to Full Time,Accepted
+PLC00673,ST00899,COMP049,Data Scientist,2026-08-10,5.21,Internship to Full Time,Accepted
+PLC00674,ST00900,COMP009,Software Engineer,2024-02-10,6.22,Internship to Full Time,Accepted
+PLC00675,ST00904,COMP026,Software Engineer,2025-02-11,3.91,Full Time,Accepted
+PLC00676,ST00905,COMP032,Data Analyst,2024-10-20,9.17,Internship to Full Time,Accepted
+PLC00677,ST00908,COMP020,Software Engineer,2024-08-11,11.48,Full Time,Accepted
+PLC00678,ST00909,COMP034,Data Analyst,2024-01-21,13.41,Internship to Full Time,Accepted
+PLC00679,ST00910,COMP058,Data Scientist,2026-03-15,8.97,Internship to Full Time,Accepted
+PLC00680,ST00911,COMP048,Data Analyst,2025-12-30,3.31,Internship to Full Time,Accepted
+PLC00681,ST00912,COMP025,Junior Data Engineer,2024-12-21,13.61,Full Time,Accepted
+PLC00682,ST00913,COMP053,BI Analyst,2025-06-07,11.12,Full Time,Accepted
+PLC00683,ST00914,COMP033,Business Analyst,2026-10-26,10.69,Full Time,Accepted
+PLC00684,ST00915,COMP007,Software Engineer,2024-01-16,12.82,Internship to Full Time,Accepted
+PLC00685,ST00916,COMP005,BI Analyst,2024-02-21,8.45,Full Time,Accepted
+PLC00686,ST00917,COMP003,Software Engineer,2024-02-26,12.9,Full Time,Accepted
+PLC00687,ST00918,COMP060,Business Analyst,2023-01-10,12.95,Internship to Full Time,Accepted
+PLC00688,ST00919,COMP012,Software Engineer,2024-04-12,7.09,Internship to Full Time,Accepted
+PLC00689,ST00921,COMP003,Junior Data Engineer,2023-10-18,9.59,Internship to Full Time,Accepted
+PLC00690,ST00923,COMP057,Software Engineer,2026-10-25,9.28,Internship to Full Time,Accepted
+PLC00691,ST00924,COMP014,BI Analyst,2024-07-12,7.5,Full Time,Accepted
+PLC00692,ST00925,COMP027,Software Engineer,2025-02-11,6.06,Full Time,Accepted
+PLC00693,ST00929,COMP053,Software Engineer,2024-06-03,9.6,Internship to Full Time,Accepted
+PLC00694,ST00930,COMP003,BI Analyst,2025-07-08,4.42,Full Time,Accepted
+PLC00695,ST00931,COMP005,BI Analyst,2023-08-23,4.27,Internship to Full Time,Accepted
+PLC00696,ST00932,COMP005,Junior Data Engineer,2026-01-04,6.6,Internship to Full Time,Accepted
+PLC00697,ST00933,COMP044,BI Analyst,2025-03-26,6.13,Internship to Full Time,Accepted
+PLC00698,ST00935,COMP019,Data Scientist,2024-06-19,4.19,Full Time,Accepted
+PLC00699,ST00936,COMP026,Junior Data Engineer,2023-06-27,9.1,Internship to Full Time,Accepted
+PLC00700,ST00937,COMP013,Junior Data Engineer,2025-11-27,13.95,Internship to Full Time,Accepted
+PLC00701,ST00938,COMP031,Data Analyst,2023-08-17,5.52,Internship to Full Time,Accepted
+PLC00702,ST00939,COMP012,Data Analyst,2023-05-19,5.66,Internship to Full Time,Accepted
+PLC00703,ST00940,COMP029,BI Analyst,2023-10-20,7.86,Full Time,Accepted
+PLC00704,ST00942,COMP043,Data Scientist,2024-01-23,11.45,Internship to Full Time,Accepted
+PLC00705,ST00944,COMP003,Data Scientist,2023-01-30,13.43,Internship to Full Time,Accepted
+PLC00706,ST00945,COMP056,Business Analyst,2023-12-26,6.85,Full Time,Accepted
+PLC00707,ST00946,COMP058,BI Analyst,2023-04-26,7.3,Full Time,Accepted
+PLC00708,ST00947,COMP019,Data Scientist,2023-05-11,5.48,Full Time,Accepted
+PLC00709,ST00948,COMP022,BI Analyst,2025-06-17,3.28,Internship to Full Time,Accepted
+PLC00710,ST00949,COMP005,Junior Data Engineer,2026-05-17,8.81,Full Time,Accepted
+PLC00711,ST00950,COMP010,Data Scientist,2024-10-12,3.62,Full Time,Accepted
+PLC00712,ST00951,COMP027,Data Scientist,2025-12-30,3.19,Full Time,Accepted
+PLC00713,ST00952,COMP047,Business Analyst,2025-01-28,3.42,Full Time,Accepted
+PLC00714,ST00953,COMP044,Junior Data Engineer,2023-01-13,7.19,Full Time,Accepted
+PLC00715,ST00954,COMP053,Software Engineer,2026-03-07,4.32,Full Time,Accepted
+PLC00716,ST00955,COMP049,BI Analyst,2023-03-14,9.2,Full Time,Accepted
+PLC00717,ST00956,COMP002,BI Analyst,2025-09-02,13.31,Internship to Full Time,Accepted
+PLC00718,ST00957,COMP019,BI Analyst,2026-06-15,7.25,Full Time,Accepted
+PLC00719,ST00958,COMP044,Software Engineer,2026-06-08,5.75,Internship to Full Time,Accepted
+PLC00720,ST00960,COMP031,Junior Data Engineer,2025-07-19,8.9,Internship to Full Time,Accepted
+PLC00721,ST00961,COMP015,Junior Data Engineer,2024-08-10,10.01,Full Time,Accepted
+PLC00722,ST00962,COMP025,Business Analyst,2023-11-25,7.05,Full Time,Accepted
+PLC00723,ST00964,COMP028,Business Analyst,2023-10-22,3.47,Internship to Full Time,Accepted
+PLC00724,ST00966,COMP046,Data Scientist,2024-04-09,13.86,Full Time,Accepted
+PLC00725,ST00968,COMP054,BI Analyst,2024-12-23,5.29,Internship to Full Time,Accepted
+PLC00726,ST00969,COMP027,Software Engineer,2025-08-01,11.07,Internship to Full Time,Accepted
+PLC00727,ST00970,COMP025,Software Engineer,2025-01-14,6.72,Internship to Full Time,Accepted
+PLC00728,ST00972,COMP009,BI Analyst,2025-12-21,5.27,Full Time,Accepted
+PLC00729,ST00973,COMP046,Junior Data Engineer,2026-03-10,5.14,Internship to Full Time,Accepted
+PLC00730,ST00975,COMP058,Software Engineer,2026-01-27,12.49,Internship to Full Time,Accepted
+PLC00731,ST00976,COMP024,BI Analyst,2024-09-20,5.35,Full Time,Accepted
+PLC00732,ST00977,COMP031,Data Analyst,2026-01-16,10.17,Internship to Full Time,Accepted
+PLC00733,ST00978,COMP058,Data Scientist,2025-04-24,3.56,Full Time,Accepted
+PLC00734,ST00980,COMP022,Data Scientist,2023-11-17,10.26,Internship to Full Time,Accepted
+PLC00735,ST00981,COMP012,Software Engineer,2023-02-18,10.63,Internship to Full Time,Accepted
+PLC00736,ST00982,COMP037,BI Analyst,2023-12-19,6.01,Full Time,Accepted
+PLC00737,ST00985,COMP042,Software Engineer,2026-03-23,11.6,Full Time,Accepted
+PLC00738,ST00987,COMP010,Software Engineer,2024-10-10,8.15,Full Time,Accepted
+PLC00739,ST00989,COMP049,Software Engineer,2024-10-09,9.71,Full Time,Accepted
+PLC00740,ST00991,COMP044,Data Analyst,2023-05-14,3.94,Full Time,Accepted
+PLC00741,ST00992,COMP059,Data Analyst,2024-11-09,12.38,Internship to Full Time,Accepted
+PLC00742,ST00993,COMP060,Business Analyst,2024-02-20,11.18,Full Time,Accepted
+PLC00743,ST00994,COMP020,Data Analyst,2025-01-13,9.86,Internship to Full Time,Accepted
+PLC00744,ST00995,COMP038,Software Engineer,2025-08-30,6.72,Full Time,Accepted
+PLC00745,ST00997,COMP019,Business Analyst,2023-07-27,11.83,Full Time,Accepted
+PLC00746,ST00998,COMP058,Junior Data Engineer,2023-12-01,7.57,Internship to Full Time,Accepted
+PLC00747,ST00999,COMP011,Data Scientist,2026-02-05,9.92,Internship to Full Time,Accepted

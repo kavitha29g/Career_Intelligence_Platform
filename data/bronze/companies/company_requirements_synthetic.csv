@@ -1,0 +1,136 @@
+company_id,job_title,openings,required_skills,minimum_cgpa,salary_lpa
+COMP001,Software Engineer,6,Python|Power BI|Azure|Machine Learning|Statistics|SQL|Java,7.41,4.36
+COMP001,Business Analyst,23,SQL|Statistics|Tableau|PySpark,7.03,9.81
+COMP002,Data Scientist,2,PySpark|AWS|Git|Azure|Excel|Machine Learning|Java,6.2,11.12
+COMP003,Data Analyst,4,Java|Git|Excel|Machine Learning|Statistics|Python|PySpark,6.2,9.15
+COMP003,Data Scientist,7,Machine Learning|Power BI|Tableau|SQL|PySpark,6.97,6.58
+COMP003,Junior Data Engineer,11,PySpark|Azure|Python|Git|AWS|Machine Learning,7.04,4.33
+COMP004,Data Scientist,19,Power BI|PySpark|Tableau|AWS,6.66,8.89
+COMP004,Data Analyst,19,Python|Java|Power BI|AWS|Statistics|Machine Learning|PySpark,7.7,6.62
+COMP004,BI Analyst,13,Git|Excel|Python|Azure|Power BI|Java,6.05,10.36
+COMP005,Business Analyst,27,Git|Statistics|SQL|Excel|Java|Azure|Tableau,7.11,10.43
+COMP005,BI Analyst,9,Machine Learning|Statistics|SQL|Excel|Azure|Git|PySpark,7.85,9.84
+COMP006,Data Analyst,26,SQL|Power BI|PySpark|AWS|Java,7.95,7.72
+COMP006,Data Scientist,19,Java|Excel|Statistics|Python,6.62,7.11
+COMP007,BI Analyst,9,Azure|PySpark|AWS|SQL|Python|Statistics,6.93,8.35
+COMP007,Junior Data Engineer,6,Machine Learning|PySpark|Tableau|Git|Java|AWS|Azure,7.87,9.2
+COMP008,Data Analyst,2,Machine Learning|Excel|Statistics|Git|PySpark,6.67,6.69
+COMP008,Software Engineer,1,Azure|Java|Statistics|Python,6.56,8.48
+COMP009,BI Analyst,14,Tableau|Azure|Power BI|Excel|Statistics|Java|Git,7.3,8.61
+COMP009,Business Analyst,19,Python|PySpark|Tableau|Statistics,7.62,8.48
+COMP010,BI Analyst,16,Tableau|Power BI|Git|Statistics,6.65,9.4
+COMP010,Data Analyst,29,Excel|Java|PySpark|Git|Python|AWS,8.14,10.29
+COMP011,BI Analyst,22,Git|Python|Azure|Power BI|PySpark,8.27,6.64
+COMP011,Business Analyst,24,Machine Learning|Git|Excel|Tableau,7.82,5.0
+COMP012,BI Analyst,17,Java|Statistics|PySpark|Git|Power BI|Python,7.18,9.67
+COMP012,Software Engineer,24,Statistics|Tableau|SQL|Excel|Git,6.56,10.84
+COMP012,Business Analyst,14,Tableau|Power BI|Machine Learning|Statistics|Azure|AWS,6.29,3.48
+COMP013,Data Scientist,16,PySpark|SQL|AWS|Git|Power BI,7.03,10.84
+COMP013,BI Analyst,5,Excel|Tableau|AWS|Azure|Java,6.79,9.44
+COMP013,Data Analyst,25,Azure|Tableau|Java|Statistics,7.59,3.04
+COMP014,Junior Data Engineer,19,Azure|SQL|Java|AWS|PySpark,7.01,11.69
+COMP014,BI Analyst,13,Python|PySpark|Excel|Tableau,8.38,11.03
+COMP015,Junior Data Engineer,21,Excel|Tableau|Power BI|Java|SQL,6.96,8.3
+COMP015,Data Analyst,6,Python|Power BI|Statistics|Azure,7.82,8.37
+COMP015,Data Scientist,11,Statistics|Java|Tableau|Azure|Machine Learning|AWS|SQL,6.41,11.16
+COMP016,Data Analyst,8,Excel|Python|Machine Learning|PySpark|Java,6.31,9.4
+COMP016,Junior Data Engineer,26,AWS|Statistics|Power BI|PySpark,7.56,8.35
+COMP017,BI Analyst,4,Python|SQL|AWS|Azure,6.95,7.93
+COMP018,BI Analyst,7,Power BI|AWS|SQL|PySpark,6.67,8.45
+COMP018,Junior Data Engineer,5,SQL|PySpark|Machine Learning|Git|Power BI|Python|AWS,7.24,8.48
+COMP019,Data Scientist,12,Power BI|Java|Python|PySpark|Azure|SQL|Tableau,8.33,5.98
+COMP019,Junior Data Engineer,1,Statistics|SQL|Git|Azure,6.37,3.81
+COMP020,Data Analyst,21,Azure|Power BI|Statistics|Git|Python,6.25,4.57
+COMP020,BI Analyst,2,Tableau|Statistics|Git|AWS|SQL|Python,8.13,11.01
+COMP020,Business Analyst,1,Statistics|Git|Java|Tableau|PySpark,8.24,11.6
+COMP021,BI Analyst,12,Java|SQL|AWS|Machine Learning|Azure|Git,8.09,9.21
+COMP021,Data Analyst,16,Statistics|Java|SQL|Git|Python|AWS|Machine Learning,6.26,11.2
+COMP022,Data Scientist,6,Tableau|Machine Learning|Python|Java|Azure|Excel|Statistics,8.22,6.97
+COMP022,Software Engineer,3,Statistics|Tableau|Python|PySpark|Excel|Git,8.18,7.67
+COMP023,BI Analyst,14,Azure|Tableau|AWS|Java|Python,6.03,11.41
+COMP023,Data Scientist,17,Azure|Java|SQL|Git|Tableau|Machine Learning|Statistics,8.43,3.45
+COMP023,Data Analyst,8,AWS|Excel|SQL|Azure|PySpark|Git|Power BI,7.12,10.71
+COMP024,Business Analyst,16,SQL|AWS|Statistics|Python,7.39,3.0
+COMP024,Data Analyst,3,PySpark|Git|Excel|Azure|Tableau|Java,8.06,10.35
+COMP025,Business Analyst,25,Git|Statistics|Tableau|Azure|SQL|Python|Machine Learning,6.55,6.07
+COMP025,Data Scientist,27,PySpark|Git|Tableau|SQL|Python|Statistics,7.23,10.4
+COMP026,BI Analyst,9,Excel|SQL|AWS|Git|Azure,8.06,4.72
+COMP026,Software Engineer,11,AWS|Python|Machine Learning|SQL,7.93,7.05
+COMP026,Data Analyst,22,Azure|Python|PySpark|Statistics|AWS,8.1,7.35
+COMP027,Junior Data Engineer,24,SQL|AWS|Machine Learning|Tableau|Statistics,7.05,8.48
+COMP027,Data Scientist,23,Power BI|AWS|Tableau|Git|Azure,8.01,4.24
+COMP027,BI Analyst,20,Git|PySpark|Tableau|Statistics|Excel|SQL,6.52,9.43
+COMP028,Business Analyst,17,Git|SQL|Tableau|PySpark|Azure|Power BI,7.43,9.0
+COMP028,Junior Data Engineer,14,AWS|Python|PySpark|SQL|Statistics|Excel,6.36,9.03
+COMP028,Data Scientist,7,Java|Power BI|Statistics|Git|Python|Tableau,7.96,4.84
+COMP029,Data Analyst,4,Git|Statistics|PySpark|AWS|Excel,7.28,10.17
+COMP029,Business Analyst,23,Git|Statistics|Python|AWS|PySpark|Excel,8.39,11.78
+COMP029,Software Engineer,11,Python|Power BI|Excel|Azure,8.07,11.2
+COMP030,BI Analyst,25,Power BI|Azure|Java|SQL|Machine Learning,8.41,9.62
+COMP030,Business Analyst,4,Python|AWS|Power BI|PySpark|Machine Learning|SQL|Statistics,7.46,5.3
+COMP030,Junior Data Engineer,11,Git|Java|Python|Statistics|Tableau|Power BI|Machine Learning,7.93,8.63
+COMP031,Business Analyst,3,PySpark|Excel|Java|Git|SQL|AWS,7.26,6.74
+COMP031,Software Engineer,18,SQL|Tableau|Excel|Machine Learning|Statistics|Java|AWS,6.73,11.55
+COMP031,BI Analyst,20,PySpark|Statistics|Python|SQL|Tableau|Excel|Git,8.26,8.52
+COMP032,Junior Data Engineer,13,AWS|Power BI|PySpark|Statistics,6.06,7.65
+COMP032,Data Analyst,25,PySpark|Git|Azure|Machine Learning|Python|Java,8.25,4.73
+COMP032,Business Analyst,17,SQL|Java|PySpark|Machine Learning,6.02,3.59
+COMP033,BI Analyst,27,Excel|PySpark|AWS|SQL,7.87,4.38
+COMP033,Junior Data Engineer,15,Python|SQL|Statistics|Git|Java|AWS,6.63,3.63
+COMP033,Software Engineer,27,Power BI|AWS|Statistics|Azure|Machine Learning,7.08,3.15
+COMP034,Data Analyst,21,Git|Machine Learning|Python|SQL,6.89,7.53
+COMP034,Data Scientist,10,Machine Learning|SQL|Power BI|Azure|AWS|Excel,8.06,3.28
+COMP034,BI Analyst,6,Java|AWS|PySpark|Power BI|Git,6.75,10.98
+COMP035,BI Analyst,18,SQL|Python|Statistics|AWS|Git,6.76,9.73
+COMP035,Business Analyst,29,Excel|AWS|PySpark|Java|Machine Learning|SQL,6.55,10.51
+COMP035,Data Analyst,7,Java|Statistics|Machine Learning|Python,8.13,11.39
+COMP036,Software Engineer,10,Power BI|SQL|Excel|Azure,8.38,6.21
+COMP036,Data Scientist,22,SQL|Power BI|Machine Learning|Git|Excel,6.79,7.06
+COMP036,Data Analyst,20,Git|Machine Learning|Java|Tableau|PySpark|Excel,6.42,5.82
+COMP037,BI Analyst,24,Power BI|Tableau|Java|Statistics|Azure|Excel|AWS,6.9,5.75
+COMP038,Data Analyst,27,Java|PySpark|Excel|Power BI|SQL|Tableau,6.19,3.17
+COMP038,Junior Data Engineer,17,Machine Learning|Git|AWS|Excel,8.27,7.96
+COMP038,BI Analyst,18,Statistics|Java|Tableau|AWS|Excel|PySpark|Power BI,7.83,5.62
+COMP039,Data Scientist,3,Tableau|PySpark|Python|Excel|Java|AWS|Power BI,6.35,4.43
+COMP039,BI Analyst,19,Git|Azure|Tableau|Python|Excel,7.9,5.09
+COMP040,Business Analyst,2,PySpark|Tableau|AWS|Azure|Git,8.2,3.36
+COMP040,Junior Data Engineer,21,SQL|PySpark|Power BI|Machine Learning|Java|Excel,7.63,6.29
+COMP041,Data Analyst,13,PySpark|AWS|Tableau|Machine Learning|Azure,7.98,10.98
+COMP041,Data Scientist,1,Azure|Java|Excel|SQL|Power BI,6.53,4.68
+COMP041,Business Analyst,12,Statistics|Excel|AWS|Tableau,7.8,7.33
+COMP042,Software Engineer,19,Statistics|AWS|Python|Excel|Machine Learning,6.32,8.33
+COMP042,Junior Data Engineer,5,Machine Learning|Java|Python|Statistics,6.65,4.62
+COMP043,Data Scientist,21,Git|Statistics|Power BI|SQL,6.54,8.46
+COMP043,BI Analyst,16,Java|Excel|AWS|Git|PySpark|Power BI|Tableau,7.28,4.51
+COMP044,Business Analyst,8,AWS|Java|SQL|Python|Excel|Power BI|Git,7.71,10.44
+COMP044,Software Engineer,20,Java|Azure|Machine Learning|Python,8.19,7.78
+COMP044,Data Analyst,25,SQL|Azure|Java|PySpark,8.07,11.07
+COMP045,BI Analyst,12,Git|PySpark|AWS|Excel,8.35,7.34
+COMP045,Software Engineer,25,Tableau|Machine Learning|Statistics|SQL|AWS|PySpark|Java,7.19,5.09
+COMP045,Data Scientist,28,Power BI|Machine Learning|PySpark|AWS,6.64,3.05
+COMP046,Data Analyst,17,AWS|Statistics|Excel|Tableau,7.02,3.96
+COMP046,Data Scientist,14,Power BI|PySpark|AWS|Tableau|Git|Statistics,6.99,4.83
+COMP046,BI Analyst,18,Java|Tableau|PySpark|Machine Learning|Azure|Git|AWS,7.44,9.97
+COMP047,BI Analyst,28,Git|Excel|Azure|Java,6.25,7.58
+COMP047,Junior Data Engineer,26,PySpark|Machine Learning|Python|Java|AWS|Tableau,6.01,3.82
+COMP048,Software Engineer,30,SQL|Git|Power BI|Excel|Tableau|Python|Machine Learning,6.09,6.46
+COMP049,Data Scientist,10,Java|Statistics|Azure|Machine Learning,6.03,10.66
+COMP049,BI Analyst,30,Excel|Python|Machine Learning|PySpark|Git|Power BI,6.42,3.32
+COMP050,BI Analyst,1,SQL|Power BI|AWS|Tableau|Machine Learning,7.01,4.8
+COMP051,BI Analyst,23,SQL|PySpark|Power BI|Statistics,8.29,6.13
+COMP052,Junior Data Engineer,7,AWS|Machine Learning|Python|Power BI|Java|Excel|PySpark,6.27,3.65
+COMP052,Data Scientist,10,SQL|PySpark|Power BI|Statistics|Machine Learning|Tableau,7.11,6.39
+COMP053,Junior Data Engineer,25,Statistics|Azure|Machine Learning|Python|Git|PySpark|Java,6.17,8.7
+COMP053,Business Analyst,8,Tableau|AWS|Git|PySpark|Python,7.75,5.37
+COMP054,Data Analyst,22,SQL|PySpark|Java|Azure|Tableau|Machine Learning,6.55,8.16
+COMP054,Software Engineer,6,Azure|Excel|Statistics|Machine Learning|Power BI,6.52,4.82
+COMP055,Data Scientist,12,SQL|Git|Statistics|Azure|Python,7.91,7.87
+COMP056,Software Engineer,12,Azure|Machine Learning|Power BI|Git|Java|AWS,8.29,5.52
+COMP057,Data Scientist,5,PySpark|AWS|Azure|Git,6.08,6.13
+COMP058,Junior Data Engineer,23,Tableau|Python|Statistics|Excel|AWS|Power BI|Machine Learning,6.81,8.52
+COMP058,Software Engineer,9,PySpark|Power BI|Excel|Statistics|Azure,8.4,6.09
+COMP058,Data Analyst,6,AWS|Excel|Git|Tableau|PySpark|Machine Learning|Statistics,6.7,4.62
+COMP059,Data Scientist,22,SQL|Power BI|Excel|PySpark|AWS,8.14,4.76
+COMP060,Junior Data Engineer,6,Azure|Java|PySpark|Machine Learning|Tableau|AWS|Excel,6.75,8.06
+COMP060,Software Engineer,19,AWS|SQL|Java|Python,6.54,5.29
+COMP060,Data Analyst,27,Azure|Tableau|Power BI|Statistics,6.9,8.02
