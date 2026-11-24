@@ -1,0 +1,15 @@
+dataset,rows,columns,missing_values,duplicate_rows
+communication_assessments_synthetic.csv,1000,5,0,0
+programming_assessments_synthetic.csv,1000,6,0,0
+technical_assessments_synthetic.csv,1000,14,0,0
+companies_synthetic.csv,60,5,0,0
+company_requirements_synthetic.csv,135,6,0,0
+mock_interviews_synthetic.csv,1000,5,0,0
+job_descriptions_synthetic.csv,300,10,0,0
+job_salary_roles_synthetic.csv,6,4,0,0
+job_skills_synthetic.csv,1667,2,0,0
+historical_placements_synthetic.csv,747,8,0,0
+student_job_applications_synthetic.csv,3041,6,0,0
+institutions_synthetic.csv,10,4,0,0
+students_master_synthetic.csv,1000,12,0,0
+attendance_training_synthetic.csv,1000,8,0,0

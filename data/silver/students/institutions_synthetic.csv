@@ -1,0 +1,11 @@
+institution_id,institution_name,city,institution_type
+INST01,Institution 1,Madurai,University
+INST02,Institution 2,Bengaluru,Engineering
+INST03,Institution 3,Trichy,Engineering
+INST04,Institution 4,Coimbatore,University
+INST05,Institution 5,Bengaluru,Arts and Science
+INST06,Institution 6,Trichy,University
+INST07,Institution 7,Madurai,University
+INST08,Institution 8,Chennai,Arts and Science
+INST09,Institution 9,Coimbatore,University
+INST10,Institution 10,Chennai,University
