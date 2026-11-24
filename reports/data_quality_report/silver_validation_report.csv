@@ -1,0 +1,15 @@
+dataset,bronze_rows,silver_rows,silver_columns,missing_values,duplicate_rows,validation_status
+communication_assessments_synthetic.csv,1000,1000,5,0,0,passed
+programming_assessments_synthetic.csv,1000,1000,6,0,0,passed
+technical_assessments_synthetic.csv,1000,1000,14,0,0,passed
+companies_synthetic.csv,60,60,5,0,0,passed
+company_requirements_synthetic.csv,135,135,6,0,0,passed
+mock_interviews_synthetic.csv,1000,1000,5,0,0,passed
+job_descriptions_synthetic.csv,300,300,10,0,0,passed
+job_salary_roles_synthetic.csv,6,6,4,0,0,passed
+job_skills_synthetic.csv,1667,1667,2,0,0,passed
+historical_placements_synthetic.csv,747,747,8,0,0,passed
+student_job_applications_synthetic.csv,3041,3041,6,0,0,passed
+institutions_synthetic.csv,10,10,4,0,0,passed
+students_master_synthetic.csv,1000,1000,12,0,0,passed
+attendance_training_synthetic.csv,1000,1000,8,0,0,passed
