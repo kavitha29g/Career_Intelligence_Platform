@@ -1,0 +1,1001 @@
+student_id,institution_id,batch_id,degree,department,graduation_year,cgpa,backlogs,internships,projects_completed,placement_status,expected_salary_lpa,institution_name,city,institution_type
+ST00001,INST07,BATCH2022A,B.Tech,Electronics,2023,5.91,3,2,2,Placed,4.11,Institution 7,Madurai,University
+ST00002,INST04,BATCH2025A,B.Tech,Business Analytics,2026,6.4,2,1,2,Unplaced,8.35,Institution 4,Coimbatore,University
+ST00003,INST08,BATCH2025B,B.Tech,Mechanical,2023,9.45,0,1,3,Placed,8.42,Institution 8,Chennai,Arts and Science
+ST00004,INST05,BATCH2023B,B.Tech,Computer Science,2026,8.82,3,0,4,Placed,8.63,Institution 5,Bengaluru,Arts and Science
+ST00005,INST07,BATCH2023A,BCA,Computer Science,2025,5.56,0,1,3,Placed,5.88,Institution 7,Madurai,University
+ST00006,INST10,BATCH2023B,B.E.,Business Analytics,2023,6.62,0,2,5,Placed,6.9,Institution 10,Chennai,University
+ST00007,INST03,BATCH2023B,B.Sc,Electronics,2023,6.46,1,3,1,Placed,7.56,Institution 3,Trichy,Engineering
+ST00008,INST07,BATCH2023B,MCA,Electronics,2025,6.72,3,1,4,Placed,3.35,Institution 7,Madurai,University
+ST00009,INST08,BATCH2025B,B.Sc,Data Science,2025,6.61,3,0,1,Unplaced,6.41,Institution 8,Chennai,Arts and Science
+ST00010,INST05,BATCH2023B,B.Sc,Business Analytics,2023,5.78,1,2,5,Placed,2.72,Institution 5,Bengaluru,Arts and Science
+ST00011,INST04,BATCH2024A,M.Sc,Business Analytics,2025,7.57,2,0,5,Placed,5.73,Institution 4,Coimbatore,University
+ST00012,INST08,BATCH2025B,B.E.,Electronics,2024,8.8,1,1,1,Placed,3.51,Institution 8,Chennai,Arts and Science
+ST00013,INST08,BATCH2024A,M.Sc,Data Science,2026,8.23,3,1,1,Placed,3.69,Institution 8,Chennai,Arts and Science
+ST00014,INST03,BATCH2025B,B.E.,Computer Science,2026,8.53,3,0,1,Placed,4.87,Institution 3,Trichy,Engineering
+ST00015,INST06,BATCH2025A,B.E.,Information Technology,2026,5.87,2,2,5,Placed,5.31,Institution 6,Trichy,University
+ST00016,INST05,BATCH2022B,B.Tech,Mechanical,2024,9.78,1,1,2,Placed,6.55,Institution 5,Bengaluru,Arts and Science
+ST00017,INST02,BATCH2022A,BCA,Computer Science,2025,9.27,0,3,1,Placed,2.98,Institution 2,Bengaluru,Engineering
+ST00018,INST08,BATCH2023B,B.Tech,Electronics,2025,9.12,0,1,4,Placed,5.77,Institution 8,Chennai,Arts and Science
+ST00019,INST06,BATCH2025A,BCA,Mechanical,2023,9.2,2,2,5,Placed,3.69,Institution 6,Trichy,University
+ST00020,INST02,BATCH2022B,M.Sc,Information Technology,2025,9.7,1,1,3,Placed,6.23,Institution 2,Bengaluru,Engineering
+ST00021,INST05,BATCH2022A,BCA,Information Technology,2023,7.95,1,0,3,Placed,6.64,Institution 5,Bengaluru,Arts and Science
+ST00022,INST01,BATCH2024B,M.Sc,Data Science,2024,6.4,0,1,4,Placed,6.12,Institution 1,Madurai,University
+ST00023,INST10,BATCH2023A,B.Sc,Mechanical,2026,8.28,3,1,2,Placed,7.3,Institution 10,Chennai,University
+ST00024,INST06,BATCH2024A,B.Sc,Data Science,2026,8.84,0,2,1,Placed,4.68,Institution 6,Trichy,University
+ST00025,INST09,BATCH2024B,BCA,Computer Science,2026,8.82,2,0,5,Unplaced,7.47,Institution 9,Coimbatore,University
+ST00026,INST01,BATCH2025B,BCA,Business Analytics,2025,7.85,0,2,1,Placed,5.31,Institution 1,Madurai,University
+ST00027,INST10,BATCH2022A,M.Sc,Business Analytics,2023,5.81,0,1,5,Placed,5.65,Institution 10,Chennai,University
+ST00028,INST03,BATCH2024B,B.Tech,Business Analytics,2023,7.17,2,3,3,Placed,6.71,Institution 3,Trichy,Engineering
+ST00029,INST07,BATCH2023A,M.Sc,Mechanical,2024,9.64,1,1,1,Placed,2.62,Institution 7,Madurai,University
+ST00030,INST04,BATCH2025A,B.Tech,Business Analytics,2025,8.13,2,2,4,Unplaced,6.75,Institution 4,Coimbatore,University
+ST00031,INST09,BATCH2022A,B.Sc,Computer Science,2024,7.92,0,3,2,Placed,6.52,Institution 9,Coimbatore,University
+ST00032,INST03,BATCH2024B,B.E.,Data Science,2023,6.71,3,2,4,Unplaced,4.51,Institution 3,Trichy,Engineering
+ST00033,INST05,BATCH2024A,BCA,Mechanical,2023,7.16,3,2,2,Placed,3.06,Institution 5,Bengaluru,Arts and Science
+ST00034,INST03,BATCH2024A,B.Tech,Data Science,2026,9.53,3,0,1,Placed,3.09,Institution 3,Trichy,Engineering
+ST00035,INST07,BATCH2022B,M.Sc,Mechanical,2025,8.5,1,3,1,Unplaced,8.5,Institution 7,Madurai,University
+ST00036,INST05,BATCH2024B,B.Sc,Data Science,2023,9.04,0,1,2,Placed,6.98,Institution 5,Bengaluru,Arts and Science
+ST00037,INST09,BATCH2023B,B.Tech,Information Technology,2026,7.54,2,2,3,Placed,3.33,Institution 9,Coimbatore,University
+ST00038,INST07,BATCH2024B,M.Sc,Data Science,2025,8.34,3,1,5,Placed,4.82,Institution 7,Madurai,University
+ST00039,INST02,BATCH2025A,BCA,Business Analytics,2024,6.62,2,0,4,Unplaced,6.35,Institution 2,Bengaluru,Engineering
+ST00040,INST04,BATCH2022A,BCA,Information Technology,2025,8.67,3,0,4,Placed,7.93,Institution 4,Coimbatore,University
+ST00041,INST09,BATCH2022A,MCA,Data Science,2025,7.42,1,3,4,Unplaced,2.78,Institution 9,Coimbatore,University
+ST00042,INST02,BATCH2025A,B.E.,Mechanical,2023,7.49,0,0,1,Placed,4.04,Institution 2,Bengaluru,Engineering
+ST00043,INST10,BATCH2024B,MCA,Mechanical,2023,8.42,0,0,4,Unplaced,8.28,Institution 10,Chennai,University
+ST00044,INST09,BATCH2025A,B.Sc,Mechanical,2025,9.71,3,1,5,Placed,2.56,Institution 9,Coimbatore,University
+ST00045,INST10,BATCH2023A,B.Tech,Electronics,2023,5.79,1,0,5,Unplaced,3.81,Institution 10,Chennai,University
+ST00046,INST05,BATCH2025B,B.Sc,Computer Science,2023,9.21,0,0,2,Placed,8.73,Institution 5,Bengaluru,Arts and Science
+ST00047,INST02,BATCH2025A,M.Sc,Mechanical,2023,6.82,2,2,1,Unplaced,6.49,Institution 2,Bengaluru,Engineering
+ST00048,INST04,BATCH2024A,BCA,Information Technology,2026,7.5,2,0,5,Placed,4.2,Institution 4,Coimbatore,University
+ST00049,INST07,BATCH2025A,MCA,Mechanical,2026,5.6,0,2,3,Placed,2.94,Institution 7,Madurai,University
+ST00050,INST08,BATCH2022A,MCA,Electronics,2025,6.85,1,0,1,Placed,2.68,Institution 8,Chennai,Arts and Science
+ST00051,INST03,BATCH2024A,MCA,Business Analytics,2023,7.76,0,0,1,Placed,4.09,Institution 3,Trichy,Engineering
+ST00052,INST01,BATCH2022A,B.Sc,Information Technology,2026,5.75,3,3,5,Placed,8.23,Institution 1,Madurai,University
+ST00053,INST04,BATCH2022B,BCA,Electronics,2025,7.71,0,3,3,Unplaced,5.2,Institution 4,Coimbatore,University
+ST00054,INST02,BATCH2023B,B.Tech,Business Analytics,2023,9.67,0,2,2,Placed,7.18,Institution 2,Bengaluru,Engineering
+ST00055,INST08,BATCH2022A,M.Sc,Information Technology,2024,5.97,2,0,5,Placed,8.47,Institution 8,Chennai,Arts and Science
+ST00056,INST04,BATCH2024A,B.Tech,Data Science,2023,8.94,0,1,3,Placed,5.15,Institution 4,Coimbatore,University
+ST00057,INST02,BATCH2022B,B.Sc,Computer Science,2023,7.34,0,3,1,Placed,3.74,Institution 2,Bengaluru,Engineering
+ST00058,INST06,BATCH2022A,M.Sc,Computer Science,2026,8.45,1,1,3,Placed,5.86,Institution 6,Trichy,University
+ST00059,INST06,BATCH2023A,MCA,Electronics,2025,6.67,0,3,1,Unplaced,8.4,Institution 6,Trichy,University
+ST00060,INST10,BATCH2025A,B.E.,Business Analytics,2025,6.22,3,3,5,Unplaced,7.73,Institution 10,Chennai,University
+ST00061,INST04,BATCH2023B,B.Sc,Computer Science,2026,6.22,3,0,5,Unplaced,2.93,Institution 4,Coimbatore,University
+ST00062,INST06,BATCH2022A,B.Sc,Business Analytics,2023,5.82,3,3,4,Placed,7.0,Institution 6,Trichy,University
+ST00063,INST02,BATCH2022B,BCA,Business Analytics,2024,6.34,2,1,4,Unplaced,6.22,Institution 2,Bengaluru,Engineering
+ST00064,INST10,BATCH2023A,B.Tech,Electronics,2023,8.49,0,3,4,Placed,8.4,Institution 10,Chennai,University
+ST00065,INST02,BATCH2024B,B.Sc,Electronics,2023,9.47,1,2,5,Placed,3.3,Institution 2,Bengaluru,Engineering
+ST00066,INST10,BATCH2022B,B.Sc,Electronics,2024,9.16,0,0,2,Placed,5.97,Institution 10,Chennai,University
+ST00067,INST04,BATCH2025A,MCA,Computer Science,2026,8.58,2,0,5,Placed,8.22,Institution 4,Coimbatore,University
+ST00068,INST08,BATCH2022B,MCA,Electronics,2025,6.0,0,2,3,Unplaced,5.17,Institution 8,Chennai,Arts and Science
+ST00069,INST07,BATCH2023A,M.Sc,Computer Science,2026,6.8,2,2,5,Unplaced,5.63,Institution 7,Madurai,University
+ST00070,INST09,BATCH2022B,B.E.,Electronics,2026,6.89,3,2,5,Placed,2.96,Institution 9,Coimbatore,University
+ST00071,INST08,BATCH2023A,BCA,Mechanical,2023,6.62,0,3,1,Placed,4.31,Institution 8,Chennai,Arts and Science
+ST00072,INST05,BATCH2022A,B.E.,Business Analytics,2025,7.82,3,0,1,Placed,4.61,Institution 5,Bengaluru,Arts and Science
+ST00073,INST02,BATCH2025B,M.Sc,Electronics,2025,7.91,0,2,1,Placed,8.64,Institution 2,Bengaluru,Engineering
+ST00074,INST05,BATCH2023A,MCA,Information Technology,2026,7.11,2,3,5,Placed,4.34,Institution 5,Bengaluru,Arts and Science
+ST00075,INST08,BATCH2023A,B.Tech,Business Analytics,2024,7.09,2,2,2,Unplaced,5.5,Institution 8,Chennai,Arts and Science
+ST00076,INST10,BATCH2023B,MCA,Business Analytics,2026,9.23,1,1,3,Placed,6.86,Institution 10,Chennai,University
+ST00077,INST09,BATCH2023A,BCA,Electronics,2024,9.05,0,1,3,Placed,3.55,Institution 9,Coimbatore,University
+ST00078,INST09,BATCH2023A,MCA,Data Science,2025,6.89,0,0,2,Placed,5.66,Institution 9,Coimbatore,University
+ST00079,INST01,BATCH2024B,BCA,Electronics,2026,9.61,0,3,2,Placed,7.3,Institution 1,Madurai,University
+ST00080,INST09,BATCH2025B,BCA,Business Analytics,2023,9.79,1,1,3,Placed,8.13,Institution 9,Coimbatore,University
+ST00081,INST07,BATCH2022A,BCA,Information Technology,2026,6.97,1,1,4,Unplaced,6.57,Institution 7,Madurai,University
+ST00082,INST09,BATCH2025A,M.Sc,Business Analytics,2025,7.09,0,3,1,Unplaced,6.85,Institution 9,Coimbatore,University
+ST00083,INST08,BATCH2023B,BCA,Information Technology,2023,7.78,3,2,1,Unplaced,3.32,Institution 8,Chennai,Arts and Science
+ST00084,INST01,BATCH2024B,BCA,Computer Science,2023,9.74,0,3,3,Placed,8.65,Institution 1,Madurai,University
+ST00085,INST08,BATCH2024A,B.Tech,Mechanical,2024,9.44,2,2,2,Placed,3.36,Institution 8,Chennai,Arts and Science
+ST00086,INST08,BATCH2025B,B.E.,Business Analytics,2023,5.96,3,1,4,Placed,7.54,Institution 8,Chennai,Arts and Science
+ST00087,INST03,BATCH2022A,B.Sc,Electronics,2023,7.27,0,1,3,Unplaced,4.22,Institution 3,Trichy,Engineering
+ST00088,INST01,BATCH2022A,B.E.,Computer Science,2026,7.99,0,1,1,Unplaced,8.57,Institution 1,Madurai,University
+ST00089,INST08,BATCH2024A,BCA,Mechanical,2025,7.76,1,0,5,Placed,7.18,Institution 8,Chennai,Arts and Science
+ST00090,INST03,BATCH2025A,B.Tech,Electronics,2024,6.37,3,0,2,Placed,7.4,Institution 3,Trichy,Engineering
+ST00091,INST03,BATCH2023A,MCA,Data Science,2026,9.36,0,0,5,Placed,3.92,Institution 3,Trichy,Engineering
+ST00092,INST01,BATCH2024B,B.Tech,Electronics,2023,8.55,0,3,3,Placed,5.38,Institution 1,Madurai,University
+ST00093,INST05,BATCH2022B,BCA,Information Technology,2023,9.27,0,1,1,Placed,6.52,Institution 5,Bengaluru,Arts and Science
+ST00094,INST10,BATCH2023B,B.Tech,Information Technology,2024,9.36,2,1,4,Placed,7.5,Institution 10,Chennai,University
+ST00095,INST07,BATCH2022B,B.Tech,Data Science,2025,8.87,0,3,5,Placed,3.18,Institution 7,Madurai,University
+ST00096,INST10,BATCH2024A,BCA,Computer Science,2024,7.48,0,0,4,Placed,8.76,Institution 10,Chennai,University
+ST00097,INST09,BATCH2022A,M.Sc,Mechanical,2026,8.25,0,3,1,Placed,8.29,Institution 9,Coimbatore,University
+ST00098,INST07,BATCH2025A,B.Tech,Electronics,2024,6.22,2,0,5,Placed,4.26,Institution 7,Madurai,University
+ST00099,INST09,BATCH2022A,B.Sc,Information Technology,2023,8.53,1,1,4,Placed,7.85,Institution 9,Coimbatore,University
+ST00100,INST08,BATCH2023B,B.Sc,Computer Science,2026,6.31,3,2,4,Unplaced,5.87,Institution 8,Chennai,Arts and Science
+ST00101,INST02,BATCH2022A,B.Tech,Data Science,2023,8.62,2,0,5,Placed,5.5,Institution 2,Bengaluru,Engineering
+ST00102,INST01,BATCH2022A,M.Sc,Business Analytics,2025,6.53,0,1,1,Placed,4.54,Institution 1,Madurai,University
+ST00103,INST07,BATCH2023B,MCA,Information Technology,2023,6.03,0,1,4,Unplaced,6.28,Institution 7,Madurai,University
+ST00104,INST07,BATCH2024B,BCA,Data Science,2023,6.24,0,2,3,Placed,7.24,Institution 7,Madurai,University
+ST00105,INST08,BATCH2024B,B.Sc,Electronics,2024,5.51,1,1,5,Placed,5.17,Institution 8,Chennai,Arts and Science
+ST00106,INST05,BATCH2023B,MCA,Mechanical,2023,8.73,0,1,2,Placed,6.59,Institution 5,Bengaluru,Arts and Science
+ST00107,INST03,BATCH2025A,B.Tech,Information Technology,2026,8.8,2,0,2,Placed,7.05,Institution 3,Trichy,Engineering
+ST00108,INST08,BATCH2024A,MCA,Information Technology,2026,7.82,0,0,1,Placed,7.12,Institution 8,Chennai,Arts and Science
+ST00109,INST06,BATCH2025B,B.E.,Electronics,2025,6.23,1,2,3,Placed,2.84,Institution 6,Trichy,University
+ST00110,INST03,BATCH2022A,B.Sc,Business Analytics,2026,5.88,1,2,4,Placed,8.09,Institution 3,Trichy,Engineering
+ST00111,INST01,BATCH2025A,B.Tech,Computer Science,2024,5.59,1,1,2,Unplaced,5.48,Institution 1,Madurai,University
+ST00112,INST03,BATCH2022A,BCA,Mechanical,2025,6.25,2,0,1,Placed,4.21,Institution 3,Trichy,Engineering
+ST00113,INST05,BATCH2025B,M.Sc,Information Technology,2026,9.51,1,2,3,Placed,4.07,Institution 5,Bengaluru,Arts and Science
+ST00114,INST03,BATCH2024A,B.Tech,Mechanical,2024,6.59,0,2,3,Placed,5.64,Institution 3,Trichy,Engineering
+ST00115,INST01,BATCH2024B,BCA,Information Technology,2026,7.09,1,3,1,Unplaced,8.26,Institution 1,Madurai,University
+ST00116,INST05,BATCH2025A,M.Sc,Mechanical,2026,5.97,0,2,1,Placed,4.96,Institution 5,Bengaluru,Arts and Science
+ST00117,INST10,BATCH2023A,M.Sc,Data Science,2023,6.5,3,1,4,Unplaced,7.37,Institution 10,Chennai,University
+ST00118,INST07,BATCH2023A,B.Tech,Information Technology,2026,7.84,0,0,1,Placed,3.13,Institution 7,Madurai,University
+ST00119,INST07,BATCH2025B,MCA,Mechanical,2026,8.23,3,2,4,Placed,5.59,Institution 7,Madurai,University
+ST00120,INST09,BATCH2023A,MCA,Computer Science,2024,6.6,0,3,4,Placed,8.95,Institution 9,Coimbatore,University
+ST00121,INST10,BATCH2024B,M.Sc,Data Science,2024,5.76,2,0,5,Placed,7.51,Institution 10,Chennai,University
+ST00122,INST10,BATCH2025B,MCA,Data Science,2023,7.26,0,2,3,Placed,3.87,Institution 10,Chennai,University
+ST00123,INST03,BATCH2024B,B.E.,Computer Science,2026,6.55,2,3,3,Placed,5.76,Institution 3,Trichy,Engineering
+ST00124,INST07,BATCH2024A,M.Sc,Mechanical,2023,6.49,2,2,3,Placed,4.02,Institution 7,Madurai,University
+ST00125,INST01,BATCH2022A,M.Sc,Electronics,2026,9.82,1,0,5,Placed,5.16,Institution 1,Madurai,University
+ST00126,INST04,BATCH2024A,BCA,Computer Science,2025,8.27,0,0,4,Placed,7.57,Institution 4,Coimbatore,University
+ST00127,INST04,BATCH2024A,MCA,Mechanical,2025,8.01,3,0,4,Unplaced,7.51,Institution 4,Coimbatore,University
+ST00128,INST05,BATCH2024B,M.Sc,Computer Science,2023,7.37,1,1,1,Placed,3.98,Institution 5,Bengaluru,Arts and Science
+ST00129,INST07,BATCH2025B,B.E.,Computer Science,2023,7.43,1,2,5,Unplaced,8.49,Institution 7,Madurai,University
+ST00130,INST07,BATCH2025B,BCA,Information Technology,2023,7.93,2,1,1,Unplaced,6.35,Institution 7,Madurai,University
+ST00131,INST04,BATCH2023A,B.Tech,Mechanical,2024,8.63,2,0,5,Placed,4.97,Institution 4,Coimbatore,University
+ST00132,INST07,BATCH2022B,M.Sc,Electronics,2024,8.66,3,3,1,Placed,5.76,Institution 7,Madurai,University
+ST00133,INST03,BATCH2022A,B.E.,Information Technology,2024,6.27,0,2,2,Placed,6.43,Institution 3,Trichy,Engineering
+ST00134,INST06,BATCH2024B,B.Sc,Computer Science,2023,7.75,0,1,3,Unplaced,6.14,Institution 6,Trichy,University
+ST00135,INST02,BATCH2023A,B.E.,Business Analytics,2026,7.35,1,2,3,Unplaced,5.66,Institution 2,Bengaluru,Engineering
+ST00136,INST10,BATCH2025A,B.E.,Computer Science,2025,9.42,0,3,4,Placed,5.78,Institution 10,Chennai,University
+ST00137,INST09,BATCH2022B,BCA,Computer Science,2023,8.34,0,1,2,Unplaced,3.65,Institution 9,Coimbatore,University
+ST00138,INST05,BATCH2022B,B.Tech,Mechanical,2024,7.9,0,0,3,Unplaced,7.78,Institution 5,Bengaluru,Arts and Science
+ST00139,INST06,BATCH2024B,B.Sc,Mechanical,2024,6.02,0,1,4,Placed,6.02,Institution 6,Trichy,University
+ST00140,INST04,BATCH2023B,MCA,Information Technology,2023,8.23,0,2,2,Placed,3.35,Institution 4,Coimbatore,University
+ST00141,INST10,BATCH2022A,MCA,Electronics,2023,6.03,2,2,3,Unplaced,7.48,Institution 10,Chennai,University
+ST00142,INST07,BATCH2022B,B.E.,Information Technology,2024,7.02,1,2,1,Placed,8.56,Institution 7,Madurai,University
+ST00143,INST09,BATCH2024B,BCA,Data Science,2026,6.14,0,2,5,Placed,8.66,Institution 9,Coimbatore,University
+ST00144,INST07,BATCH2024B,BCA,Computer Science,2024,8.61,1,0,2,Placed,4.9,Institution 7,Madurai,University
+ST00145,INST01,BATCH2023A,MCA,Business Analytics,2024,6.43,0,1,4,Placed,3.38,Institution 1,Madurai,University
+ST00146,INST01,BATCH2025A,B.Sc,Computer Science,2023,7.26,0,0,2,Unplaced,5.87,Institution 1,Madurai,University
+ST00147,INST09,BATCH2023B,B.Tech,Computer Science,2026,9.53,1,0,4,Placed,3.23,Institution 9,Coimbatore,University
+ST00148,INST09,BATCH2022A,B.Sc,Information Technology,2024,6.42,3,0,2,Placed,8.57,Institution 9,Coimbatore,University
+ST00149,INST04,BATCH2025B,M.Sc,Business Analytics,2024,7.79,0,2,4,Unplaced,3.69,Institution 4,Coimbatore,University
+ST00150,INST09,BATCH2024A,M.Sc,Business Analytics,2025,7.39,0,2,3,Placed,4.14,Institution 9,Coimbatore,University
+ST00151,INST03,BATCH2025A,B.Tech,Business Analytics,2023,5.58,0,2,1,Placed,5.14,Institution 3,Trichy,Engineering
+ST00152,INST07,BATCH2025A,MCA,Information Technology,2025,9.07,0,1,3,Placed,4.99,Institution 7,Madurai,University
+ST00153,INST06,BATCH2023A,B.Tech,Computer Science,2025,5.81,0,3,1,Placed,7.67,Institution 6,Trichy,University
+ST00154,INST08,BATCH2025B,BCA,Information Technology,2024,7.63,3,2,3,Placed,5.47,Institution 8,Chennai,Arts and Science
+ST00155,INST09,BATCH2022B,M.Sc,Mechanical,2023,8.02,0,1,3,Placed,3.61,Institution 9,Coimbatore,University
+ST00156,INST05,BATCH2022B,B.E.,Mechanical,2026,8.33,0,2,2,Placed,4.24,Institution 5,Bengaluru,Arts and Science
+ST00157,INST01,BATCH2023A,B.E.,Information Technology,2024,8.6,0,2,5,Placed,5.81,Institution 1,Madurai,University
+ST00158,INST03,BATCH2024B,MCA,Business Analytics,2026,6.64,3,0,4,Unplaced,3.46,Institution 3,Trichy,Engineering
+ST00159,INST10,BATCH2022B,BCA,Computer Science,2026,5.54,3,0,4,Unplaced,6.48,Institution 10,Chennai,University
+ST00160,INST08,BATCH2023B,B.Sc,Information Technology,2023,8.76,1,0,4,Placed,6.18,Institution 8,Chennai,Arts and Science
+ST00161,INST06,BATCH2022A,BCA,Information Technology,2025,7.91,3,1,1,Placed,7.15,Institution 6,Trichy,University
+ST00162,INST08,BATCH2025A,B.E.,Information Technology,2023,9.26,0,3,4,Placed,8.6,Institution 8,Chennai,Arts and Science
+ST00163,INST09,BATCH2025A,B.E.,Data Science,2026,9.2,0,3,4,Placed,8.43,Institution 9,Coimbatore,University
+ST00164,INST04,BATCH2023B,M.Sc,Mechanical,2024,9.29,1,1,2,Placed,8.65,Institution 4,Coimbatore,University
+ST00165,INST01,BATCH2025B,BCA,Business Analytics,2026,7.68,0,2,3,Unplaced,4.09,Institution 1,Madurai,University
+ST00166,INST01,BATCH2022B,BCA,Electronics,2024,7.0,0,1,4,Placed,3.36,Institution 1,Madurai,University
+ST00167,INST10,BATCH2025A,B.E.,Business Analytics,2024,9.06,0,2,5,Placed,4.46,Institution 10,Chennai,University
+ST00168,INST04,BATCH2024A,B.Sc,Electronics,2023,7.53,1,1,4,Placed,8.32,Institution 4,Coimbatore,University
+ST00169,INST07,BATCH2025B,MCA,Data Science,2026,6.33,3,1,1,Unplaced,8.82,Institution 7,Madurai,University
+ST00170,INST02,BATCH2022A,MCA,Information Technology,2025,9.35,0,1,1,Placed,8.09,Institution 2,Bengaluru,Engineering
+ST00171,INST03,BATCH2022A,BCA,Data Science,2026,9.47,2,3,1,Unplaced,3.22,Institution 3,Trichy,Engineering
+ST00172,INST01,BATCH2025A,MCA,Data Science,2026,7.6,1,0,4,Unplaced,8.66,Institution 1,Madurai,University
+ST00173,INST05,BATCH2023A,B.E.,Computer Science,2025,5.84,0,1,2,Placed,5.25,Institution 5,Bengaluru,Arts and Science
+ST00174,INST01,BATCH2025B,B.E.,Mechanical,2023,7.25,1,3,5,Placed,2.56,Institution 1,Madurai,University
+ST00175,INST08,BATCH2025A,BCA,Electronics,2026,9.12,0,0,4,Placed,5.38,Institution 8,Chennai,Arts and Science
+ST00176,INST01,BATCH2023A,BCA,Information Technology,2026,9.56,3,0,2,Placed,2.8,Institution 1,Madurai,University
+ST00177,INST01,BATCH2025A,M.Sc,Electronics,2024,6.42,3,1,2,Placed,6.04,Institution 1,Madurai,University
+ST00178,INST02,BATCH2024A,BCA,Business Analytics,2026,5.8,1,2,4,Placed,4.7,Institution 2,Bengaluru,Engineering
+ST00179,INST02,BATCH2025B,B.Sc,Electronics,2025,9.45,0,2,4,Placed,5.58,Institution 2,Bengaluru,Engineering
+ST00180,INST06,BATCH2024B,MCA,Business Analytics,2024,7.25,0,2,2,Unplaced,6.49,Institution 6,Trichy,University
+ST00181,INST07,BATCH2022A,BCA,Mechanical,2023,7.94,2,1,2,Unplaced,8.15,Institution 7,Madurai,University
+ST00182,INST05,BATCH2025A,B.Tech,Business Analytics,2024,9.86,2,2,2,Placed,6.8,Institution 5,Bengaluru,Arts and Science
+ST00183,INST01,BATCH2024A,M.Sc,Electronics,2025,5.8,3,3,4,Unplaced,5.32,Institution 1,Madurai,University
+ST00184,INST01,BATCH2023A,B.Tech,Electronics,2025,8.42,2,3,2,Unplaced,7.83,Institution 1,Madurai,University
+ST00185,INST03,BATCH2023A,B.E.,Business Analytics,2024,5.83,0,3,1,Placed,8.39,Institution 3,Trichy,Engineering
+ST00186,INST02,BATCH2022A,MCA,Data Science,2023,7.19,2,3,4,Placed,3.28,Institution 2,Bengaluru,Engineering
+ST00187,INST05,BATCH2023B,BCA,Mechanical,2024,9.12,0,0,1,Placed,5.96,Institution 5,Bengaluru,Arts and Science
+ST00188,INST10,BATCH2025A,B.Tech,Computer Science,2023,7.45,2,3,3,Unplaced,4.35,Institution 10,Chennai,University
+ST00189,INST06,BATCH2025B,MCA,Information Technology,2024,9.99,3,2,4,Placed,2.81,Institution 6,Trichy,University
+ST00190,INST07,BATCH2022B,B.E.,Electronics,2025,8.02,3,1,3,Placed,6.85,Institution 7,Madurai,University
+ST00191,INST04,BATCH2023A,B.Sc,Information Technology,2026,6.95,0,2,2,Unplaced,8.11,Institution 4,Coimbatore,University
+ST00192,INST07,BATCH2025B,M.Sc,Computer Science,2026,6.49,1,3,2,Unplaced,3.56,Institution 7,Madurai,University
+ST00193,INST08,BATCH2025B,MCA,Information Technology,2023,7.08,3,0,5,Placed,7.78,Institution 8,Chennai,Arts and Science
+ST00194,INST01,BATCH2024B,MCA,Computer Science,2023,7.18,1,3,2,Placed,8.05,Institution 1,Madurai,University
+ST00195,INST06,BATCH2025B,B.Sc,Business Analytics,2023,5.81,0,1,3,Placed,8.44,Institution 6,Trichy,University
+ST00196,INST08,BATCH2025B,MCA,Data Science,2025,7.16,0,2,2,Placed,4.22,Institution 8,Chennai,Arts and Science
+ST00197,INST05,BATCH2024B,B.E.,Electronics,2024,7.59,3,1,4,Placed,8.38,Institution 5,Bengaluru,Arts and Science
+ST00198,INST04,BATCH2023A,B.E.,Computer Science,2025,8.75,0,1,2,Placed,4.58,Institution 4,Coimbatore,University
+ST00199,INST02,BATCH2025B,B.Sc,Information Technology,2026,8.46,0,1,5,Placed,6.09,Institution 2,Bengaluru,Engineering
+ST00200,INST06,BATCH2023B,M.Sc,Electronics,2023,8.69,1,2,2,Placed,2.83,Institution 6,Trichy,University
+ST00201,INST06,BATCH2023B,BCA,Data Science,2024,5.54,3,3,3,Unplaced,2.79,Institution 6,Trichy,University
+ST00202,INST01,BATCH2024A,B.Tech,Business Analytics,2026,6.48,0,1,3,Unplaced,7.18,Institution 1,Madurai,University
+ST00203,INST09,BATCH2024B,BCA,Electronics,2026,8.48,2,2,2,Placed,5.39,Institution 9,Coimbatore,University
+ST00204,INST06,BATCH2024A,MCA,Computer Science,2026,7.68,0,0,3,Placed,4.17,Institution 6,Trichy,University
+ST00205,INST03,BATCH2024B,B.Tech,Data Science,2025,5.52,1,2,3,Unplaced,3.74,Institution 3,Trichy,Engineering
+ST00206,INST04,BATCH2025A,B.Sc,Information Technology,2023,9.12,0,0,5,Placed,6.85,Institution 4,Coimbatore,University
+ST00207,INST04,BATCH2025A,B.Sc,Data Science,2026,8.98,0,2,4,Unplaced,2.5,Institution 4,Coimbatore,University
+ST00208,INST03,BATCH2025B,M.Sc,Data Science,2023,7.97,0,3,5,Unplaced,7.74,Institution 3,Trichy,Engineering
+ST00209,INST10,BATCH2022B,B.Tech,Mechanical,2025,5.8,0,1,1,Placed,3.02,Institution 10,Chennai,University
+ST00210,INST03,BATCH2025A,B.E.,Data Science,2026,8.95,3,3,5,Placed,3.74,Institution 3,Trichy,Engineering
+ST00211,INST03,BATCH2022B,B.Tech,Data Science,2025,8.13,2,2,2,Placed,5.01,Institution 3,Trichy,Engineering
+ST00212,INST04,BATCH2025A,MCA,Electronics,2025,9.02,0,1,4,Placed,5.65,Institution 4,Coimbatore,University
+ST00213,INST07,BATCH2022A,B.E.,Information Technology,2023,8.88,0,0,2,Placed,4.81,Institution 7,Madurai,University
+ST00214,INST04,BATCH2025A,B.Sc,Electronics,2026,9.11,1,2,1,Placed,4.58,Institution 4,Coimbatore,University
+ST00215,INST09,BATCH2024A,B.Tech,Electronics,2025,7.83,3,1,4,Unplaced,8.77,Institution 9,Coimbatore,University
+ST00216,INST01,BATCH2023A,BCA,Computer Science,2026,6.13,3,0,3,Placed,6.67,Institution 1,Madurai,University
+ST00217,INST08,BATCH2025B,M.Sc,Electronics,2023,8.52,0,0,5,Placed,2.65,Institution 8,Chennai,Arts and Science
+ST00218,INST07,BATCH2024A,BCA,Mechanical,2025,8.29,3,3,2,Placed,5.3,Institution 7,Madurai,University
+ST00219,INST02,BATCH2023A,M.Sc,Mechanical,2023,8.84,1,2,1,Placed,8.19,Institution 2,Bengaluru,Engineering
+ST00220,INST08,BATCH2023B,MCA,Computer Science,2026,6.26,0,0,3,Placed,4.46,Institution 8,Chennai,Arts and Science
+ST00221,INST01,BATCH2024A,BCA,Business Analytics,2026,6.38,0,1,5,Placed,3.11,Institution 1,Madurai,University
+ST00222,INST09,BATCH2023B,B.Tech,Information Technology,2023,9.51,3,0,3,Placed,7.43,Institution 9,Coimbatore,University
+ST00223,INST09,BATCH2022B,B.Tech,Information Technology,2024,8.87,3,0,5,Placed,6.44,Institution 9,Coimbatore,University
+ST00224,INST02,BATCH2022B,BCA,Electronics,2025,9.59,1,3,4,Placed,6.21,Institution 2,Bengaluru,Engineering
+ST00225,INST07,BATCH2022A,B.Tech,Electronics,2026,8.91,2,3,3,Placed,2.85,Institution 7,Madurai,University
+ST00226,INST10,BATCH2025A,MCA,Business Analytics,2026,8.19,2,1,3,Unplaced,3.41,Institution 10,Chennai,University
+ST00227,INST03,BATCH2024A,B.E.,Electronics,2025,8.44,3,3,3,Unplaced,6.55,Institution 3,Trichy,Engineering
+ST00228,INST07,BATCH2023B,MCA,Information Technology,2023,9.5,0,0,4,Placed,3.85,Institution 7,Madurai,University
+ST00229,INST10,BATCH2023A,M.Sc,Data Science,2023,8.1,0,0,1,Placed,5.78,Institution 10,Chennai,University
+ST00230,INST09,BATCH2022B,MCA,Mechanical,2023,8.35,3,3,5,Unplaced,6.04,Institution 9,Coimbatore,University
+ST00231,INST04,BATCH2025A,M.Sc,Data Science,2024,6.2,0,0,3,Placed,4.34,Institution 4,Coimbatore,University
+ST00232,INST01,BATCH2022B,B.Tech,Data Science,2024,7.63,0,0,4,Unplaced,8.66,Institution 1,Madurai,University
+ST00233,INST02,BATCH2023A,B.E.,Information Technology,2026,8.72,2,1,1,Placed,7.98,Institution 2,Bengaluru,Engineering
+ST00234,INST01,BATCH2025A,B.Tech,Data Science,2023,6.72,3,3,5,Placed,7.2,Institution 1,Madurai,University
+ST00235,INST05,BATCH2025A,B.Sc,Business Analytics,2025,6.41,1,0,4,Placed,3.01,Institution 5,Bengaluru,Arts and Science
+ST00236,INST05,BATCH2023B,B.Tech,Computer Science,2026,6.91,0,3,5,Unplaced,3.19,Institution 5,Bengaluru,Arts and Science
+ST00237,INST07,BATCH2023B,M.Sc,Electronics,2025,6.59,3,1,3,Placed,5.7,Institution 7,Madurai,University
+ST00238,INST09,BATCH2024A,B.Tech,Computer Science,2026,6.47,0,3,1,Unplaced,3.54,Institution 9,Coimbatore,University
+ST00239,INST09,BATCH2024A,B.Tech,Mechanical,2024,7.41,0,0,4,Unplaced,8.86,Institution 9,Coimbatore,University
+ST00240,INST03,BATCH2024B,B.E.,Electronics,2026,9.59,3,3,1,Placed,3.53,Institution 3,Trichy,Engineering
+ST00241,INST03,BATCH2025B,B.Tech,Data Science,2024,7.78,0,0,3,Placed,5.67,Institution 3,Trichy,Engineering
+ST00242,INST03,BATCH2024B,B.E.,Mechanical,2026,6.35,0,0,1,Unplaced,4.87,Institution 3,Trichy,Engineering
+ST00243,INST04,BATCH2022A,BCA,Electronics,2023,5.85,0,0,1,Placed,6.66,Institution 4,Coimbatore,University
+ST00244,INST08,BATCH2022B,B.Sc,Business Analytics,2025,8.63,0,1,2,Placed,3.34,Institution 8,Chennai,Arts and Science
+ST00245,INST06,BATCH2024A,B.E.,Business Analytics,2023,7.22,0,3,1,Placed,5.3,Institution 6,Trichy,University
+ST00246,INST08,BATCH2023B,M.Sc,Business Analytics,2026,9.2,0,1,5,Placed,4.29,Institution 8,Chennai,Arts and Science
+ST00247,INST01,BATCH2023A,BCA,Business Analytics,2026,8.47,0,3,4,Unplaced,8.27,Institution 1,Madurai,University
+ST00248,INST08,BATCH2023B,B.E.,Data Science,2026,9.08,2,1,2,Placed,2.76,Institution 8,Chennai,Arts and Science
+ST00249,INST04,BATCH2022B,B.E.,Computer Science,2024,6.72,0,2,4,Placed,8.44,Institution 4,Coimbatore,University
+ST00250,INST01,BATCH2024B,B.Sc,Electronics,2025,8.62,3,0,4,Placed,7.91,Institution 1,Madurai,University
+ST00251,INST08,BATCH2023B,M.Sc,Data Science,2025,6.69,0,0,3,Placed,4.43,Institution 8,Chennai,Arts and Science
+ST00252,INST04,BATCH2025B,MCA,Business Analytics,2026,9.73,1,1,3,Placed,7.63,Institution 4,Coimbatore,University
+ST00253,INST06,BATCH2022A,MCA,Computer Science,2026,8.36,0,2,2,Unplaced,2.7,Institution 6,Trichy,University
+ST00254,INST08,BATCH2022B,B.E.,Mechanical,2024,6.96,0,0,3,Placed,8.78,Institution 8,Chennai,Arts and Science
+ST00255,INST04,BATCH2024B,B.Tech,Mechanical,2023,6.71,1,3,3,Placed,5.92,Institution 4,Coimbatore,University
+ST00256,INST03,BATCH2025B,M.Sc,Mechanical,2023,6.36,2,1,3,Unplaced,4.47,Institution 3,Trichy,Engineering
+ST00257,INST09,BATCH2023A,BCA,Business Analytics,2025,8.63,1,0,4,Placed,4.86,Institution 9,Coimbatore,University
+ST00258,INST03,BATCH2024B,B.Tech,Mechanical,2024,6.48,0,0,2,Placed,2.93,Institution 3,Trichy,Engineering
+ST00259,INST09,BATCH2025A,B.Tech,Information Technology,2026,8.18,1,1,4,Unplaced,8.93,Institution 9,Coimbatore,University
+ST00260,INST02,BATCH2025B,M.Sc,Electronics,2025,6.69,0,1,5,Unplaced,2.76,Institution 2,Bengaluru,Engineering
+ST00261,INST02,BATCH2025B,B.E.,Electronics,2024,8.48,1,3,4,Placed,6.76,Institution 2,Bengaluru,Engineering
+ST00262,INST02,BATCH2022A,B.E.,Business Analytics,2023,9.17,0,3,5,Placed,5.38,Institution 2,Bengaluru,Engineering
+ST00263,INST06,BATCH2022B,B.E.,Information Technology,2024,9.0,3,0,1,Placed,8.67,Institution 6,Trichy,University
+ST00264,INST03,BATCH2023A,B.E.,Data Science,2023,8.92,0,0,1,Placed,4.1,Institution 3,Trichy,Engineering
+ST00265,INST09,BATCH2022A,MCA,Data Science,2024,6.34,1,1,5,Placed,5.96,Institution 9,Coimbatore,University
+ST00266,INST04,BATCH2024B,B.E.,Mechanical,2025,5.9,0,0,5,Placed,5.64,Institution 4,Coimbatore,University
+ST00267,INST01,BATCH2022A,MCA,Computer Science,2023,8.65,3,0,4,Placed,7.07,Institution 1,Madurai,University
+ST00268,INST04,BATCH2025B,MCA,Data Science,2025,7.16,0,1,5,Placed,2.94,Institution 4,Coimbatore,University
+ST00269,INST01,BATCH2022B,B.E.,Computer Science,2025,7.45,0,0,2,Placed,3.76,Institution 1,Madurai,University
+ST00270,INST05,BATCH2024A,B.Sc,Electronics,2023,5.64,2,0,1,Unplaced,3.89,Institution 5,Bengaluru,Arts and Science
+ST00271,INST04,BATCH2022A,BCA,Computer Science,2023,6.67,0,2,1,Placed,7.3,Institution 4,Coimbatore,University
+ST00272,INST08,BATCH2025A,B.Tech,Electronics,2026,5.65,2,3,5,Placed,3.73,Institution 8,Chennai,Arts and Science
+ST00273,INST08,BATCH2022A,MCA,Information Technology,2026,9.46,0,1,3,Placed,6.23,Institution 8,Chennai,Arts and Science
+ST00274,INST07,BATCH2024B,M.Sc,Information Technology,2026,6.6,1,2,3,Placed,3.9,Institution 7,Madurai,University
+ST00275,INST03,BATCH2024B,M.Sc,Business Analytics,2025,8.01,0,3,5,Unplaced,8.1,Institution 3,Trichy,Engineering
+ST00276,INST01,BATCH2023A,BCA,Business Analytics,2025,5.68,1,3,2,Placed,8.62,Institution 1,Madurai,University
+ST00277,INST01,BATCH2024B,M.Sc,Mechanical,2026,8.5,0,3,3,Placed,5.87,Institution 1,Madurai,University
+ST00278,INST03,BATCH2023B,B.Sc,Data Science,2025,6.95,0,2,5,Placed,4.79,Institution 3,Trichy,Engineering
+ST00279,INST06,BATCH2022B,M.Sc,Mechanical,2025,9.54,0,2,2,Placed,4.02,Institution 6,Trichy,University
+ST00280,INST07,BATCH2022B,B.Tech,Electronics,2023,9.5,3,3,2,Placed,2.82,Institution 7,Madurai,University
+ST00281,INST06,BATCH2024A,B.Tech,Mechanical,2023,6.96,0,0,4,Placed,4.25,Institution 6,Trichy,University
+ST00282,INST06,BATCH2024A,MCA,Computer Science,2025,9.55,0,0,2,Placed,6.75,Institution 6,Trichy,University
+ST00283,INST06,BATCH2022B,B.E.,Electronics,2026,9.98,1,2,3,Placed,5.97,Institution 6,Trichy,University
+ST00284,INST03,BATCH2025A,B.Sc,Business Analytics,2024,9.21,1,2,3,Placed,8.64,Institution 3,Trichy,Engineering
+ST00285,INST06,BATCH2024A,MCA,Information Technology,2026,9.3,2,2,5,Placed,5.08,Institution 6,Trichy,University
+ST00286,INST08,BATCH2023A,B.Sc,Business Analytics,2024,6.62,0,3,5,Unplaced,7.01,Institution 8,Chennai,Arts and Science
+ST00287,INST02,BATCH2024B,B.E.,Data Science,2026,8.1,0,0,2,Unplaced,5.68,Institution 2,Bengaluru,Engineering
+ST00288,INST05,BATCH2022B,M.Sc,Electronics,2023,5.8,0,2,1,Placed,5.83,Institution 5,Bengaluru,Arts and Science
+ST00289,INST01,BATCH2025B,M.Sc,Electronics,2025,5.93,1,2,4,Placed,4.24,Institution 1,Madurai,University
+ST00290,INST01,BATCH2024A,B.E.,Computer Science,2025,10.0,2,1,1,Placed,5.46,Institution 1,Madurai,University
+ST00291,INST05,BATCH2022B,MCA,Data Science,2023,6.97,0,3,2,Unplaced,5.56,Institution 5,Bengaluru,Arts and Science
+ST00292,INST03,BATCH2023B,B.E.,Information Technology,2024,8.87,3,1,2,Placed,7.09,Institution 3,Trichy,Engineering
+ST00293,INST04,BATCH2022A,BCA,Electronics,2024,9.13,0,0,1,Placed,8.61,Institution 4,Coimbatore,University
+ST00294,INST03,BATCH2024B,B.Tech,Electronics,2024,9.36,0,1,4,Placed,4.64,Institution 3,Trichy,Engineering
+ST00295,INST01,BATCH2022B,MCA,Computer Science,2023,9.99,1,1,1,Placed,2.77,Institution 1,Madurai,University
+ST00296,INST01,BATCH2022A,B.Sc,Mechanical,2024,6.59,3,1,5,Placed,5.73,Institution 1,Madurai,University
+ST00297,INST05,BATCH2024A,BCA,Information Technology,2023,5.68,3,3,3,Placed,6.04,Institution 5,Bengaluru,Arts and Science
+ST00298,INST06,BATCH2022A,MCA,Business Analytics,2026,7.35,3,0,5,Unplaced,3.59,Institution 6,Trichy,University
+ST00299,INST03,BATCH2024B,B.E.,Data Science,2026,6.09,0,1,3,Unplaced,7.44,Institution 3,Trichy,Engineering
+ST00300,INST09,BATCH2022B,B.E.,Electronics,2023,5.6,0,3,2,Placed,8.9,Institution 9,Coimbatore,University
+ST00301,INST05,BATCH2023B,B.E.,Electronics,2025,7.12,1,0,4,Placed,8.65,Institution 5,Bengaluru,Arts and Science
+ST00302,INST08,BATCH2025A,B.E.,Business Analytics,2026,9.03,1,2,1,Unplaced,3.78,Institution 8,Chennai,Arts and Science
+ST00303,INST01,BATCH2024A,B.Sc,Information Technology,2024,8.05,3,1,4,Unplaced,8.19,Institution 1,Madurai,University
+ST00304,INST05,BATCH2022B,BCA,Mechanical,2023,6.91,1,0,1,Placed,7.08,Institution 5,Bengaluru,Arts and Science
+ST00305,INST03,BATCH2024B,M.Sc,Electronics,2024,8.44,0,1,5,Placed,5.45,Institution 3,Trichy,Engineering
+ST00306,INST01,BATCH2024A,B.Tech,Information Technology,2024,6.54,0,2,5,Placed,6.01,Institution 1,Madurai,University
+ST00307,INST04,BATCH2023A,B.Sc,Business Analytics,2025,5.56,2,0,1,Placed,8.02,Institution 4,Coimbatore,University
+ST00308,INST05,BATCH2022A,B.Sc,Computer Science,2024,8.94,2,3,4,Placed,5.62,Institution 5,Bengaluru,Arts and Science
+ST00309,INST07,BATCH2025A,M.Sc,Mechanical,2025,8.31,0,0,1,Placed,4.93,Institution 7,Madurai,University
+ST00310,INST01,BATCH2024B,M.Sc,Data Science,2026,8.93,0,3,2,Placed,5.71,Institution 1,Madurai,University
+ST00311,INST03,BATCH2023A,B.Tech,Electronics,2023,5.68,0,0,5,Placed,6.26,Institution 3,Trichy,Engineering
+ST00312,INST02,BATCH2025B,B.Tech,Information Technology,2024,9.27,0,3,2,Placed,3.73,Institution 2,Bengaluru,Engineering
+ST00313,INST09,BATCH2022B,M.Sc,Computer Science,2023,8.29,2,2,5,Unplaced,8.36,Institution 9,Coimbatore,University
+ST00314,INST10,BATCH2023B,B.E.,Data Science,2024,8.04,3,2,5,Unplaced,6.88,Institution 10,Chennai,University
+ST00315,INST06,BATCH2024A,B.Sc,Information Technology,2023,8.31,3,2,3,Placed,6.62,Institution 6,Trichy,University
+ST00316,INST10,BATCH2022A,MCA,Information Technology,2024,9.39,1,0,2,Placed,3.15,Institution 10,Chennai,University
+ST00317,INST03,BATCH2024A,B.Tech,Data Science,2024,8.14,3,2,2,Unplaced,6.43,Institution 3,Trichy,Engineering
+ST00318,INST08,BATCH2025A,B.Tech,Computer Science,2024,8.11,0,1,3,Placed,3.29,Institution 8,Chennai,Arts and Science
+ST00319,INST08,BATCH2022B,M.Sc,Business Analytics,2024,9.96,2,2,4,Placed,3.01,Institution 8,Chennai,Arts and Science
+ST00320,INST02,BATCH2024A,BCA,Computer Science,2024,8.91,0,3,2,Placed,5.93,Institution 2,Bengaluru,Engineering
+ST00321,INST06,BATCH2022A,MCA,Mechanical,2024,7.49,3,3,1,Unplaced,5.12,Institution 6,Trichy,University
+ST00322,INST07,BATCH2022B,MCA,Electronics,2024,8.68,2,3,3,Placed,6.33,Institution 7,Madurai,University
+ST00323,INST02,BATCH2024A,B.Tech,Data Science,2024,7.25,3,0,2,Unplaced,3.08,Institution 2,Bengaluru,Engineering
+ST00324,INST10,BATCH2023B,B.E.,Business Analytics,2024,6.53,0,1,4,Placed,5.3,Institution 10,Chennai,University
+ST00325,INST02,BATCH2024B,BCA,Data Science,2023,8.19,0,2,2,Placed,3.64,Institution 2,Bengaluru,Engineering
+ST00326,INST10,BATCH2022B,MCA,Data Science,2025,9.68,0,1,5,Placed,8.92,Institution 10,Chennai,University
+ST00327,INST01,BATCH2024B,B.Tech,Computer Science,2024,9.68,0,1,1,Placed,6.15,Institution 1,Madurai,University
+ST00328,INST08,BATCH2025B,MCA,Electronics,2025,7.04,2,3,3,Placed,6.97,Institution 8,Chennai,Arts and Science
+ST00329,INST01,BATCH2022B,BCA,Mechanical,2024,7.87,1,3,5,Unplaced,4.62,Institution 1,Madurai,University
+ST00330,INST09,BATCH2023B,BCA,Information Technology,2024,6.45,3,3,4,Placed,3.12,Institution 9,Coimbatore,University
+ST00331,INST06,BATCH2024B,B.Sc,Information Technology,2023,9.98,3,0,5,Placed,8.84,Institution 6,Trichy,University
+ST00332,INST07,BATCH2023A,M.Sc,Data Science,2026,9.92,0,1,5,Placed,4.36,Institution 7,Madurai,University
+ST00333,INST10,BATCH2022A,M.Sc,Electronics,2026,8.42,0,1,4,Placed,5.25,Institution 10,Chennai,University
+ST00334,INST07,BATCH2023A,B.Tech,Business Analytics,2023,9.12,3,0,5,Placed,6.72,Institution 7,Madurai,University
+ST00335,INST10,BATCH2024A,BCA,Computer Science,2025,8.72,2,0,3,Placed,2.66,Institution 10,Chennai,University
+ST00336,INST03,BATCH2023B,B.Sc,Electronics,2026,8.17,1,0,2,Unplaced,7.77,Institution 3,Trichy,Engineering
+ST00337,INST02,BATCH2023A,B.Sc,Electronics,2023,5.74,2,1,5,Unplaced,5.99,Institution 2,Bengaluru,Engineering
+ST00338,INST09,BATCH2022B,MCA,Computer Science,2023,7.55,0,1,3,Unplaced,4.31,Institution 9,Coimbatore,University
+ST00339,INST08,BATCH2024A,MCA,Data Science,2026,8.54,0,3,2,Placed,2.9,Institution 8,Chennai,Arts and Science
+ST00340,INST10,BATCH2024A,B.Sc,Electronics,2025,8.55,3,3,2,Placed,3.56,Institution 10,Chennai,University
+ST00341,INST07,BATCH2023A,MCA,Information Technology,2023,7.18,2,1,5,Placed,8.32,Institution 7,Madurai,University
+ST00342,INST09,BATCH2025B,BCA,Computer Science,2024,9.74,0,3,3,Placed,6.96,Institution 9,Coimbatore,University
+ST00343,INST04,BATCH2023A,B.E.,Business Analytics,2025,6.25,1,0,5,Unplaced,4.12,Institution 4,Coimbatore,University
+ST00344,INST04,BATCH2025B,BCA,Mechanical,2025,7.75,2,2,4,Unplaced,2.93,Institution 4,Coimbatore,University
+ST00345,INST01,BATCH2023B,B.Sc,Data Science,2026,8.61,1,3,2,Placed,6.99,Institution 1,Madurai,University
+ST00346,INST08,BATCH2022A,B.Sc,Computer Science,2026,8.64,3,1,5,Placed,6.22,Institution 8,Chennai,Arts and Science
+ST00347,INST03,BATCH2023A,BCA,Mechanical,2024,8.42,0,3,2,Unplaced,5.13,Institution 3,Trichy,Engineering
+ST00348,INST07,BATCH2025A,MCA,Mechanical,2023,6.74,0,3,3,Placed,4.86,Institution 7,Madurai,University
+ST00349,INST02,BATCH2025B,MCA,Business Analytics,2026,6.2,0,3,1,Unplaced,3.91,Institution 2,Bengaluru,Engineering
+ST00350,INST02,BATCH2023A,M.Sc,Electronics,2026,8.36,0,2,5,Placed,6.85,Institution 2,Bengaluru,Engineering
+ST00351,INST07,BATCH2024B,B.Sc,Business Analytics,2025,8.2,1,0,5,Placed,8.81,Institution 7,Madurai,University
+ST00352,INST06,BATCH2022B,B.Tech,Electronics,2026,6.31,3,1,2,Placed,3.64,Institution 6,Trichy,University
+ST00353,INST03,BATCH2025A,M.Sc,Electronics,2026,8.67,2,2,3,Placed,6.38,Institution 3,Trichy,Engineering
+ST00354,INST09,BATCH2025A,MCA,Computer Science,2026,7.55,0,1,4,Placed,5.26,Institution 9,Coimbatore,University
+ST00355,INST10,BATCH2025B,BCA,Computer Science,2026,8.5,0,1,3,Placed,5.4,Institution 10,Chennai,University
+ST00356,INST06,BATCH2024B,MCA,Data Science,2025,9.27,1,1,5,Placed,4.15,Institution 6,Trichy,University
+ST00357,INST10,BATCH2024B,BCA,Electronics,2024,6.26,0,2,4,Placed,7.86,Institution 10,Chennai,University
+ST00358,INST10,BATCH2024A,M.Sc,Mechanical,2024,5.59,0,0,3,Placed,5.65,Institution 10,Chennai,University
+ST00359,INST06,BATCH2025B,B.Sc,Information Technology,2023,9.01,0,1,1,Placed,6.03,Institution 6,Trichy,University
+ST00360,INST01,BATCH2022A,MCA,Data Science,2026,8.24,1,0,2,Placed,4.48,Institution 1,Madurai,University
+ST00361,INST04,BATCH2022B,BCA,Computer Science,2025,8.65,0,0,3,Placed,3.68,Institution 4,Coimbatore,University
+ST00362,INST10,BATCH2023B,B.Sc,Business Analytics,2023,9.27,0,3,3,Placed,3.06,Institution 10,Chennai,University
+ST00363,INST06,BATCH2025A,B.Tech,Data Science,2023,9.11,1,2,1,Placed,7.14,Institution 6,Trichy,University
+ST00364,INST06,BATCH2023B,BCA,Data Science,2024,9.82,0,2,5,Placed,3.78,Institution 6,Trichy,University
+ST00365,INST05,BATCH2023A,M.Sc,Data Science,2025,7.91,0,3,2,Placed,6.99,Institution 5,Bengaluru,Arts and Science
+ST00366,INST01,BATCH2023A,B.Tech,Data Science,2025,7.7,2,3,3,Placed,5.04,Institution 1,Madurai,University
+ST00367,INST08,BATCH2023B,B.Tech,Information Technology,2025,7.31,3,0,4,Placed,5.2,Institution 8,Chennai,Arts and Science
+ST00368,INST05,BATCH2023A,B.E.,Business Analytics,2024,6.19,0,1,3,Placed,5.55,Institution 5,Bengaluru,Arts and Science
+ST00369,INST05,BATCH2022A,MCA,Business Analytics,2024,8.08,1,2,2,Placed,4.89,Institution 5,Bengaluru,Arts and Science
+ST00370,INST07,BATCH2024B,BCA,Business Analytics,2024,6.75,3,1,3,Unplaced,3.15,Institution 7,Madurai,University
+ST00371,INST04,BATCH2023A,B.Tech,Electronics,2024,9.65,0,1,1,Placed,4.51,Institution 4,Coimbatore,University
+ST00372,INST06,BATCH2024A,B.E.,Mechanical,2024,8.12,0,3,3,Placed,6.81,Institution 6,Trichy,University
+ST00373,INST04,BATCH2023A,M.Sc,Business Analytics,2026,8.17,0,1,3,Placed,6.83,Institution 4,Coimbatore,University
+ST00374,INST03,BATCH2022B,B.Sc,Data Science,2026,7.1,2,0,4,Unplaced,4.36,Institution 3,Trichy,Engineering
+ST00375,INST07,BATCH2022A,BCA,Data Science,2025,5.73,0,3,1,Unplaced,5.49,Institution 7,Madurai,University
+ST00376,INST08,BATCH2022B,B.Tech,Business Analytics,2023,5.64,3,1,1,Unplaced,3.76,Institution 8,Chennai,Arts and Science
+ST00377,INST04,BATCH2022B,MCA,Business Analytics,2025,7.41,1,3,3,Placed,3.87,Institution 4,Coimbatore,University
+ST00378,INST02,BATCH2024A,B.E.,Data Science,2023,5.88,1,0,4,Unplaced,2.65,Institution 2,Bengaluru,Engineering
+ST00379,INST10,BATCH2022A,B.Tech,Electronics,2024,8.23,0,0,3,Placed,8.33,Institution 10,Chennai,University
+ST00380,INST03,BATCH2022A,MCA,Computer Science,2023,9.46,0,1,3,Placed,3.87,Institution 3,Trichy,Engineering
+ST00381,INST01,BATCH2025B,B.Tech,Computer Science,2025,9.47,0,3,2,Placed,3.98,Institution 1,Madurai,University
+ST00382,INST08,BATCH2022A,BCA,Business Analytics,2025,8.47,0,1,2,Placed,4.32,Institution 8,Chennai,Arts and Science
+ST00383,INST03,BATCH2022A,BCA,Information Technology,2023,6.45,2,1,4,Placed,3.33,Institution 3,Trichy,Engineering
+ST00384,INST10,BATCH2022A,BCA,Business Analytics,2026,9.38,3,3,5,Placed,6.66,Institution 10,Chennai,University
+ST00385,INST07,BATCH2024A,M.Sc,Business Analytics,2024,9.49,2,1,2,Placed,2.99,Institution 7,Madurai,University
+ST00386,INST10,BATCH2023A,M.Sc,Computer Science,2024,6.38,2,0,5,Unplaced,3.37,Institution 10,Chennai,University
+ST00387,INST05,BATCH2025B,B.E.,Data Science,2025,8.82,0,3,1,Placed,6.69,Institution 5,Bengaluru,Arts and Science
+ST00388,INST10,BATCH2022B,BCA,Business Analytics,2026,6.79,2,3,2,Placed,4.71,Institution 10,Chennai,University
+ST00389,INST05,BATCH2022A,MCA,Data Science,2023,9.11,0,3,2,Placed,7.1,Institution 5,Bengaluru,Arts and Science
+ST00390,INST07,BATCH2025A,B.Tech,Data Science,2024,9.99,0,3,4,Placed,6.12,Institution 7,Madurai,University
+ST00391,INST09,BATCH2023A,B.Sc,Information Technology,2026,5.64,0,1,5,Placed,4.16,Institution 9,Coimbatore,University
+ST00392,INST05,BATCH2023A,MCA,Data Science,2024,9.54,0,1,2,Placed,6.73,Institution 5,Bengaluru,Arts and Science
+ST00393,INST01,BATCH2022B,M.Sc,Computer Science,2026,8.3,2,0,2,Placed,3.26,Institution 1,Madurai,University
+ST00394,INST10,BATCH2024A,M.Sc,Electronics,2026,9.88,0,2,4,Placed,5.99,Institution 10,Chennai,University
+ST00395,INST10,BATCH2023B,MCA,Electronics,2025,7.59,0,2,4,Unplaced,5.34,Institution 10,Chennai,University
+ST00396,INST01,BATCH2023B,M.Sc,Mechanical,2024,9.31,0,0,5,Placed,4.24,Institution 1,Madurai,University
+ST00397,INST02,BATCH2023A,BCA,Business Analytics,2023,5.78,0,2,1,Placed,6.43,Institution 2,Bengaluru,Engineering
+ST00398,INST06,BATCH2024B,B.E.,Computer Science,2025,7.01,1,0,1,Unplaced,8.16,Institution 6,Trichy,University
+ST00399,INST09,BATCH2024B,B.Tech,Data Science,2025,5.8,2,1,3,Placed,8.99,Institution 9,Coimbatore,University
+ST00400,INST08,BATCH2022B,B.E.,Electronics,2023,9.89,0,3,2,Placed,6.45,Institution 8,Chennai,Arts and Science
+ST00401,INST05,BATCH2023B,B.Tech,Computer Science,2025,9.18,3,3,5,Placed,5.13,Institution 5,Bengaluru,Arts and Science
+ST00402,INST01,BATCH2023A,B.Tech,Electronics,2026,9.34,1,1,2,Placed,3.96,Institution 1,Madurai,University
+ST00403,INST07,BATCH2024A,B.E.,Data Science,2026,9.72,3,3,5,Placed,4.17,Institution 7,Madurai,University
+ST00404,INST05,BATCH2023B,MCA,Electronics,2024,5.88,2,3,5,Placed,5.62,Institution 5,Bengaluru,Arts and Science
+ST00405,INST06,BATCH2023A,B.Tech,Business Analytics,2024,7.24,2,2,5,Unplaced,4.89,Institution 6,Trichy,University
+ST00406,INST07,BATCH2023A,B.E.,Business Analytics,2023,5.82,0,1,2,Unplaced,8.44,Institution 7,Madurai,University
+ST00407,INST03,BATCH2022A,B.Tech,Mechanical,2024,6.45,0,2,4,Placed,4.89,Institution 3,Trichy,Engineering
+ST00408,INST10,BATCH2024A,B.Sc,Mechanical,2026,6.53,0,2,2,Unplaced,4.93,Institution 10,Chennai,University
+ST00409,INST03,BATCH2022A,MCA,Electronics,2023,7.61,1,3,5,Placed,4.99,Institution 3,Trichy,Engineering
+ST00410,INST05,BATCH2022B,BCA,Computer Science,2023,6.71,1,3,3,Placed,7.94,Institution 5,Bengaluru,Arts and Science
+ST00411,INST06,BATCH2022A,B.Tech,Business Analytics,2024,5.95,0,1,1,Placed,6.73,Institution 6,Trichy,University
+ST00412,INST09,BATCH2025A,B.Sc,Computer Science,2026,6.25,2,3,5,Unplaced,6.49,Institution 9,Coimbatore,University
+ST00413,INST05,BATCH2022A,BCA,Computer Science,2023,6.16,0,3,3,Unplaced,4.67,Institution 5,Bengaluru,Arts and Science
+ST00414,INST01,BATCH2025A,BCA,Electronics,2026,9.88,2,1,4,Placed,7.82,Institution 1,Madurai,University
+ST00415,INST04,BATCH2023B,B.Tech,Computer Science,2026,8.92,2,3,5,Placed,2.75,Institution 4,Coimbatore,University
+ST00416,INST05,BATCH2024B,B.E.,Business Analytics,2026,9.85,0,2,3,Placed,8.16,Institution 5,Bengaluru,Arts and Science
+ST00417,INST10,BATCH2025B,B.Tech,Data Science,2024,7.48,0,1,5,Unplaced,5.83,Institution 10,Chennai,University
+ST00418,INST10,BATCH2025B,B.Sc,Mechanical,2025,6.75,1,3,2,Unplaced,5.09,Institution 10,Chennai,University
+ST00419,INST05,BATCH2023A,BCA,Data Science,2025,9.09,3,0,3,Placed,5.73,Institution 5,Bengaluru,Arts and Science
+ST00420,INST07,BATCH2025B,B.Tech,Computer Science,2023,6.97,2,1,2,Placed,6.84,Institution 7,Madurai,University
+ST00421,INST04,BATCH2025A,B.E.,Data Science,2026,6.85,2,1,2,Placed,2.58,Institution 4,Coimbatore,University
+ST00422,INST01,BATCH2024A,B.Tech,Business Analytics,2024,6.55,0,0,3,Placed,8.17,Institution 1,Madurai,University
+ST00423,INST05,BATCH2022A,MCA,Business Analytics,2026,6.08,3,3,1,Placed,5.4,Institution 5,Bengaluru,Arts and Science
+ST00424,INST07,BATCH2025A,B.E.,Computer Science,2026,6.65,0,3,3,Placed,4.73,Institution 7,Madurai,University
+ST00425,INST10,BATCH2024A,B.Sc,Electronics,2024,7.1,0,1,1,Placed,3.4,Institution 10,Chennai,University
+ST00426,INST10,BATCH2024B,BCA,Data Science,2025,8.53,3,1,5,Placed,5.36,Institution 10,Chennai,University
+ST00427,INST06,BATCH2025B,B.Tech,Electronics,2026,5.78,0,3,5,Placed,5.73,Institution 6,Trichy,University
+ST00428,INST05,BATCH2024B,B.E.,Electronics,2026,6.45,2,3,3,Placed,5.12,Institution 5,Bengaluru,Arts and Science
+ST00429,INST04,BATCH2025B,MCA,Information Technology,2025,9.14,1,2,5,Placed,6.91,Institution 4,Coimbatore,University
+ST00430,INST02,BATCH2022A,B.E.,Computer Science,2024,6.16,0,1,4,Unplaced,5.24,Institution 2,Bengaluru,Engineering
+ST00431,INST04,BATCH2022B,M.Sc,Mechanical,2023,7.04,0,1,2,Placed,8.75,Institution 4,Coimbatore,University
+ST00432,INST10,BATCH2022A,MCA,Business Analytics,2025,9.39,0,0,2,Placed,6.4,Institution 10,Chennai,University
+ST00433,INST10,BATCH2023B,B.Sc,Business Analytics,2023,6.2,3,2,1,Unplaced,7.75,Institution 10,Chennai,University
+ST00434,INST03,BATCH2025A,BCA,Computer Science,2023,5.87,0,3,5,Placed,3.21,Institution 3,Trichy,Engineering
+ST00435,INST10,BATCH2023A,B.Sc,Mechanical,2025,7.68,0,2,1,Placed,5.08,Institution 10,Chennai,University
+ST00436,INST01,BATCH2022B,B.Tech,Business Analytics,2026,6.86,0,3,2,Placed,4.69,Institution 1,Madurai,University
+ST00437,INST08,BATCH2022A,B.E.,Computer Science,2023,8.04,1,3,2,Placed,6.2,Institution 8,Chennai,Arts and Science
+ST00438,INST05,BATCH2024A,M.Sc,Business Analytics,2023,9.12,0,2,5,Placed,8.1,Institution 5,Bengaluru,Arts and Science
+ST00439,INST04,BATCH2022B,MCA,Electronics,2024,6.12,0,1,4,Placed,3.01,Institution 4,Coimbatore,University
+ST00440,INST08,BATCH2025A,MCA,Data Science,2026,8.11,1,3,4,Placed,2.97,Institution 8,Chennai,Arts and Science
+ST00441,INST07,BATCH2025B,B.E.,Data Science,2023,7.77,0,2,5,Placed,8.03,Institution 7,Madurai,University
+ST00442,INST02,BATCH2022B,M.Sc,Business Analytics,2024,6.15,3,0,5,Placed,3.88,Institution 2,Bengaluru,Engineering
+ST00443,INST01,BATCH2025B,B.E.,Information Technology,2026,8.31,3,2,1,Unplaced,6.85,Institution 1,Madurai,University
+ST00444,INST04,BATCH2025A,B.Tech,Mechanical,2025,6.73,0,0,5,Placed,6.03,Institution 4,Coimbatore,University
+ST00445,INST08,BATCH2022A,B.Sc,Mechanical,2025,7.7,1,3,4,Placed,7.91,Institution 8,Chennai,Arts and Science
+ST00446,INST02,BATCH2025A,MCA,Mechanical,2024,5.87,0,2,5,Placed,3.31,Institution 2,Bengaluru,Engineering
+ST00447,INST03,BATCH2022B,B.Tech,Electronics,2025,7.57,0,2,1,Placed,3.34,Institution 3,Trichy,Engineering
+ST00448,INST01,BATCH2024A,B.Sc,Mechanical,2023,6.88,3,0,1,Placed,6.12,Institution 1,Madurai,University
+ST00449,INST01,BATCH2024B,B.Tech,Data Science,2026,9.2,2,2,1,Placed,8.65,Institution 1,Madurai,University
+ST00450,INST03,BATCH2022B,M.Sc,Electronics,2023,5.76,0,2,1,Unplaced,5.2,Institution 3,Trichy,Engineering
+ST00451,INST05,BATCH2025A,MCA,Computer Science,2023,7.38,0,3,3,Unplaced,4.63,Institution 5,Bengaluru,Arts and Science
+ST00452,INST03,BATCH2024B,B.E.,Mechanical,2025,7.56,0,2,5,Unplaced,6.44,Institution 3,Trichy,Engineering
+ST00453,INST01,BATCH2025A,B.E.,Mechanical,2023,8.76,3,1,2,Placed,8.55,Institution 1,Madurai,University
+ST00454,INST01,BATCH2024A,B.Sc,Computer Science,2025,8.08,2,0,5,Placed,7.94,Institution 1,Madurai,University
+ST00455,INST08,BATCH2025A,BCA,Mechanical,2026,8.5,0,2,3,Unplaced,8.97,Institution 8,Chennai,Arts and Science
+ST00456,INST10,BATCH2022A,M.Sc,Computer Science,2026,9.0,3,0,1,Placed,2.65,Institution 10,Chennai,University
+ST00457,INST02,BATCH2023A,B.Sc,Electronics,2023,9.38,1,0,3,Placed,3.23,Institution 2,Bengaluru,Engineering
+ST00458,INST03,BATCH2025B,BCA,Data Science,2024,6.91,0,0,4,Placed,6.46,Institution 3,Trichy,Engineering
+ST00459,INST02,BATCH2025B,B.Tech,Computer Science,2025,7.92,0,2,4,Placed,7.83,Institution 2,Bengaluru,Engineering
+ST00460,INST03,BATCH2022B,M.Sc,Information Technology,2025,9.28,1,2,5,Placed,4.35,Institution 3,Trichy,Engineering
+ST00461,INST07,BATCH2023A,B.Tech,Computer Science,2023,9.95,0,0,5,Placed,4.05,Institution 7,Madurai,University
+ST00462,INST01,BATCH2025A,MCA,Mechanical,2025,9.5,1,1,2,Placed,7.62,Institution 1,Madurai,University
+ST00463,INST10,BATCH2024A,M.Sc,Electronics,2025,7.17,0,0,2,Placed,2.87,Institution 10,Chennai,University
+ST00464,INST08,BATCH2022B,BCA,Business Analytics,2024,6.38,0,1,4,Placed,4.9,Institution 8,Chennai,Arts and Science
+ST00465,INST10,BATCH2025A,MCA,Electronics,2024,7.7,0,0,1,Placed,5.79,Institution 10,Chennai,University
+ST00466,INST10,BATCH2024B,B.E.,Business Analytics,2023,8.84,1,3,3,Placed,6.14,Institution 10,Chennai,University
+ST00467,INST10,BATCH2023B,BCA,Computer Science,2024,7.72,1,0,2,Placed,7.24,Institution 10,Chennai,University
+ST00468,INST02,BATCH2025A,B.Sc,Data Science,2023,7.67,0,0,2,Placed,4.81,Institution 2,Bengaluru,Engineering
+ST00469,INST03,BATCH2023A,B.E.,Information Technology,2026,9.27,1,2,1,Unplaced,6.48,Institution 3,Trichy,Engineering
+ST00470,INST09,BATCH2022B,B.E.,Electronics,2023,7.13,3,1,1,Placed,6.3,Institution 9,Coimbatore,University
+ST00471,INST07,BATCH2023A,B.Sc,Mechanical,2026,9.37,0,3,5,Placed,6.06,Institution 7,Madurai,University
+ST00472,INST04,BATCH2022B,M.Sc,Business Analytics,2023,7.33,0,1,3,Placed,6.66,Institution 4,Coimbatore,University
+ST00473,INST10,BATCH2025A,B.E.,Mechanical,2025,6.98,0,3,1,Unplaced,4.19,Institution 10,Chennai,University
+ST00474,INST05,BATCH2022A,BCA,Data Science,2024,7.54,0,0,2,Placed,3.05,Institution 5,Bengaluru,Arts and Science
+ST00475,INST02,BATCH2024B,MCA,Business Analytics,2026,8.93,3,2,2,Unplaced,3.28,Institution 2,Bengaluru,Engineering
+ST00476,INST08,BATCH2025A,B.E.,Electronics,2023,6.07,3,2,4,Unplaced,3.96,Institution 8,Chennai,Arts and Science
+ST00477,INST04,BATCH2025B,BCA,Computer Science,2024,6.38,2,1,1,Placed,5.75,Institution 4,Coimbatore,University
+ST00478,INST09,BATCH2023A,B.Tech,Mechanical,2023,9.78,2,2,5,Placed,7.96,Institution 9,Coimbatore,University
+ST00479,INST05,BATCH2023B,BCA,Data Science,2024,6.29,2,1,3,Placed,7.06,Institution 5,Bengaluru,Arts and Science
+ST00480,INST09,BATCH2023B,MCA,Electronics,2024,8.05,0,1,5,Unplaced,7.63,Institution 9,Coimbatore,University
+ST00481,INST04,BATCH2024A,BCA,Electronics,2023,8.11,1,3,2,Unplaced,4.78,Institution 4,Coimbatore,University
+ST00482,INST10,BATCH2022B,B.Sc,Electronics,2026,7.7,3,1,5,Placed,5.13,Institution 10,Chennai,University
+ST00483,INST05,BATCH2023A,MCA,Electronics,2026,8.4,0,3,2,Placed,5.06,Institution 5,Bengaluru,Arts and Science
+ST00484,INST09,BATCH2024A,M.Sc,Business Analytics,2025,6.53,0,2,2,Placed,3.75,Institution 9,Coimbatore,University
+ST00485,INST08,BATCH2023A,B.Tech,Electronics,2024,7.99,0,1,2,Unplaced,2.9,Institution 8,Chennai,Arts and Science
+ST00486,INST03,BATCH2025B,B.Sc,Mechanical,2025,7.17,0,1,2,Unplaced,6.34,Institution 3,Trichy,Engineering
+ST00487,INST01,BATCH2022B,M.Sc,Data Science,2025,8.48,2,0,2,Placed,8.93,Institution 1,Madurai,University
+ST00488,INST03,BATCH2025A,BCA,Business Analytics,2023,6.14,0,1,4,Placed,3.58,Institution 3,Trichy,Engineering
+ST00489,INST04,BATCH2025A,MCA,Electronics,2023,8.07,1,1,5,Placed,2.8,Institution 4,Coimbatore,University
+ST00490,INST02,BATCH2023B,B.Tech,Information Technology,2023,6.33,2,0,4,Placed,7.57,Institution 2,Bengaluru,Engineering
+ST00491,INST01,BATCH2025A,B.Sc,Information Technology,2024,6.75,0,0,4,Placed,4.14,Institution 1,Madurai,University
+ST00492,INST07,BATCH2025A,M.Sc,Data Science,2023,6.48,0,2,1,Placed,7.89,Institution 7,Madurai,University
+ST00493,INST08,BATCH2025B,M.Sc,Computer Science,2023,6.32,0,1,1,Placed,7.08,Institution 8,Chennai,Arts and Science
+ST00494,INST07,BATCH2022A,B.Tech,Computer Science,2024,9.22,0,2,1,Placed,8.65,Institution 7,Madurai,University
+ST00495,INST05,BATCH2023B,BCA,Business Analytics,2024,6.79,0,2,3,Placed,5.16,Institution 5,Bengaluru,Arts and Science
+ST00496,INST01,BATCH2024A,B.Tech,Business Analytics,2026,9.67,2,0,1,Placed,6.8,Institution 1,Madurai,University
+ST00497,INST07,BATCH2024B,M.Sc,Business Analytics,2023,9.86,0,3,5,Placed,5.52,Institution 7,Madurai,University
+ST00498,INST07,BATCH2022A,B.E.,Computer Science,2023,8.07,3,2,4,Unplaced,6.6,Institution 7,Madurai,University
+ST00499,INST09,BATCH2024A,B.Sc,Information Technology,2023,6.14,3,3,5,Unplaced,5.42,Institution 9,Coimbatore,University
+ST00500,INST03,BATCH2022B,B.Tech,Computer Science,2026,7.19,3,1,1,Placed,3.73,Institution 3,Trichy,Engineering
+ST00501,INST09,BATCH2022A,M.Sc,Mechanical,2023,9.09,2,0,3,Placed,5.8,Institution 9,Coimbatore,University
+ST00502,INST01,BATCH2025B,BCA,Electronics,2026,7.15,1,1,3,Unplaced,5.94,Institution 1,Madurai,University
+ST00503,INST01,BATCH2024A,M.Sc,Business Analytics,2025,5.89,0,1,4,Unplaced,7.77,Institution 1,Madurai,University
+ST00504,INST04,BATCH2022B,BCA,Information Technology,2026,8.01,0,0,5,Placed,7.28,Institution 4,Coimbatore,University
+ST00505,INST09,BATCH2023B,B.Tech,Data Science,2025,9.3,0,1,2,Placed,6.81,Institution 9,Coimbatore,University
+ST00506,INST06,BATCH2024B,BCA,Data Science,2023,9.08,0,0,5,Placed,3.24,Institution 6,Trichy,University
+ST00507,INST03,BATCH2022B,MCA,Electronics,2025,6.29,3,3,1,Placed,7.18,Institution 3,Trichy,Engineering
+ST00508,INST01,BATCH2025A,MCA,Information Technology,2026,8.53,3,1,2,Placed,5.75,Institution 1,Madurai,University
+ST00509,INST04,BATCH2023A,MCA,Computer Science,2024,6.49,0,0,3,Placed,8.31,Institution 4,Coimbatore,University
+ST00510,INST09,BATCH2022B,B.E.,Computer Science,2025,6.48,0,2,4,Unplaced,8.48,Institution 9,Coimbatore,University
+ST00511,INST03,BATCH2022B,B.Tech,Mechanical,2025,9.43,1,1,4,Placed,2.86,Institution 3,Trichy,Engineering
+ST00512,INST09,BATCH2024B,M.Sc,Mechanical,2023,6.62,1,3,3,Placed,7.83,Institution 9,Coimbatore,University
+ST00513,INST07,BATCH2023A,M.Sc,Computer Science,2026,6.68,1,0,1,Placed,2.75,Institution 7,Madurai,University
+ST00514,INST04,BATCH2025A,B.E.,Data Science,2025,5.5,1,1,3,Placed,4.89,Institution 4,Coimbatore,University
+ST00515,INST03,BATCH2024A,BCA,Business Analytics,2025,9.42,0,1,1,Placed,6.02,Institution 3,Trichy,Engineering
+ST00516,INST10,BATCH2024A,B.E.,Data Science,2025,9.07,0,1,2,Placed,3.46,Institution 10,Chennai,University
+ST00517,INST05,BATCH2022B,BCA,Mechanical,2025,8.32,0,3,3,Unplaced,7.35,Institution 5,Bengaluru,Arts and Science
+ST00518,INST05,BATCH2025B,BCA,Electronics,2024,8.88,1,0,1,Placed,2.55,Institution 5,Bengaluru,Arts and Science
+ST00519,INST03,BATCH2025B,B.Sc,Computer Science,2026,6.18,0,2,2,Unplaced,3.6,Institution 3,Trichy,Engineering
+ST00520,INST09,BATCH2023A,M.Sc,Mechanical,2023,7.56,1,2,3,Unplaced,6.28,Institution 9,Coimbatore,University
+ST00521,INST04,BATCH2023A,MCA,Mechanical,2023,7.08,2,2,4,Placed,7.14,Institution 4,Coimbatore,University
+ST00522,INST05,BATCH2025A,BCA,Business Analytics,2024,5.92,3,0,3,Placed,8.46,Institution 5,Bengaluru,Arts and Science
+ST00523,INST04,BATCH2024B,B.Sc,Computer Science,2026,7.69,0,2,5,Placed,7.09,Institution 4,Coimbatore,University
+ST00524,INST05,BATCH2023B,M.Sc,Business Analytics,2025,9.64,2,3,3,Placed,6.87,Institution 5,Bengaluru,Arts and Science
+ST00525,INST07,BATCH2024A,MCA,Computer Science,2024,5.68,0,0,5,Unplaced,5.06,Institution 7,Madurai,University
+ST00526,INST09,BATCH2024B,BCA,Business Analytics,2026,6.81,0,1,2,Unplaced,2.51,Institution 9,Coimbatore,University
+ST00527,INST07,BATCH2022A,BCA,Data Science,2025,6.43,0,3,3,Placed,3.28,Institution 7,Madurai,University
+ST00528,INST05,BATCH2024A,B.E.,Electronics,2024,6.57,0,1,2,Unplaced,5.97,Institution 5,Bengaluru,Arts and Science
+ST00529,INST10,BATCH2024B,B.E.,Electronics,2026,9.59,3,2,2,Placed,6.89,Institution 10,Chennai,University
+ST00530,INST10,BATCH2024A,M.Sc,Computer Science,2023,7.61,2,3,1,Placed,5.21,Institution 10,Chennai,University
+ST00531,INST07,BATCH2023B,MCA,Information Technology,2023,7.6,3,0,2,Placed,7.25,Institution 7,Madurai,University
+ST00532,INST10,BATCH2022A,BCA,Mechanical,2026,8.92,1,3,2,Placed,5.89,Institution 10,Chennai,University
+ST00533,INST05,BATCH2025B,M.Sc,Mechanical,2023,6.2,3,1,3,Unplaced,2.98,Institution 5,Bengaluru,Arts and Science
+ST00534,INST03,BATCH2025B,M.Sc,Computer Science,2026,7.69,3,0,3,Placed,3.75,Institution 3,Trichy,Engineering
+ST00535,INST07,BATCH2023B,B.Tech,Business Analytics,2025,7.43,1,3,4,Placed,7.96,Institution 7,Madurai,University
+ST00536,INST02,BATCH2025A,B.E.,Information Technology,2026,8.19,0,3,1,Placed,7.21,Institution 2,Bengaluru,Engineering
+ST00537,INST09,BATCH2022A,MCA,Data Science,2025,10.0,1,3,2,Placed,8.32,Institution 9,Coimbatore,University
+ST00538,INST10,BATCH2022B,BCA,Business Analytics,2024,8.96,2,3,1,Placed,3.26,Institution 10,Chennai,University
+ST00539,INST10,BATCH2024B,M.Sc,Business Analytics,2026,7.29,3,0,5,Placed,8.94,Institution 10,Chennai,University
+ST00540,INST01,BATCH2022A,BCA,Computer Science,2024,9.22,1,1,2,Placed,3.86,Institution 1,Madurai,University
+ST00541,INST06,BATCH2025A,B.Tech,Computer Science,2023,6.27,3,3,1,Placed,2.58,Institution 6,Trichy,University
+ST00542,INST07,BATCH2025A,MCA,Mechanical,2025,5.64,2,0,4,Unplaced,8.98,Institution 7,Madurai,University
+ST00543,INST08,BATCH2023B,M.Sc,Computer Science,2026,6.42,0,1,4,Placed,4.33,Institution 8,Chennai,Arts and Science
+ST00544,INST10,BATCH2024A,BCA,Computer Science,2024,7.03,2,3,2,Placed,6.84,Institution 10,Chennai,University
+ST00545,INST09,BATCH2022A,B.E.,Computer Science,2025,7.8,0,1,5,Placed,3.65,Institution 9,Coimbatore,University
+ST00546,INST02,BATCH2024B,B.Tech,Mechanical,2025,8.27,0,1,4,Placed,6.27,Institution 2,Bengaluru,Engineering
+ST00547,INST10,BATCH2022A,MCA,Data Science,2023,9.6,0,0,4,Placed,8.38,Institution 10,Chennai,University
+ST00548,INST02,BATCH2023A,B.Tech,Data Science,2023,7.79,3,1,5,Placed,4.58,Institution 2,Bengaluru,Engineering
+ST00549,INST05,BATCH2024A,B.E.,Computer Science,2025,7.76,0,0,1,Placed,6.86,Institution 5,Bengaluru,Arts and Science
+ST00550,INST05,BATCH2024B,MCA,Mechanical,2025,5.73,0,3,4,Placed,3.72,Institution 5,Bengaluru,Arts and Science
+ST00551,INST06,BATCH2025B,B.Tech,Data Science,2026,5.66,0,1,3,Placed,6.56,Institution 6,Trichy,University
+ST00552,INST03,BATCH2024B,B.Sc,Business Analytics,2025,7.98,3,1,4,Unplaced,4.69,Institution 3,Trichy,Engineering
+ST00553,INST08,BATCH2022B,B.E.,Data Science,2026,7.47,2,2,1,Placed,3.87,Institution 8,Chennai,Arts and Science
+ST00554,INST01,BATCH2023B,B.E.,Data Science,2025,9.28,0,3,1,Placed,4.54,Institution 1,Madurai,University
+ST00555,INST06,BATCH2022B,B.E.,Mechanical,2023,6.22,0,3,2,Unplaced,3.66,Institution 6,Trichy,University
+ST00556,INST04,BATCH2024B,B.Sc,Business Analytics,2026,5.61,0,2,3,Placed,8.36,Institution 4,Coimbatore,University
+ST00557,INST01,BATCH2024A,B.Sc,Mechanical,2024,7.52,2,2,1,Placed,5.08,Institution 1,Madurai,University
+ST00558,INST07,BATCH2022A,BCA,Computer Science,2023,6.57,0,0,5,Placed,4.09,Institution 7,Madurai,University
+ST00559,INST09,BATCH2025B,M.Sc,Electronics,2026,5.72,0,0,3,Unplaced,5.41,Institution 9,Coimbatore,University
+ST00560,INST04,BATCH2022A,B.Tech,Data Science,2026,8.76,2,1,3,Placed,4.58,Institution 4,Coimbatore,University
+ST00561,INST04,BATCH2024A,BCA,Electronics,2024,6.0,1,1,5,Placed,7.34,Institution 4,Coimbatore,University
+ST00562,INST06,BATCH2024B,B.Tech,Mechanical,2026,8.24,0,1,4,Placed,8.81,Institution 6,Trichy,University
+ST00563,INST03,BATCH2025A,M.Sc,Mechanical,2025,6.76,0,1,5,Unplaced,5.35,Institution 3,Trichy,Engineering
+ST00564,INST06,BATCH2022A,B.Sc,Mechanical,2024,6.28,0,0,5,Placed,8.1,Institution 6,Trichy,University
+ST00565,INST07,BATCH2025A,M.Sc,Electronics,2023,7.21,0,3,4,Placed,6.18,Institution 7,Madurai,University
+ST00566,INST10,BATCH2022A,B.Sc,Mechanical,2023,9.11,0,1,4,Placed,3.52,Institution 10,Chennai,University
+ST00567,INST10,BATCH2022A,M.Sc,Computer Science,2025,7.26,1,3,4,Placed,6.99,Institution 10,Chennai,University
+ST00568,INST03,BATCH2025B,BCA,Mechanical,2023,8.88,0,1,4,Unplaced,5.84,Institution 3,Trichy,Engineering
+ST00569,INST07,BATCH2023B,MCA,Information Technology,2026,6.06,3,2,4,Placed,6.73,Institution 7,Madurai,University
+ST00570,INST03,BATCH2023B,BCA,Electronics,2026,8.98,0,1,5,Placed,8.28,Institution 3,Trichy,Engineering
+ST00571,INST02,BATCH2023A,B.Tech,Information Technology,2025,6.57,0,1,2,Unplaced,5.36,Institution 2,Bengaluru,Engineering
+ST00572,INST10,BATCH2022B,BCA,Mechanical,2023,8.55,2,1,2,Placed,8.36,Institution 10,Chennai,University
+ST00573,INST04,BATCH2024A,B.E.,Computer Science,2023,8.05,2,0,1,Unplaced,7.38,Institution 4,Coimbatore,University
+ST00574,INST08,BATCH2024A,B.Tech,Data Science,2025,9.68,0,2,2,Placed,5.68,Institution 8,Chennai,Arts and Science
+ST00575,INST09,BATCH2024A,M.Sc,Business Analytics,2024,7.24,2,1,2,Placed,6.42,Institution 9,Coimbatore,University
+ST00576,INST07,BATCH2023A,B.Tech,Business Analytics,2023,5.8,0,1,5,Unplaced,4.62,Institution 7,Madurai,University
+ST00577,INST01,BATCH2023B,MCA,Mechanical,2024,5.59,2,3,4,Placed,8.89,Institution 1,Madurai,University
+ST00578,INST03,BATCH2024B,B.Sc,Computer Science,2023,9.22,2,2,4,Placed,6.84,Institution 3,Trichy,Engineering
+ST00579,INST09,BATCH2025A,M.Sc,Electronics,2023,7.86,0,1,5,Placed,2.79,Institution 9,Coimbatore,University
+ST00580,INST01,BATCH2025B,B.Tech,Information Technology,2023,8.99,1,3,2,Placed,4.62,Institution 1,Madurai,University
+ST00581,INST09,BATCH2025A,M.Sc,Information Technology,2023,6.55,2,3,5,Placed,6.55,Institution 9,Coimbatore,University
+ST00582,INST08,BATCH2024B,M.Sc,Information Technology,2026,7.05,3,0,1,Placed,2.87,Institution 8,Chennai,Arts and Science
+ST00583,INST01,BATCH2025B,M.Sc,Electronics,2024,5.64,2,3,4,Placed,2.66,Institution 1,Madurai,University
+ST00584,INST06,BATCH2023A,B.Sc,Business Analytics,2024,9.83,1,1,3,Placed,5.43,Institution 6,Trichy,University
+ST00585,INST05,BATCH2024B,BCA,Computer Science,2023,8.51,0,0,1,Placed,4.66,Institution 5,Bengaluru,Arts and Science
+ST00586,INST06,BATCH2024A,M.Sc,Electronics,2023,9.7,1,0,1,Placed,5.35,Institution 6,Trichy,University
+ST00587,INST10,BATCH2022B,B.E.,Information Technology,2024,6.69,0,1,5,Unplaced,4.21,Institution 10,Chennai,University
+ST00588,INST05,BATCH2022A,MCA,Mechanical,2026,8.25,0,2,2,Placed,3.57,Institution 5,Bengaluru,Arts and Science
+ST00589,INST06,BATCH2025A,B.Sc,Data Science,2025,8.55,0,3,4,Placed,6.98,Institution 6,Trichy,University
+ST00590,INST05,BATCH2023B,B.Tech,Electronics,2025,6.93,0,0,3,Unplaced,5.84,Institution 5,Bengaluru,Arts and Science
+ST00591,INST05,BATCH2023B,B.Sc,Electronics,2024,9.32,0,2,1,Unplaced,3.8,Institution 5,Bengaluru,Arts and Science
+ST00592,INST04,BATCH2023A,B.Tech,Computer Science,2023,9.76,0,1,3,Placed,4.58,Institution 4,Coimbatore,University
+ST00593,INST03,BATCH2025B,B.Sc,Computer Science,2023,9.48,3,3,2,Placed,6.35,Institution 3,Trichy,Engineering
+ST00594,INST03,BATCH2023B,B.Tech,Electronics,2026,8.83,0,3,2,Placed,2.97,Institution 3,Trichy,Engineering
+ST00595,INST04,BATCH2024A,M.Sc,Information Technology,2025,6.75,0,0,3,Unplaced,3.46,Institution 4,Coimbatore,University
+ST00596,INST09,BATCH2025A,BCA,Data Science,2026,6.77,2,3,4,Placed,2.98,Institution 9,Coimbatore,University
+ST00597,INST02,BATCH2024B,B.Tech,Computer Science,2025,9.84,3,3,2,Placed,7.78,Institution 2,Bengaluru,Engineering
+ST00598,INST09,BATCH2024A,B.Tech,Information Technology,2024,5.55,3,3,3,Placed,7.39,Institution 9,Coimbatore,University
+ST00599,INST01,BATCH2023A,B.E.,Mechanical,2025,8.72,2,3,1,Placed,7.4,Institution 1,Madurai,University
+ST00600,INST01,BATCH2024A,B.Tech,Computer Science,2026,8.68,0,1,3,Placed,7.16,Institution 1,Madurai,University
+ST00601,INST05,BATCH2024B,B.E.,Information Technology,2026,8.3,3,2,3,Placed,6.85,Institution 5,Bengaluru,Arts and Science
+ST00602,INST06,BATCH2022B,MCA,Information Technology,2026,9.96,0,1,5,Placed,5.6,Institution 6,Trichy,University
+ST00603,INST06,BATCH2023A,M.Sc,Data Science,2024,6.9,0,1,2,Placed,6.67,Institution 6,Trichy,University
+ST00604,INST03,BATCH2022B,B.E.,Data Science,2025,7.03,2,0,4,Placed,2.75,Institution 3,Trichy,Engineering
+ST00605,INST07,BATCH2022A,BCA,Mechanical,2025,5.86,0,3,4,Placed,6.54,Institution 7,Madurai,University
+ST00606,INST09,BATCH2022B,M.Sc,Information Technology,2026,7.49,0,1,5,Placed,7.56,Institution 9,Coimbatore,University
+ST00607,INST10,BATCH2022A,B.E.,Business Analytics,2025,6.67,0,3,4,Unplaced,5.75,Institution 10,Chennai,University
+ST00608,INST08,BATCH2022A,M.Sc,Information Technology,2023,7.05,0,1,3,Unplaced,4.82,Institution 8,Chennai,Arts and Science
+ST00609,INST06,BATCH2022B,M.Sc,Data Science,2023,9.26,0,1,5,Placed,4.3,Institution 6,Trichy,University
+ST00610,INST08,BATCH2023A,M.Sc,Business Analytics,2023,9.71,1,0,1,Placed,6.68,Institution 8,Chennai,Arts and Science
+ST00611,INST05,BATCH2025B,MCA,Computer Science,2025,6.34,2,2,2,Unplaced,7.0,Institution 5,Bengaluru,Arts and Science
+ST00612,INST08,BATCH2024B,BCA,Computer Science,2024,7.18,2,2,2,Placed,8.16,Institution 8,Chennai,Arts and Science
+ST00613,INST10,BATCH2024A,B.Sc,Electronics,2024,9.68,0,1,2,Placed,4.73,Institution 10,Chennai,University
+ST00614,INST04,BATCH2024A,B.Sc,Data Science,2024,5.78,3,0,3,Placed,7.5,Institution 4,Coimbatore,University
+ST00615,INST10,BATCH2024B,B.E.,Electronics,2024,5.92,0,3,1,Unplaced,6.15,Institution 10,Chennai,University
+ST00616,INST08,BATCH2025A,M.Sc,Business Analytics,2023,6.23,1,3,5,Placed,8.24,Institution 8,Chennai,Arts and Science
+ST00617,INST10,BATCH2025A,B.E.,Data Science,2023,8.18,0,1,5,Placed,5.93,Institution 10,Chennai,University
+ST00618,INST02,BATCH2022A,MCA,Mechanical,2026,6.18,2,2,2,Placed,5.86,Institution 2,Bengaluru,Engineering
+ST00619,INST05,BATCH2022A,MCA,Information Technology,2025,9.86,0,0,1,Placed,6.26,Institution 5,Bengaluru,Arts and Science
+ST00620,INST09,BATCH2023A,B.Tech,Mechanical,2025,7.51,1,2,1,Unplaced,7.37,Institution 9,Coimbatore,University
+ST00621,INST04,BATCH2023B,MCA,Business Analytics,2024,7.76,3,3,1,Placed,8.77,Institution 4,Coimbatore,University
+ST00622,INST06,BATCH2022B,B.Tech,Data Science,2023,6.61,0,2,4,Placed,2.98,Institution 6,Trichy,University
+ST00623,INST01,BATCH2022A,BCA,Business Analytics,2024,7.62,0,3,4,Placed,2.85,Institution 1,Madurai,University
+ST00624,INST09,BATCH2024A,B.E.,Information Technology,2026,8.48,0,0,2,Unplaced,8.59,Institution 9,Coimbatore,University
+ST00625,INST01,BATCH2023A,BCA,Computer Science,2025,8.88,0,0,1,Placed,5.94,Institution 1,Madurai,University
+ST00626,INST05,BATCH2022B,MCA,Computer Science,2025,8.89,2,1,1,Placed,6.5,Institution 5,Bengaluru,Arts and Science
+ST00627,INST04,BATCH2023A,BCA,Business Analytics,2024,8.1,0,1,5,Placed,5.64,Institution 4,Coimbatore,University
+ST00628,INST03,BATCH2022B,BCA,Electronics,2026,9.57,0,2,5,Placed,3.11,Institution 3,Trichy,Engineering
+ST00629,INST06,BATCH2022B,BCA,Data Science,2025,9.18,0,0,2,Placed,7.49,Institution 6,Trichy,University
+ST00630,INST02,BATCH2024B,MCA,Data Science,2026,8.91,3,0,1,Placed,7.36,Institution 2,Bengaluru,Engineering
+ST00631,INST03,BATCH2022A,M.Sc,Computer Science,2026,5.75,0,1,2,Placed,4.53,Institution 3,Trichy,Engineering
+ST00632,INST05,BATCH2025B,BCA,Mechanical,2024,5.53,0,3,5,Placed,4.49,Institution 5,Bengaluru,Arts and Science
+ST00633,INST09,BATCH2023A,B.Tech,Information Technology,2023,6.46,0,2,5,Placed,7.95,Institution 9,Coimbatore,University
+ST00634,INST02,BATCH2025B,MCA,Mechanical,2024,8.49,0,2,4,Unplaced,2.97,Institution 2,Bengaluru,Engineering
+ST00635,INST10,BATCH2023A,BCA,Mechanical,2023,7.35,0,1,2,Placed,8.23,Institution 10,Chennai,University
+ST00636,INST08,BATCH2024B,M.Sc,Business Analytics,2026,7.31,0,0,2,Unplaced,4.17,Institution 8,Chennai,Arts and Science
+ST00637,INST02,BATCH2024A,MCA,Computer Science,2023,9.48,0,1,1,Unplaced,6.35,Institution 2,Bengaluru,Engineering
+ST00638,INST05,BATCH2025B,B.Sc,Computer Science,2026,9.53,1,1,1,Placed,8.58,Institution 5,Bengaluru,Arts and Science
+ST00639,INST07,BATCH2024A,M.Sc,Computer Science,2025,9.59,0,1,4,Placed,6.91,Institution 7,Madurai,University
+ST00640,INST08,BATCH2025A,B.Tech,Business Analytics,2025,6.91,0,1,3,Unplaced,5.19,Institution 8,Chennai,Arts and Science
+ST00641,INST01,BATCH2022A,BCA,Electronics,2025,8.61,0,3,3,Placed,6.98,Institution 1,Madurai,University
+ST00642,INST06,BATCH2022A,B.Sc,Mechanical,2024,6.72,2,3,3,Unplaced,4.74,Institution 6,Trichy,University
+ST00643,INST01,BATCH2023B,B.Sc,Business Analytics,2024,6.36,2,0,2,Placed,4.3,Institution 1,Madurai,University
+ST00644,INST02,BATCH2024B,MCA,Data Science,2026,6.33,3,1,2,Placed,8.98,Institution 2,Bengaluru,Engineering
+ST00645,INST01,BATCH2024A,B.Sc,Information Technology,2025,7.04,2,3,5,Unplaced,7.38,Institution 1,Madurai,University
+ST00646,INST05,BATCH2022B,B.Tech,Electronics,2024,7.43,0,0,2,Placed,6.69,Institution 5,Bengaluru,Arts and Science
+ST00647,INST10,BATCH2023A,B.Tech,Data Science,2025,9.24,3,1,2,Placed,4.81,Institution 10,Chennai,University
+ST00648,INST09,BATCH2022A,B.E.,Mechanical,2024,6.04,0,2,2,Placed,2.82,Institution 9,Coimbatore,University
+ST00649,INST06,BATCH2025B,B.Tech,Computer Science,2023,8.81,0,3,4,Placed,2.7,Institution 6,Trichy,University
+ST00650,INST01,BATCH2023A,M.Sc,Mechanical,2023,7.89,0,0,2,Unplaced,6.1,Institution 1,Madurai,University
+ST00651,INST01,BATCH2023A,B.Sc,Business Analytics,2025,6.8,0,2,1,Placed,7.45,Institution 1,Madurai,University
+ST00652,INST02,BATCH2023B,B.Tech,Information Technology,2026,7.72,3,1,1,Unplaced,5.99,Institution 2,Bengaluru,Engineering
+ST00653,INST09,BATCH2024A,MCA,Business Analytics,2024,6.85,0,1,5,Unplaced,7.97,Institution 9,Coimbatore,University
+ST00654,INST03,BATCH2022A,B.E.,Electronics,2024,8.18,1,1,4,Placed,2.72,Institution 3,Trichy,Engineering
+ST00655,INST01,BATCH2023A,B.Sc,Electronics,2023,7.45,0,3,1,Placed,4.88,Institution 1,Madurai,University
+ST00656,INST05,BATCH2022A,B.E.,Information Technology,2023,6.24,1,0,4,Unplaced,4.04,Institution 5,Bengaluru,Arts and Science
+ST00657,INST07,BATCH2022B,B.Sc,Data Science,2026,6.02,1,2,4,Unplaced,5.41,Institution 7,Madurai,University
+ST00658,INST06,BATCH2023B,MCA,Data Science,2026,7.96,2,0,5,Unplaced,2.97,Institution 6,Trichy,University
+ST00659,INST01,BATCH2022B,B.E.,Electronics,2026,9.56,0,3,4,Placed,8.7,Institution 1,Madurai,University
+ST00660,INST05,BATCH2022A,BCA,Electronics,2025,7.05,1,0,2,Placed,3.95,Institution 5,Bengaluru,Arts and Science
+ST00661,INST05,BATCH2025A,M.Sc,Computer Science,2023,8.8,0,3,4,Placed,8.5,Institution 5,Bengaluru,Arts and Science
+ST00662,INST06,BATCH2025B,M.Sc,Data Science,2025,8.46,2,1,5,Placed,5.27,Institution 6,Trichy,University
+ST00663,INST03,BATCH2022A,B.Sc,Information Technology,2023,9.69,0,2,5,Placed,8.91,Institution 3,Trichy,Engineering
+ST00664,INST05,BATCH2024A,BCA,Data Science,2023,9.19,0,1,5,Placed,6.1,Institution 5,Bengaluru,Arts and Science
+ST00665,INST07,BATCH2023A,B.E.,Computer Science,2024,8.05,1,0,1,Placed,8.55,Institution 7,Madurai,University
+ST00666,INST05,BATCH2023A,BCA,Business Analytics,2023,8.46,0,1,2,Unplaced,2.53,Institution 5,Bengaluru,Arts and Science
+ST00667,INST05,BATCH2022B,BCA,Electronics,2023,9.54,0,2,1,Placed,7.36,Institution 5,Bengaluru,Arts and Science
+ST00668,INST05,BATCH2025B,B.E.,Electronics,2025,7.3,0,1,3,Placed,8.37,Institution 5,Bengaluru,Arts and Science
+ST00669,INST10,BATCH2023B,MCA,Computer Science,2023,6.97,1,2,2,Placed,3.41,Institution 10,Chennai,University
+ST00670,INST10,BATCH2025A,BCA,Information Technology,2025,5.55,2,2,4,Placed,3.12,Institution 10,Chennai,University
+ST00671,INST03,BATCH2024B,BCA,Electronics,2026,9.22,2,1,5,Placed,5.26,Institution 3,Trichy,Engineering
+ST00672,INST01,BATCH2025B,MCA,Mechanical,2023,9.1,1,3,3,Placed,8.57,Institution 1,Madurai,University
+ST00673,INST05,BATCH2023A,BCA,Electronics,2023,5.97,0,0,2,Unplaced,6.03,Institution 5,Bengaluru,Arts and Science
+ST00674,INST09,BATCH2024A,BCA,Mechanical,2025,8.1,0,3,1,Placed,5.93,Institution 9,Coimbatore,University
+ST00675,INST01,BATCH2025B,BCA,Computer Science,2026,7.59,2,3,5,Placed,3.42,Institution 1,Madurai,University
+ST00676,INST03,BATCH2022B,M.Sc,Computer Science,2024,6.03,2,1,1,Unplaced,2.51,Institution 3,Trichy,Engineering
+ST00677,INST04,BATCH2022B,B.Tech,Electronics,2026,9.91,1,0,2,Placed,7.77,Institution 4,Coimbatore,University
+ST00678,INST01,BATCH2024B,MCA,Data Science,2025,6.47,0,0,2,Placed,3.07,Institution 1,Madurai,University
+ST00679,INST01,BATCH2024A,BCA,Mechanical,2026,5.8,2,3,3,Placed,6.62,Institution 1,Madurai,University
+ST00680,INST08,BATCH2023B,M.Sc,Information Technology,2025,8.18,0,1,4,Unplaced,8.45,Institution 8,Chennai,Arts and Science
+ST00681,INST02,BATCH2025B,MCA,Electronics,2025,8.82,2,0,1,Placed,3.86,Institution 2,Bengaluru,Engineering
+ST00682,INST08,BATCH2024A,B.Sc,Information Technology,2024,5.65,0,3,3,Placed,6.82,Institution 8,Chennai,Arts and Science
+ST00683,INST07,BATCH2023B,B.Sc,Electronics,2023,8.46,0,0,5,Unplaced,3.01,Institution 7,Madurai,University
+ST00684,INST10,BATCH2024A,BCA,Data Science,2025,7.9,3,1,4,Placed,6.42,Institution 10,Chennai,University
+ST00685,INST10,BATCH2024A,M.Sc,Data Science,2025,5.96,0,1,3,Placed,3.57,Institution 10,Chennai,University
+ST00686,INST02,BATCH2022A,M.Sc,Data Science,2024,6.28,3,1,1,Placed,7.28,Institution 2,Bengaluru,Engineering
+ST00687,INST06,BATCH2022B,MCA,Business Analytics,2025,8.06,2,0,2,Unplaced,4.46,Institution 6,Trichy,University
+ST00688,INST06,BATCH2025B,MCA,Data Science,2023,6.83,0,2,5,Placed,5.51,Institution 6,Trichy,University
+ST00689,INST03,BATCH2024A,M.Sc,Computer Science,2024,9.72,0,0,1,Placed,6.4,Institution 3,Trichy,Engineering
+ST00690,INST02,BATCH2025B,MCA,Computer Science,2023,9.18,2,2,4,Unplaced,3.61,Institution 2,Bengaluru,Engineering
+ST00691,INST01,BATCH2024B,M.Sc,Business Analytics,2023,9.93,2,1,4,Placed,7.32,Institution 1,Madurai,University
+ST00692,INST06,BATCH2024A,B.Tech,Mechanical,2024,6.67,0,3,2,Unplaced,4.47,Institution 6,Trichy,University
+ST00693,INST05,BATCH2023A,M.Sc,Information Technology,2025,9.86,2,2,2,Placed,6.81,Institution 5,Bengaluru,Arts and Science
+ST00694,INST09,BATCH2022B,B.Sc,Electronics,2023,7.44,1,1,5,Placed,3.53,Institution 9,Coimbatore,University
+ST00695,INST01,BATCH2023A,MCA,Electronics,2023,7.06,2,1,5,Placed,6.97,Institution 1,Madurai,University
+ST00696,INST07,BATCH2025B,M.Sc,Business Analytics,2023,5.73,1,2,2,Placed,3.33,Institution 7,Madurai,University
+ST00697,INST05,BATCH2025B,M.Sc,Computer Science,2023,5.74,2,3,2,Placed,5.26,Institution 5,Bengaluru,Arts and Science
+ST00698,INST05,BATCH2022B,MCA,Electronics,2024,8.61,0,1,4,Placed,4.11,Institution 5,Bengaluru,Arts and Science
+ST00699,INST02,BATCH2025B,B.Tech,Computer Science,2024,7.56,1,2,2,Placed,7.36,Institution 2,Bengaluru,Engineering
+ST00700,INST03,BATCH2023A,B.Tech,Mechanical,2026,6.52,0,3,3,Unplaced,4.2,Institution 3,Trichy,Engineering
+ST00701,INST07,BATCH2024A,MCA,Information Technology,2026,8.26,1,3,1,Placed,8.23,Institution 7,Madurai,University
+ST00702,INST06,BATCH2024A,B.E.,Mechanical,2023,6.64,0,1,2,Unplaced,8.3,Institution 6,Trichy,University
+ST00703,INST02,BATCH2022A,MCA,Business Analytics,2025,8.1,3,0,5,Placed,3.78,Institution 2,Bengaluru,Engineering
+ST00704,INST06,BATCH2024B,MCA,Data Science,2023,7.12,1,0,3,Placed,6.49,Institution 6,Trichy,University
+ST00705,INST02,BATCH2025B,B.Tech,Data Science,2025,9.21,2,1,5,Placed,3.07,Institution 2,Bengaluru,Engineering
+ST00706,INST02,BATCH2023A,B.Tech,Data Science,2023,9.19,2,3,3,Placed,5.04,Institution 2,Bengaluru,Engineering
+ST00707,INST02,BATCH2025B,MCA,Mechanical,2026,7.65,3,1,2,Placed,7.14,Institution 2,Bengaluru,Engineering
+ST00708,INST03,BATCH2025B,MCA,Electronics,2026,7.08,0,2,1,Unplaced,6.79,Institution 3,Trichy,Engineering
+ST00709,INST02,BATCH2023B,MCA,Information Technology,2025,7.13,0,0,5,Unplaced,6.56,Institution 2,Bengaluru,Engineering
+ST00710,INST04,BATCH2022A,B.Tech,Data Science,2023,9.13,2,2,3,Placed,4.34,Institution 4,Coimbatore,University
+ST00711,INST09,BATCH2023A,MCA,Business Analytics,2025,6.98,0,1,4,Placed,4.96,Institution 9,Coimbatore,University
+ST00712,INST06,BATCH2023A,MCA,Business Analytics,2026,6.44,0,1,2,Unplaced,3.17,Institution 6,Trichy,University
+ST00713,INST01,BATCH2025B,BCA,Data Science,2023,5.88,1,3,1,Placed,7.17,Institution 1,Madurai,University
+ST00714,INST08,BATCH2022A,B.E.,Data Science,2023,7.6,1,3,2,Placed,5.78,Institution 8,Chennai,Arts and Science
+ST00715,INST07,BATCH2024A,B.Sc,Information Technology,2025,7.67,0,3,4,Unplaced,7.11,Institution 7,Madurai,University
+ST00716,INST10,BATCH2023A,B.E.,Data Science,2024,9.28,2,2,1,Placed,4.12,Institution 10,Chennai,University
+ST00717,INST03,BATCH2024A,BCA,Information Technology,2025,6.5,0,3,4,Placed,4.61,Institution 3,Trichy,Engineering
+ST00718,INST01,BATCH2022A,B.Sc,Business Analytics,2026,7.21,0,1,2,Placed,4.67,Institution 1,Madurai,University
+ST00719,INST05,BATCH2024A,MCA,Data Science,2026,9.14,2,3,3,Placed,2.67,Institution 5,Bengaluru,Arts and Science
+ST00720,INST04,BATCH2022B,BCA,Mechanical,2026,9.21,0,0,2,Placed,4.72,Institution 4,Coimbatore,University
+ST00721,INST10,BATCH2023B,MCA,Mechanical,2026,7.23,1,3,2,Placed,7.72,Institution 10,Chennai,University
+ST00722,INST08,BATCH2025A,B.Tech,Business Analytics,2026,7.57,0,2,2,Unplaced,8.33,Institution 8,Chennai,Arts and Science
+ST00723,INST01,BATCH2023A,M.Sc,Information Technology,2024,6.86,3,0,5,Placed,5.87,Institution 1,Madurai,University
+ST00724,INST10,BATCH2024B,BCA,Mechanical,2023,9.7,0,0,4,Placed,5.46,Institution 10,Chennai,University
+ST00725,INST01,BATCH2023B,B.Tech,Information Technology,2025,6.03,0,0,4,Placed,2.7,Institution 1,Madurai,University
+ST00726,INST04,BATCH2025A,BCA,Mechanical,2025,9.7,0,2,4,Placed,8.21,Institution 4,Coimbatore,University
+ST00727,INST08,BATCH2024A,BCA,Mechanical,2026,8.58,0,1,5,Placed,2.58,Institution 8,Chennai,Arts and Science
+ST00728,INST05,BATCH2023A,B.Tech,Information Technology,2025,7.89,0,3,3,Unplaced,8.64,Institution 5,Bengaluru,Arts and Science
+ST00729,INST02,BATCH2024A,B.Sc,Electronics,2026,5.65,3,0,2,Unplaced,5.68,Institution 2,Bengaluru,Engineering
+ST00730,INST06,BATCH2022B,B.E.,Mechanical,2024,7.64,1,0,3,Unplaced,4.72,Institution 6,Trichy,University
+ST00731,INST05,BATCH2022A,MCA,Data Science,2024,7.33,2,0,5,Unplaced,8.51,Institution 5,Bengaluru,Arts and Science
+ST00732,INST02,BATCH2023A,BCA,Business Analytics,2023,6.23,0,1,4,Unplaced,2.66,Institution 2,Bengaluru,Engineering
+ST00733,INST03,BATCH2025A,MCA,Electronics,2024,8.45,3,1,2,Placed,6.28,Institution 3,Trichy,Engineering
+ST00734,INST09,BATCH2025A,M.Sc,Information Technology,2024,9.87,0,2,1,Placed,6.07,Institution 9,Coimbatore,University
+ST00735,INST07,BATCH2022B,B.Tech,Electronics,2023,8.03,1,1,1,Placed,3.93,Institution 7,Madurai,University
+ST00736,INST07,BATCH2022B,MCA,Computer Science,2025,8.72,0,3,3,Placed,5.29,Institution 7,Madurai,University
+ST00737,INST06,BATCH2025B,B.Tech,Computer Science,2026,5.81,3,2,4,Placed,6.74,Institution 6,Trichy,University
+ST00738,INST08,BATCH2023A,MCA,Mechanical,2026,7.38,3,2,1,Placed,7.23,Institution 8,Chennai,Arts and Science
+ST00739,INST04,BATCH2024A,B.E.,Mechanical,2025,6.02,0,3,3,Placed,2.5,Institution 4,Coimbatore,University
+ST00740,INST08,BATCH2024B,B.E.,Data Science,2023,8.26,1,3,5,Unplaced,8.59,Institution 8,Chennai,Arts and Science
+ST00741,INST04,BATCH2025A,B.E.,Business Analytics,2025,9.72,0,3,3,Placed,3.57,Institution 4,Coimbatore,University
+ST00742,INST08,BATCH2025A,B.E.,Electronics,2024,8.48,1,2,3,Placed,4.02,Institution 8,Chennai,Arts and Science
+ST00743,INST09,BATCH2022B,B.E.,Computer Science,2023,5.85,0,2,3,Placed,4.21,Institution 9,Coimbatore,University
+ST00744,INST03,BATCH2023B,B.E.,Mechanical,2023,7.1,3,2,2,Placed,2.75,Institution 3,Trichy,Engineering
+ST00745,INST03,BATCH2022B,B.Tech,Business Analytics,2023,7.98,0,3,3,Placed,3.3,Institution 3,Trichy,Engineering
+ST00746,INST02,BATCH2024B,BCA,Electronics,2026,7.31,0,3,3,Placed,8.91,Institution 2,Bengaluru,Engineering
+ST00747,INST10,BATCH2024A,MCA,Mechanical,2025,9.25,3,0,2,Placed,4.55,Institution 10,Chennai,University
+ST00748,INST03,BATCH2024A,B.E.,Mechanical,2023,9.17,1,1,2,Placed,3.25,Institution 3,Trichy,Engineering
+ST00749,INST03,BATCH2023B,B.Tech,Computer Science,2023,8.25,3,0,5,Unplaced,3.2,Institution 3,Trichy,Engineering
+ST00750,INST05,BATCH2025A,B.Tech,Computer Science,2023,7.18,0,3,4,Unplaced,7.18,Institution 5,Bengaluru,Arts and Science
+ST00751,INST05,BATCH2022B,B.Tech,Mechanical,2025,6.65,0,2,1,Placed,8.05,Institution 5,Bengaluru,Arts and Science
+ST00752,INST02,BATCH2025B,BCA,Information Technology,2026,5.98,0,3,1,Placed,4.17,Institution 2,Bengaluru,Engineering
+ST00753,INST10,BATCH2024A,MCA,Mechanical,2024,7.1,3,1,3,Placed,2.64,Institution 10,Chennai,University
+ST00754,INST06,BATCH2024B,BCA,Business Analytics,2026,7.36,0,0,5,Unplaced,3.95,Institution 6,Trichy,University
+ST00755,INST05,BATCH2023A,B.Sc,Mechanical,2023,8.54,0,0,3,Placed,2.87,Institution 5,Bengaluru,Arts and Science
+ST00756,INST06,BATCH2022A,B.Tech,Data Science,2026,8.46,1,2,1,Placed,3.17,Institution 6,Trichy,University
+ST00757,INST01,BATCH2022A,B.Sc,Data Science,2026,5.82,1,0,2,Unplaced,5.3,Institution 1,Madurai,University
+ST00758,INST05,BATCH2022A,M.Sc,Data Science,2024,7.28,0,0,4,Placed,3.99,Institution 5,Bengaluru,Arts and Science
+ST00759,INST09,BATCH2025B,B.E.,Information Technology,2025,6.32,0,3,5,Placed,5.85,Institution 9,Coimbatore,University
+ST00760,INST10,BATCH2025A,B.E.,Information Technology,2025,6.21,0,0,2,Placed,4.15,Institution 10,Chennai,University
+ST00761,INST02,BATCH2022B,BCA,Mechanical,2026,9.22,2,0,4,Placed,8.61,Institution 2,Bengaluru,Engineering
+ST00762,INST01,BATCH2023B,MCA,Data Science,2026,5.69,2,0,5,Unplaced,8.39,Institution 1,Madurai,University
+ST00763,INST10,BATCH2025B,B.Sc,Information Technology,2025,7.39,0,2,5,Unplaced,6.18,Institution 10,Chennai,University
+ST00764,INST09,BATCH2025B,MCA,Computer Science,2025,6.26,0,2,1,Placed,4.8,Institution 9,Coimbatore,University
+ST00765,INST10,BATCH2024A,BCA,Mechanical,2024,9.46,0,3,2,Placed,4.98,Institution 10,Chennai,University
+ST00766,INST09,BATCH2023A,B.E.,Business Analytics,2023,8.01,1,0,5,Unplaced,5.18,Institution 9,Coimbatore,University
+ST00767,INST09,BATCH2025B,MCA,Electronics,2026,6.54,0,2,5,Unplaced,7.23,Institution 9,Coimbatore,University
+ST00768,INST06,BATCH2024B,MCA,Mechanical,2025,7.76,3,2,4,Placed,5.44,Institution 6,Trichy,University
+ST00769,INST08,BATCH2023A,B.E.,Electronics,2026,8.79,0,3,1,Placed,8.07,Institution 8,Chennai,Arts and Science
+ST00770,INST01,BATCH2024B,B.Sc,Data Science,2026,9.81,3,1,3,Placed,8.64,Institution 1,Madurai,University
+ST00771,INST10,BATCH2025A,B.E.,Electronics,2025,6.49,2,0,1,Placed,4.68,Institution 10,Chennai,University
+ST00772,INST04,BATCH2022B,MCA,Data Science,2024,9.49,3,2,3,Placed,6.14,Institution 4,Coimbatore,University
+ST00773,INST01,BATCH2022A,B.Sc,Computer Science,2026,9.7,0,3,2,Placed,3.12,Institution 1,Madurai,University
+ST00774,INST08,BATCH2025B,B.Sc,Electronics,2024,9.62,0,3,2,Placed,3.8,Institution 8,Chennai,Arts and Science
+ST00775,INST01,BATCH2022B,B.E.,Mechanical,2025,8.36,3,3,5,Placed,5.19,Institution 1,Madurai,University
+ST00776,INST03,BATCH2025A,MCA,Data Science,2023,8.33,0,2,2,Placed,3.84,Institution 3,Trichy,Engineering
+ST00777,INST04,BATCH2023B,BCA,Mechanical,2023,7.31,0,0,5,Unplaced,8.2,Institution 4,Coimbatore,University
+ST00778,INST08,BATCH2023B,MCA,Information Technology,2026,8.89,0,1,1,Placed,3.53,Institution 8,Chennai,Arts and Science
+ST00779,INST06,BATCH2025A,B.Tech,Data Science,2025,7.89,3,0,2,Placed,5.46,Institution 6,Trichy,University
+ST00780,INST10,BATCH2024B,M.Sc,Electronics,2024,8.55,0,3,1,Placed,6.44,Institution 10,Chennai,University
+ST00781,INST07,BATCH2024A,BCA,Data Science,2026,7.43,1,3,1,Placed,7.0,Institution 7,Madurai,University
+ST00782,INST08,BATCH2024A,B.Sc,Mechanical,2025,8.79,0,1,2,Placed,4.99,Institution 8,Chennai,Arts and Science
+ST00783,INST02,BATCH2024B,BCA,Computer Science,2025,9.21,0,0,1,Unplaced,8.15,Institution 2,Bengaluru,Engineering
+ST00784,INST10,BATCH2023B,B.Sc,Data Science,2024,6.16,3,3,2,Unplaced,6.19,Institution 10,Chennai,University
+ST00785,INST08,BATCH2023B,B.Sc,Electronics,2026,9.25,2,3,2,Placed,5.36,Institution 8,Chennai,Arts and Science
+ST00786,INST03,BATCH2025B,BCA,Information Technology,2025,7.93,3,0,2,Placed,2.94,Institution 3,Trichy,Engineering
+ST00787,INST07,BATCH2023B,B.Sc,Business Analytics,2025,9.3,0,3,3,Placed,5.52,Institution 7,Madurai,University
+ST00788,INST03,BATCH2022B,B.Sc,Computer Science,2025,7.44,0,0,1,Unplaced,7.83,Institution 3,Trichy,Engineering
+ST00789,INST07,BATCH2023B,B.Tech,Information Technology,2024,7.21,2,3,4,Placed,6.49,Institution 7,Madurai,University
+ST00790,INST02,BATCH2023A,MCA,Data Science,2026,9.62,3,0,2,Placed,7.91,Institution 2,Bengaluru,Engineering
+ST00791,INST10,BATCH2025B,MCA,Mechanical,2026,6.63,3,1,1,Placed,5.71,Institution 10,Chennai,University
+ST00792,INST06,BATCH2022A,M.Sc,Mechanical,2026,9.3,0,3,5,Placed,3.27,Institution 6,Trichy,University
+ST00793,INST03,BATCH2023B,M.Sc,Electronics,2026,7.68,0,1,2,Placed,2.59,Institution 3,Trichy,Engineering
+ST00794,INST03,BATCH2024B,B.Tech,Mechanical,2023,7.81,1,3,2,Placed,4.47,Institution 3,Trichy,Engineering
+ST00795,INST09,BATCH2022A,M.Sc,Computer Science,2023,6.89,3,3,4,Unplaced,7.04,Institution 9,Coimbatore,University
+ST00796,INST07,BATCH2022B,BCA,Mechanical,2026,8.08,0,2,3,Unplaced,7.64,Institution 7,Madurai,University
+ST00797,INST05,BATCH2024B,B.E.,Electronics,2024,6.96,0,0,3,Unplaced,4.42,Institution 5,Bengaluru,Arts and Science
+ST00798,INST10,BATCH2022A,B.E.,Business Analytics,2023,5.68,2,1,2,Placed,5.72,Institution 10,Chennai,University
+ST00799,INST07,BATCH2024B,B.E.,Data Science,2025,6.72,0,1,1,Placed,5.24,Institution 7,Madurai,University
+ST00800,INST09,BATCH2022B,B.Tech,Data Science,2023,5.53,2,1,5,Unplaced,5.17,Institution 9,Coimbatore,University
+ST00801,INST01,BATCH2025B,B.Tech,Mechanical,2025,9.9,3,0,5,Placed,4.0,Institution 1,Madurai,University
+ST00802,INST07,BATCH2023A,B.Sc,Information Technology,2026,9.85,1,2,1,Placed,3.39,Institution 7,Madurai,University
+ST00803,INST06,BATCH2022B,B.E.,Data Science,2023,7.28,0,1,2,Unplaced,3.78,Institution 6,Trichy,University
+ST00804,INST10,BATCH2022B,BCA,Business Analytics,2024,8.78,0,0,5,Placed,2.86,Institution 10,Chennai,University
+ST00805,INST09,BATCH2024B,M.Sc,Mechanical,2023,7.06,0,3,3,Unplaced,3.79,Institution 9,Coimbatore,University
+ST00806,INST01,BATCH2025B,BCA,Electronics,2023,8.52,3,1,1,Placed,2.56,Institution 1,Madurai,University
+ST00807,INST04,BATCH2025A,M.Sc,Business Analytics,2023,9.12,2,1,4,Placed,6.58,Institution 4,Coimbatore,University
+ST00808,INST09,BATCH2024A,B.E.,Mechanical,2026,9.76,0,2,2,Placed,4.56,Institution 9,Coimbatore,University
+ST00809,INST04,BATCH2023B,B.E.,Business Analytics,2024,7.3,0,1,1,Placed,8.83,Institution 4,Coimbatore,University
+ST00810,INST10,BATCH2023B,B.E.,Data Science,2023,9.02,0,1,5,Placed,3.76,Institution 10,Chennai,University
+ST00811,INST03,BATCH2023A,B.Tech,Electronics,2024,6.7,3,3,2,Placed,4.75,Institution 3,Trichy,Engineering
+ST00812,INST09,BATCH2023A,M.Sc,Mechanical,2026,9.96,1,0,3,Placed,4.83,Institution 9,Coimbatore,University
+ST00813,INST02,BATCH2023B,B.Tech,Computer Science,2025,5.62,0,0,2,Unplaced,2.55,Institution 2,Bengaluru,Engineering
+ST00814,INST04,BATCH2024A,B.Tech,Electronics,2023,8.22,0,2,2,Placed,7.95,Institution 4,Coimbatore,University
+ST00815,INST06,BATCH2023B,MCA,Computer Science,2024,8.47,0,3,3,Placed,2.71,Institution 6,Trichy,University
+ST00816,INST02,BATCH2025A,BCA,Business Analytics,2024,8.6,0,0,3,Placed,8.61,Institution 2,Bengaluru,Engineering
+ST00817,INST08,BATCH2024A,BCA,Information Technology,2026,6.04,2,3,2,Placed,8.3,Institution 8,Chennai,Arts and Science
+ST00818,INST08,BATCH2023A,B.Sc,Electronics,2023,9.72,0,0,3,Placed,5.98,Institution 8,Chennai,Arts and Science
+ST00819,INST01,BATCH2022A,B.Tech,Business Analytics,2025,6.32,0,3,1,Placed,6.03,Institution 1,Madurai,University
+ST00820,INST03,BATCH2024B,M.Sc,Computer Science,2024,8.3,1,2,3,Placed,6.75,Institution 3,Trichy,Engineering
+ST00821,INST10,BATCH2025A,MCA,Data Science,2023,6.5,2,1,3,Placed,5.02,Institution 10,Chennai,University
+ST00822,INST09,BATCH2025A,MCA,Data Science,2025,6.88,0,2,2,Unplaced,6.71,Institution 9,Coimbatore,University
+ST00823,INST05,BATCH2025B,BCA,Information Technology,2024,7.96,0,0,1,Placed,2.79,Institution 5,Bengaluru,Arts and Science
+ST00824,INST06,BATCH2023A,B.Tech,Electronics,2024,7.38,0,2,4,Unplaced,2.85,Institution 6,Trichy,University
+ST00825,INST04,BATCH2023A,B.Sc,Electronics,2025,6.22,0,1,4,Placed,5.47,Institution 4,Coimbatore,University
+ST00826,INST10,BATCH2022B,B.Tech,Electronics,2025,6.27,2,2,5,Placed,6.07,Institution 10,Chennai,University
+ST00827,INST02,BATCH2025A,B.E.,Business Analytics,2026,7.38,0,0,3,Placed,8.27,Institution 2,Bengaluru,Engineering
+ST00828,INST08,BATCH2022B,B.Tech,Information Technology,2023,8.91,1,0,3,Placed,3.18,Institution 8,Chennai,Arts and Science
+ST00829,INST06,BATCH2022B,B.E.,Electronics,2023,9.54,3,2,1,Placed,7.85,Institution 6,Trichy,University
+ST00830,INST05,BATCH2024B,B.E.,Business Analytics,2026,5.88,0,1,4,Placed,3.87,Institution 5,Bengaluru,Arts and Science
+ST00831,INST09,BATCH2022B,B.Sc,Data Science,2024,7.27,1,2,5,Placed,5.06,Institution 9,Coimbatore,University
+ST00832,INST01,BATCH2024A,M.Sc,Computer Science,2025,5.95,3,1,1,Placed,4.56,Institution 1,Madurai,University
+ST00833,INST05,BATCH2023B,BCA,Business Analytics,2025,5.57,2,3,3,Placed,5.1,Institution 5,Bengaluru,Arts and Science
+ST00834,INST06,BATCH2022A,B.Tech,Data Science,2025,8.48,2,1,4,Placed,3.48,Institution 6,Trichy,University
+ST00835,INST05,BATCH2023A,B.E.,Data Science,2024,8.21,0,3,5,Unplaced,5.77,Institution 5,Bengaluru,Arts and Science
+ST00836,INST06,BATCH2024A,B.Tech,Computer Science,2025,6.23,1,2,2,Unplaced,7.71,Institution 6,Trichy,University
+ST00837,INST06,BATCH2022A,M.Sc,Data Science,2025,6.55,1,1,4,Placed,5.37,Institution 6,Trichy,University
+ST00838,INST07,BATCH2025A,BCA,Information Technology,2026,5.61,0,3,5,Placed,5.69,Institution 7,Madurai,University
+ST00839,INST04,BATCH2025A,M.Sc,Computer Science,2024,9.26,0,3,1,Unplaced,8.02,Institution 4,Coimbatore,University
+ST00840,INST08,BATCH2025A,BCA,Data Science,2023,9.89,3,3,2,Placed,7.09,Institution 8,Chennai,Arts and Science
+ST00841,INST07,BATCH2024A,MCA,Mechanical,2026,6.11,3,0,5,Placed,5.69,Institution 7,Madurai,University
+ST00842,INST09,BATCH2024A,BCA,Business Analytics,2026,6.54,0,2,5,Placed,4.18,Institution 9,Coimbatore,University
+ST00843,INST07,BATCH2023A,B.Sc,Data Science,2023,9.41,3,3,3,Placed,8.25,Institution 7,Madurai,University
+ST00844,INST03,BATCH2023B,M.Sc,Information Technology,2026,9.67,0,1,4,Placed,6.25,Institution 3,Trichy,Engineering
+ST00845,INST03,BATCH2025B,B.E.,Electronics,2024,7.39,0,3,3,Placed,3.94,Institution 3,Trichy,Engineering
+ST00846,INST08,BATCH2022B,MCA,Data Science,2025,5.73,1,0,2,Placed,4.25,Institution 8,Chennai,Arts and Science
+ST00847,INST05,BATCH2025A,B.Sc,Electronics,2024,5.68,0,2,5,Unplaced,7.72,Institution 5,Bengaluru,Arts and Science
+ST00848,INST04,BATCH2024B,B.Tech,Mechanical,2023,8.08,3,0,3,Placed,2.79,Institution 4,Coimbatore,University
+ST00849,INST08,BATCH2023B,M.Sc,Data Science,2023,7.27,2,0,4,Placed,8.95,Institution 8,Chennai,Arts and Science
+ST00850,INST06,BATCH2024B,B.E.,Computer Science,2026,5.63,0,0,2,Placed,3.35,Institution 6,Trichy,University
+ST00851,INST02,BATCH2023A,BCA,Electronics,2024,8.12,0,1,1,Unplaced,7.67,Institution 2,Bengaluru,Engineering
+ST00852,INST04,BATCH2023A,B.E.,Mechanical,2024,5.55,2,2,3,Unplaced,5.07,Institution 4,Coimbatore,University
+ST00853,INST04,BATCH2023A,B.Tech,Computer Science,2023,9.04,3,2,2,Placed,5.7,Institution 4,Coimbatore,University
+ST00854,INST06,BATCH2022A,MCA,Computer Science,2024,6.88,1,1,1,Placed,8.22,Institution 6,Trichy,University
+ST00855,INST06,BATCH2024B,MCA,Computer Science,2023,5.68,0,2,3,Unplaced,5.18,Institution 6,Trichy,University
+ST00856,INST01,BATCH2023B,M.Sc,Computer Science,2024,8.15,2,0,2,Placed,5.99,Institution 1,Madurai,University
+ST00857,INST08,BATCH2025B,MCA,Data Science,2024,7.29,0,2,2,Placed,2.82,Institution 8,Chennai,Arts and Science
+ST00858,INST06,BATCH2023B,M.Sc,Business Analytics,2024,9.88,0,1,3,Placed,2.52,Institution 6,Trichy,University
+ST00859,INST03,BATCH2024A,M.Sc,Data Science,2023,7.95,3,0,2,Placed,4.09,Institution 3,Trichy,Engineering
+ST00860,INST09,BATCH2024A,M.Sc,Data Science,2026,6.74,1,1,5,Placed,6.92,Institution 9,Coimbatore,University
+ST00861,INST02,BATCH2025A,BCA,Mechanical,2024,8.69,3,3,3,Placed,3.29,Institution 2,Bengaluru,Engineering
+ST00862,INST08,BATCH2025B,B.Sc,Mechanical,2023,6.72,0,0,2,Placed,3.24,Institution 8,Chennai,Arts and Science
+ST00863,INST10,BATCH2024A,M.Sc,Business Analytics,2023,9.57,2,0,1,Placed,5.17,Institution 10,Chennai,University
+ST00864,INST03,BATCH2023A,M.Sc,Mechanical,2024,7.19,0,2,1,Unplaced,6.71,Institution 3,Trichy,Engineering
+ST00865,INST05,BATCH2023B,B.Sc,Information Technology,2024,7.97,0,0,5,Placed,7.13,Institution 5,Bengaluru,Arts and Science
+ST00866,INST06,BATCH2024B,B.E.,Business Analytics,2026,5.73,3,1,3,Placed,3.66,Institution 6,Trichy,University
+ST00867,INST10,BATCH2023A,M.Sc,Mechanical,2023,7.42,2,2,2,Placed,3.02,Institution 10,Chennai,University
+ST00868,INST06,BATCH2022A,BCA,Business Analytics,2023,9.25,2,3,2,Placed,8.61,Institution 6,Trichy,University
+ST00869,INST04,BATCH2024A,MCA,Data Science,2025,9.13,0,1,1,Placed,4.19,Institution 4,Coimbatore,University
+ST00870,INST03,BATCH2023A,MCA,Data Science,2023,6.51,3,3,5,Placed,8.05,Institution 3,Trichy,Engineering
+ST00871,INST04,BATCH2023A,B.Tech,Business Analytics,2026,6.52,3,3,1,Unplaced,8.11,Institution 4,Coimbatore,University
+ST00872,INST01,BATCH2022A,B.Tech,Information Technology,2025,9.18,0,3,1,Unplaced,7.52,Institution 1,Madurai,University
+ST00873,INST04,BATCH2022B,MCA,Information Technology,2025,9.69,3,0,5,Placed,3.6,Institution 4,Coimbatore,University
+ST00874,INST01,BATCH2023B,MCA,Business Analytics,2025,5.93,0,1,3,Placed,7.84,Institution 1,Madurai,University
+ST00875,INST01,BATCH2024B,BCA,Mechanical,2024,7.53,0,1,2,Placed,7.5,Institution 1,Madurai,University
+ST00876,INST10,BATCH2025A,B.Sc,Electronics,2024,7.02,2,0,3,Placed,6.38,Institution 10,Chennai,University
+ST00877,INST06,BATCH2022B,B.Tech,Information Technology,2023,9.42,3,2,4,Placed,4.69,Institution 6,Trichy,University
+ST00878,INST05,BATCH2024A,B.Sc,Computer Science,2025,5.88,0,3,4,Unplaced,4.21,Institution 5,Bengaluru,Arts and Science
+ST00879,INST04,BATCH2023A,BCA,Data Science,2026,6.45,3,1,4,Placed,3.29,Institution 4,Coimbatore,University
+ST00880,INST03,BATCH2025B,MCA,Business Analytics,2024,8.89,2,0,5,Placed,5.81,Institution 3,Trichy,Engineering
+ST00881,INST01,BATCH2022A,M.Sc,Computer Science,2026,5.73,1,3,1,Unplaced,6.3,Institution 1,Madurai,University
+ST00882,INST06,BATCH2022A,B.Sc,Business Analytics,2026,7.72,2,2,3,Placed,4.84,Institution 6,Trichy,University
+ST00883,INST02,BATCH2025B,MCA,Data Science,2024,7.49,2,2,2,Placed,5.59,Institution 2,Bengaluru,Engineering
+ST00884,INST08,BATCH2023B,MCA,Data Science,2024,7.0,2,3,4,Unplaced,4.86,Institution 8,Chennai,Arts and Science
+ST00885,INST10,BATCH2022B,B.E.,Information Technology,2024,7.28,3,2,3,Unplaced,6.67,Institution 10,Chennai,University
+ST00886,INST05,BATCH2025A,B.Sc,Information Technology,2024,7.88,0,1,4,Unplaced,8.36,Institution 5,Bengaluru,Arts and Science
+ST00887,INST07,BATCH2023B,M.Sc,Computer Science,2025,6.23,2,1,4,Placed,3.57,Institution 7,Madurai,University
+ST00888,INST10,BATCH2025B,B.Sc,Business Analytics,2025,8.07,0,1,2,Placed,4.98,Institution 10,Chennai,University
+ST00889,INST02,BATCH2023A,MCA,Data Science,2025,9.12,0,2,5,Placed,3.42,Institution 2,Bengaluru,Engineering
+ST00890,INST08,BATCH2025B,M.Sc,Computer Science,2025,8.92,0,1,1,Placed,6.56,Institution 8,Chennai,Arts and Science
+ST00891,INST02,BATCH2023B,BCA,Electronics,2023,6.19,0,0,5,Placed,7.24,Institution 2,Bengaluru,Engineering
+ST00892,INST04,BATCH2024B,B.E.,Computer Science,2025,6.17,0,1,3,Unplaced,8.56,Institution 4,Coimbatore,University
+ST00893,INST01,BATCH2022A,MCA,Mechanical,2024,6.71,0,1,5,Placed,4.31,Institution 1,Madurai,University
+ST00894,INST05,BATCH2022A,B.Tech,Computer Science,2026,7.12,0,2,3,Unplaced,8.68,Institution 5,Bengaluru,Arts and Science
+ST00895,INST09,BATCH2024A,B.Tech,Mechanical,2025,7.34,1,1,3,Placed,2.91,Institution 9,Coimbatore,University
+ST00896,INST01,BATCH2024A,B.E.,Mechanical,2023,8.56,2,3,1,Placed,6.42,Institution 1,Madurai,University
+ST00897,INST09,BATCH2025B,BCA,Mechanical,2024,5.76,0,0,2,Placed,2.87,Institution 9,Coimbatore,University
+ST00898,INST08,BATCH2025A,MCA,Electronics,2026,5.66,3,2,1,Unplaced,8.31,Institution 8,Chennai,Arts and Science
+ST00899,INST06,BATCH2023A,B.Sc,Computer Science,2026,7.26,3,0,5,Placed,5.94,Institution 6,Trichy,University
+ST00900,INST07,BATCH2024B,B.E.,Computer Science,2025,8.64,0,3,3,Placed,6.85,Institution 7,Madurai,University
+ST00901,INST03,BATCH2022B,BCA,Electronics,2026,6.37,0,2,4,Unplaced,7.91,Institution 3,Trichy,Engineering
+ST00902,INST01,BATCH2023B,B.Sc,Data Science,2025,8.39,2,2,4,Unplaced,3.48,Institution 1,Madurai,University
+ST00903,INST05,BATCH2025A,B.Tech,Information Technology,2025,6.67,2,1,3,Unplaced,2.75,Institution 5,Bengaluru,Arts and Science
+ST00904,INST02,BATCH2023A,B.Tech,Computer Science,2024,9.49,1,0,1,Placed,8.21,Institution 2,Bengaluru,Engineering
+ST00905,INST05,BATCH2024A,B.Sc,Information Technology,2024,9.53,0,3,2,Placed,4.55,Institution 5,Bengaluru,Arts and Science
+ST00906,INST08,BATCH2025B,B.E.,Business Analytics,2023,6.84,0,3,1,Unplaced,3.34,Institution 8,Chennai,Arts and Science
+ST00907,INST09,BATCH2023B,B.Tech,Business Analytics,2024,6.53,2,2,3,Unplaced,5.54,Institution 9,Coimbatore,University
+ST00908,INST02,BATCH2024A,MCA,Electronics,2024,7.35,0,1,3,Placed,6.39,Institution 2,Bengaluru,Engineering
+ST00909,INST03,BATCH2025B,M.Sc,Business Analytics,2025,6.58,2,2,2,Placed,2.7,Institution 3,Trichy,Engineering
+ST00910,INST03,BATCH2023B,B.Sc,Business Analytics,2024,8.53,0,2,5,Placed,4.29,Institution 3,Trichy,Engineering
+ST00911,INST01,BATCH2022B,B.Sc,Data Science,2025,9.22,0,2,5,Placed,2.71,Institution 1,Madurai,University
+ST00912,INST08,BATCH2023A,B.Tech,Data Science,2025,8.53,0,2,2,Placed,5.23,Institution 8,Chennai,Arts and Science
+ST00913,INST06,BATCH2023B,B.E.,Data Science,2024,9.21,0,3,5,Placed,8.32,Institution 6,Trichy,University
+ST00914,INST08,BATCH2024B,MCA,Business Analytics,2023,7.29,0,3,4,Placed,8.89,Institution 8,Chennai,Arts and Science
+ST00915,INST09,BATCH2025A,B.E.,Electronics,2023,6.2,1,2,5,Placed,6.64,Institution 9,Coimbatore,University
+ST00916,INST05,BATCH2022A,BCA,Mechanical,2026,8.82,3,2,5,Placed,3.55,Institution 5,Bengaluru,Arts and Science
+ST00917,INST03,BATCH2024B,BCA,Mechanical,2026,7.12,3,1,5,Placed,8.39,Institution 3,Trichy,Engineering
+ST00918,INST05,BATCH2024B,M.Sc,Information Technology,2024,8.52,3,2,4,Placed,5.86,Institution 5,Bengaluru,Arts and Science
+ST00919,INST05,BATCH2025A,B.Tech,Mechanical,2023,6.72,0,3,5,Placed,3.5,Institution 5,Bengaluru,Arts and Science
+ST00920,INST05,BATCH2022A,B.Tech,Mechanical,2025,5.87,2,0,4,Unplaced,8.49,Institution 5,Bengaluru,Arts and Science
+ST00921,INST03,BATCH2024B,B.Tech,Data Science,2026,9.97,3,3,2,Placed,7.42,Institution 3,Trichy,Engineering
+ST00922,INST10,BATCH2023B,M.Sc,Data Science,2025,6.2,0,1,1,Unplaced,7.26,Institution 10,Chennai,University
+ST00923,INST04,BATCH2023B,BCA,Business Analytics,2026,9.95,3,3,2,Placed,7.11,Institution 4,Coimbatore,University
+ST00924,INST09,BATCH2023B,B.E.,Information Technology,2024,9.9,0,0,1,Placed,3.8,Institution 9,Coimbatore,University
+ST00925,INST10,BATCH2022A,M.Sc,Computer Science,2023,9.07,0,2,2,Placed,3.87,Institution 10,Chennai,University
+ST00926,INST09,BATCH2024B,M.Sc,Information Technology,2026,8.47,0,0,1,Unplaced,6.97,Institution 9,Coimbatore,University
+ST00927,INST02,BATCH2025B,B.E.,Information Technology,2023,8.1,0,2,1,Unplaced,3.93,Institution 2,Bengaluru,Engineering
+ST00928,INST08,BATCH2022A,B.Tech,Electronics,2025,9.4,0,2,3,Unplaced,5.35,Institution 8,Chennai,Arts and Science
+ST00929,INST08,BATCH2023B,MCA,Business Analytics,2024,6.8,1,3,1,Placed,7.58,Institution 8,Chennai,Arts and Science
+ST00930,INST07,BATCH2025A,B.E.,Electronics,2023,7.6,1,3,1,Placed,7.6,Institution 7,Madurai,University
+ST00931,INST08,BATCH2024B,BCA,Information Technology,2024,8.29,2,3,3,Placed,5.45,Institution 8,Chennai,Arts and Science
+ST00932,INST03,BATCH2024B,B.Sc,Information Technology,2023,7.35,0,1,5,Placed,7.65,Institution 3,Trichy,Engineering
+ST00933,INST06,BATCH2024A,B.Sc,Information Technology,2025,7.42,0,3,5,Placed,7.95,Institution 6,Trichy,University
+ST00934,INST01,BATCH2024A,M.Sc,Mechanical,2025,6.99,0,1,3,Unplaced,6.76,Institution 1,Madurai,University
+ST00935,INST07,BATCH2022B,B.Sc,Electronics,2024,8.04,0,3,4,Placed,3.98,Institution 7,Madurai,University
+ST00936,INST01,BATCH2025B,MCA,Information Technology,2025,9.33,0,2,1,Placed,4.28,Institution 1,Madurai,University
+ST00937,INST09,BATCH2025B,B.Tech,Data Science,2026,6.41,1,1,1,Placed,4.55,Institution 9,Coimbatore,University
+ST00938,INST01,BATCH2023A,BCA,Business Analytics,2023,9.7,0,0,3,Placed,3.26,Institution 1,Madurai,University
+ST00939,INST01,BATCH2025B,MCA,Business Analytics,2025,8.6,0,1,3,Placed,4.28,Institution 1,Madurai,University
+ST00940,INST07,BATCH2024A,BCA,Data Science,2026,9.2,1,1,4,Placed,3.86,Institution 7,Madurai,University
+ST00941,INST02,BATCH2022A,BCA,Business Analytics,2024,8.0,1,0,5,Unplaced,5.46,Institution 2,Bengaluru,Engineering
+ST00942,INST05,BATCH2025B,B.Tech,Mechanical,2026,9.01,3,1,2,Placed,8.4,Institution 5,Bengaluru,Arts and Science
+ST00943,INST08,BATCH2024A,M.Sc,Mechanical,2024,5.57,3,2,5,Unplaced,3.18,Institution 8,Chennai,Arts and Science
+ST00944,INST08,BATCH2022B,B.Sc,Computer Science,2024,9.18,0,3,1,Placed,7.18,Institution 8,Chennai,Arts and Science
+ST00945,INST03,BATCH2024B,B.Tech,Computer Science,2023,5.68,0,0,3,Placed,6.97,Institution 3,Trichy,Engineering
+ST00946,INST07,BATCH2025B,MCA,Computer Science,2023,9.5,0,3,4,Placed,3.12,Institution 7,Madurai,University
+ST00947,INST03,BATCH2022B,M.Sc,Business Analytics,2026,9.96,0,2,5,Placed,8.5,Institution 3,Trichy,Engineering
+ST00948,INST06,BATCH2024B,MCA,Mechanical,2023,6.82,2,0,4,Placed,6.2,Institution 6,Trichy,University
+ST00949,INST06,BATCH2025A,M.Sc,Mechanical,2023,6.45,0,3,5,Placed,4.86,Institution 6,Trichy,University
+ST00950,INST03,BATCH2025A,MCA,Mechanical,2023,8.94,3,3,1,Placed,7.42,Institution 3,Trichy,Engineering
+ST00951,INST07,BATCH2024B,B.Tech,Data Science,2026,6.64,2,2,2,Placed,4.17,Institution 7,Madurai,University
+ST00952,INST03,BATCH2025B,M.Sc,Mechanical,2025,9.4,0,3,4,Placed,7.01,Institution 3,Trichy,Engineering
+ST00953,INST08,BATCH2023A,M.Sc,Data Science,2023,5.96,2,2,4,Placed,2.76,Institution 8,Chennai,Arts and Science
+ST00954,INST10,BATCH2024A,BCA,Computer Science,2023,6.07,0,1,2,Placed,7.96,Institution 10,Chennai,University
+ST00955,INST04,BATCH2022A,BCA,Computer Science,2026,9.91,2,2,4,Placed,5.41,Institution 4,Coimbatore,University
+ST00956,INST01,BATCH2022A,B.E.,Business Analytics,2025,8.53,0,1,4,Placed,6.64,Institution 1,Madurai,University
+ST00957,INST04,BATCH2023B,MCA,Computer Science,2023,9.31,0,0,5,Placed,3.94,Institution 4,Coimbatore,University
+ST00958,INST07,BATCH2024B,BCA,Business Analytics,2024,6.96,0,3,5,Placed,6.9,Institution 7,Madurai,University
+ST00959,INST04,BATCH2022A,B.E.,Information Technology,2026,8.54,3,2,2,Unplaced,7.52,Institution 4,Coimbatore,University
+ST00960,INST06,BATCH2025B,BCA,Information Technology,2023,8.17,0,2,1,Placed,5.58,Institution 6,Trichy,University
+ST00961,INST09,BATCH2023A,MCA,Electronics,2023,8.21,3,3,4,Placed,6.52,Institution 9,Coimbatore,University
+ST00962,INST01,BATCH2024B,M.Sc,Business Analytics,2024,8.57,0,3,1,Placed,5.47,Institution 1,Madurai,University
+ST00963,INST05,BATCH2023A,B.Sc,Electronics,2024,8.09,0,0,2,Unplaced,8.31,Institution 5,Bengaluru,Arts and Science
+ST00964,INST07,BATCH2025B,MCA,Electronics,2026,7.43,0,0,2,Placed,5.74,Institution 7,Madurai,University
+ST00965,INST01,BATCH2022A,B.Tech,Information Technology,2026,6.74,1,2,5,Unplaced,7.97,Institution 1,Madurai,University
+ST00966,INST04,BATCH2022A,BCA,Business Analytics,2024,8.96,0,0,4,Placed,7.71,Institution 4,Coimbatore,University
+ST00967,INST06,BATCH2023B,BCA,Information Technology,2026,6.52,0,1,3,Unplaced,5.17,Institution 6,Trichy,University
+ST00968,INST02,BATCH2022A,M.Sc,Electronics,2024,8.62,0,0,2,Placed,4.0,Institution 2,Bengaluru,Engineering
+ST00969,INST10,BATCH2024B,B.Tech,Business Analytics,2023,6.55,3,0,4,Placed,5.14,Institution 10,Chennai,University
+ST00970,INST05,BATCH2025B,M.Sc,Electronics,2024,8.31,3,2,1,Placed,7.87,Institution 5,Bengaluru,Arts and Science
+ST00971,INST10,BATCH2025A,B.Tech,Mechanical,2024,8.86,0,1,5,Unplaced,3.98,Institution 10,Chennai,University
+ST00972,INST01,BATCH2025B,B.Sc,Business Analytics,2025,6.48,0,0,1,Placed,5.91,Institution 1,Madurai,University
+ST00973,INST06,BATCH2024B,BCA,Business Analytics,2024,5.77,1,1,2,Placed,7.74,Institution 6,Trichy,University
+ST00974,INST06,BATCH2024B,BCA,Electronics,2024,6.09,3,1,2,Unplaced,4.8,Institution 6,Trichy,University
+ST00975,INST04,BATCH2023B,B.Sc,Mechanical,2025,8.23,0,1,1,Placed,6.67,Institution 4,Coimbatore,University
+ST00976,INST08,BATCH2023B,B.E.,Data Science,2026,9.32,1,3,2,Placed,4.1,Institution 8,Chennai,Arts and Science
+ST00977,INST04,BATCH2022A,M.Sc,Information Technology,2025,5.7,0,3,4,Placed,3.21,Institution 4,Coimbatore,University
+ST00978,INST08,BATCH2022B,B.Sc,Electronics,2023,8.8,0,3,2,Placed,7.66,Institution 8,Chennai,Arts and Science
+ST00979,INST08,BATCH2025B,M.Sc,Business Analytics,2025,7.04,2,3,5,Unplaced,3.14,Institution 8,Chennai,Arts and Science
+ST00980,INST05,BATCH2025B,MCA,Information Technology,2023,7.65,2,2,4,Placed,4.26,Institution 5,Bengaluru,Arts and Science
+ST00981,INST04,BATCH2022B,BCA,Information Technology,2026,9.68,0,0,3,Placed,8.06,Institution 4,Coimbatore,University
+ST00982,INST02,BATCH2023B,M.Sc,Information Technology,2025,6.99,3,3,2,Placed,4.75,Institution 2,Bengaluru,Engineering
+ST00983,INST03,BATCH2022A,B.Tech,Data Science,2025,7.59,0,2,2,Unplaced,8.82,Institution 3,Trichy,Engineering
+ST00984,INST03,BATCH2022B,M.Sc,Computer Science,2026,5.56,0,0,5,Unplaced,8.87,Institution 3,Trichy,Engineering
+ST00985,INST04,BATCH2022A,MCA,Electronics,2023,5.87,1,3,5,Placed,4.24,Institution 4,Coimbatore,University
+ST00986,INST04,BATCH2022A,BCA,Computer Science,2025,6.66,0,0,1,Unplaced,2.77,Institution 4,Coimbatore,University
+ST00987,INST10,BATCH2022A,B.Sc,Computer Science,2023,5.63,0,3,1,Placed,7.08,Institution 10,Chennai,University
+ST00988,INST05,BATCH2024A,MCA,Computer Science,2025,8.34,0,2,1,Unplaced,5.43,Institution 5,Bengaluru,Arts and Science
+ST00989,INST04,BATCH2024B,BCA,Information Technology,2024,7.42,3,1,5,Placed,3.15,Institution 4,Coimbatore,University
+ST00990,INST10,BATCH2022A,M.Sc,Mechanical,2025,7.97,1,1,1,Unplaced,7.1,Institution 10,Chennai,University
+ST00991,INST08,BATCH2024A,B.E.,Information Technology,2026,6.29,0,0,1,Placed,2.7,Institution 8,Chennai,Arts and Science
+ST00992,INST06,BATCH2023B,B.E.,Information Technology,2026,6.83,3,2,3,Placed,8.16,Institution 6,Trichy,University
+ST00993,INST06,BATCH2022B,B.Tech,Business Analytics,2023,8.49,0,1,1,Placed,3.4,Institution 6,Trichy,University
+ST00994,INST08,BATCH2024B,BCA,Business Analytics,2025,9.84,3,3,2,Placed,3.33,Institution 8,Chennai,Arts and Science
+ST00995,INST07,BATCH2025A,B.E.,Computer Science,2023,5.73,0,1,5,Placed,3.64,Institution 7,Madurai,University
+ST00996,INST10,BATCH2022B,B.Sc,Information Technology,2023,9.51,0,0,4,Unplaced,8.74,Institution 10,Chennai,University
+ST00997,INST10,BATCH2024B,BCA,Computer Science,2024,8.1,0,0,3,Placed,7.01,Institution 10,Chennai,University
+ST00998,INST08,BATCH2025A,B.Sc,Business Analytics,2024,8.04,3,2,5,Placed,7.71,Institution 8,Chennai,Arts and Science
+ST00999,INST02,BATCH2022B,B.Sc,Mechanical,2026,7.75,0,0,5,Placed,5.08,Institution 2,Bengaluru,Engineering
+ST01000,INST09,BATCH2024B,B.E.,Electronics,2023,5.81,1,1,2,Unplaced,4.69,Institution 9,Coimbatore,University
