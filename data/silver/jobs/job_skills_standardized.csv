@@ -1,0 +1,1668 @@
+job_id,skill,standardized_skill
+JOB0001,python,Python
+JOB0001,power bi,Power Bi
+JOB0001,excel,Excel
+JOB0001,machine learning,Machine Learning
+JOB0002,python,Python
+JOB0002,git,Git
+JOB0002,sql,SQL
+JOB0002,excel,Excel
+JOB0002,pyspark,PySpark
+JOB0002,power bi,Power Bi
+JOB0002,aws,AWS
+JOB0003,azure,Azure
+JOB0003,machine learning,Machine Learning
+JOB0003,power bi,Power Bi
+JOB0003,python,Python
+JOB0003,java,Java
+JOB0004,aws,AWS
+JOB0004,sql,SQL
+JOB0004,tableau,Tableau
+JOB0004,machine learning,Machine Learning
+JOB0005,sql,SQL
+JOB0005,pyspark,PySpark
+JOB0005,power bi,Power Bi
+JOB0005,tableau,Tableau
+JOB0005,excel,Excel
+JOB0005,statistics,Statistics
+JOB0005,python,Python
+JOB0006,power bi,Power Bi
+JOB0006,azure,Azure
+JOB0006,tableau,Tableau
+JOB0006,java,Java
+JOB0006,machine learning,Machine Learning
+JOB0006,pyspark,PySpark
+JOB0006,sql,SQL
+JOB0007,pyspark,PySpark
+JOB0007,excel,Excel
+JOB0007,java,Java
+JOB0007,azure,Azure
+JOB0007,aws,AWS
+JOB0008,tableau,Tableau
+JOB0008,aws,AWS
+JOB0008,power bi,Power Bi
+JOB0008,sql,SQL
+JOB0009,java,Java
+JOB0009,power bi,Power Bi
+JOB0009,git,Git
+JOB0009,excel,Excel
+JOB0009,statistics,Statistics
+JOB0009,tableau,Tableau
+JOB0009,azure,Azure
+JOB0010,sql,SQL
+JOB0010,python,Python
+JOB0010,git,Git
+JOB0010,java,Java
+JOB0010,pyspark,PySpark
+JOB0010,aws,AWS
+JOB0010,tableau,Tableau
+JOB0011,pyspark,PySpark
+JOB0011,python,Python
+JOB0011,sql,SQL
+JOB0011,git,Git
+JOB0011,power bi,Power Bi
+JOB0011,aws,AWS
+JOB0012,pyspark,PySpark
+JOB0012,java,Java
+JOB0012,git,Git
+JOB0012,sql,SQL
+JOB0012,power bi,Power Bi
+JOB0012,aws,AWS
+JOB0013,machine learning,Machine Learning
+JOB0013,tableau,Tableau
+JOB0013,azure,Azure
+JOB0013,python,Python
+JOB0014,excel,Excel
+JOB0014,machine learning,Machine Learning
+JOB0014,sql,SQL
+JOB0014,statistics,Statistics
+JOB0015,statistics,Statistics
+JOB0015,azure,Azure
+JOB0015,pyspark,PySpark
+JOB0015,java,Java
+JOB0015,power bi,Power Bi
+JOB0016,git,Git
+JOB0016,power bi,Power Bi
+JOB0016,aws,AWS
+JOB0016,tableau,Tableau
+JOB0016,azure,Azure
+JOB0017,machine learning,Machine Learning
+JOB0017,pyspark,PySpark
+JOB0017,excel,Excel
+JOB0017,git,Git
+JOB0018,sql,SQL
+JOB0018,pyspark,PySpark
+JOB0018,excel,Excel
+JOB0018,power bi,Power Bi
+JOB0018,azure,Azure
+JOB0018,git,Git
+JOB0019,azure,Azure
+JOB0019,aws,AWS
+JOB0019,excel,Excel
+JOB0019,sql,SQL
+JOB0019,pyspark,PySpark
+JOB0020,python,Python
+JOB0020,aws,AWS
+JOB0020,tableau,Tableau
+JOB0020,sql,SQL
+JOB0021,azure,Azure
+JOB0021,excel,Excel
+JOB0021,sql,SQL
+JOB0021,git,Git
+JOB0021,machine learning,Machine Learning
+JOB0021,python,Python
+JOB0022,azure,Azure
+JOB0022,git,Git
+JOB0022,excel,Excel
+JOB0022,aws,AWS
+JOB0022,python,Python
+JOB0022,sql,SQL
+JOB0022,machine learning,Machine Learning
+JOB0023,git,Git
+JOB0023,pyspark,PySpark
+JOB0023,azure,Azure
+JOB0023,java,Java
+JOB0023,excel,Excel
+JOB0023,statistics,Statistics
+JOB0023,sql,SQL
+JOB0024,machine learning,Machine Learning
+JOB0024,azure,Azure
+JOB0024,pyspark,PySpark
+JOB0024,git,Git
+JOB0025,statistics,Statistics
+JOB0025,excel,Excel
+JOB0025,aws,AWS
+JOB0025,sql,SQL
+JOB0026,power bi,Power Bi
+JOB0026,excel,Excel
+JOB0026,tableau,Tableau
+JOB0026,statistics,Statistics
+JOB0026,git,Git
+JOB0026,pyspark,PySpark
+JOB0027,machine learning,Machine Learning
+JOB0027,git,Git
+JOB0027,sql,SQL
+JOB0027,statistics,Statistics
+JOB0027,excel,Excel
+JOB0027,power bi,Power Bi
+JOB0027,java,Java
+JOB0028,azure,Azure
+JOB0028,pyspark,PySpark
+JOB0028,power bi,Power Bi
+JOB0028,statistics,Statistics
+JOB0028,python,Python
+JOB0029,sql,SQL
+JOB0029,pyspark,PySpark
+JOB0029,java,Java
+JOB0029,power bi,Power Bi
+JOB0030,power bi,Power Bi
+JOB0030,python,Python
+JOB0030,sql,SQL
+JOB0030,aws,AWS
+JOB0030,git,Git
+JOB0030,statistics,Statistics
+JOB0030,pyspark,PySpark
+JOB0031,pyspark,PySpark
+JOB0031,python,Python
+JOB0031,sql,SQL
+JOB0031,machine learning,Machine Learning
+JOB0031,java,Java
+JOB0031,power bi,Power Bi
+JOB0031,statistics,Statistics
+JOB0032,tableau,Tableau
+JOB0032,python,Python
+JOB0032,git,Git
+JOB0032,excel,Excel
+JOB0032,pyspark,PySpark
+JOB0032,machine learning,Machine Learning
+JOB0033,excel,Excel
+JOB0033,java,Java
+JOB0033,statistics,Statistics
+JOB0033,aws,AWS
+JOB0033,python,Python
+JOB0034,git,Git
+JOB0034,sql,SQL
+JOB0034,aws,AWS
+JOB0034,python,Python
+JOB0034,azure,Azure
+JOB0035,python,Python
+JOB0035,statistics,Statistics
+JOB0035,excel,Excel
+JOB0035,aws,AWS
+JOB0035,tableau,Tableau
+JOB0036,python,Python
+JOB0036,sql,SQL
+JOB0036,power bi,Power Bi
+JOB0036,java,Java
+JOB0036,machine learning,Machine Learning
+JOB0036,git,Git
+JOB0037,aws,AWS
+JOB0037,machine learning,Machine Learning
+JOB0037,excel,Excel
+JOB0037,power bi,Power Bi
+JOB0038,tableau,Tableau
+JOB0038,aws,AWS
+JOB0038,sql,SQL
+JOB0038,git,Git
+JOB0038,pyspark,PySpark
+JOB0039,tableau,Tableau
+JOB0039,aws,AWS
+JOB0039,power bi,Power Bi
+JOB0039,pyspark,PySpark
+JOB0039,java,Java
+JOB0039,sql,SQL
+JOB0039,excel,Excel
+JOB0040,pyspark,PySpark
+JOB0040,python,Python
+JOB0040,power bi,Power Bi
+JOB0040,machine learning,Machine Learning
+JOB0040,excel,Excel
+JOB0040,azure,Azure
+JOB0040,git,Git
+JOB0041,git,Git
+JOB0041,java,Java
+JOB0041,sql,SQL
+JOB0041,power bi,Power Bi
+JOB0041,tableau,Tableau
+JOB0041,python,Python
+JOB0041,machine learning,Machine Learning
+JOB0042,azure,Azure
+JOB0042,machine learning,Machine Learning
+JOB0042,sql,SQL
+JOB0042,git,Git
+JOB0042,aws,AWS
+JOB0043,java,Java
+JOB0043,statistics,Statistics
+JOB0043,python,Python
+JOB0043,sql,SQL
+JOB0043,aws,AWS
+JOB0044,sql,SQL
+JOB0044,azure,Azure
+JOB0044,java,Java
+JOB0044,statistics,Statistics
+JOB0044,tableau,Tableau
+JOB0045,java,Java
+JOB0045,azure,Azure
+JOB0045,statistics,Statistics
+JOB0045,power bi,Power Bi
+JOB0045,excel,Excel
+JOB0045,aws,AWS
+JOB0045,tableau,Tableau
+JOB0046,excel,Excel
+JOB0046,power bi,Power Bi
+JOB0046,tableau,Tableau
+JOB0046,machine learning,Machine Learning
+JOB0046,sql,SQL
+JOB0046,azure,Azure
+JOB0047,aws,AWS
+JOB0047,tableau,Tableau
+JOB0047,pyspark,PySpark
+JOB0047,azure,Azure
+JOB0047,git,Git
+JOB0047,python,Python
+JOB0047,sql,SQL
+JOB0048,azure,Azure
+JOB0048,python,Python
+JOB0048,tableau,Tableau
+JOB0048,power bi,Power Bi
+JOB0048,aws,AWS
+JOB0048,git,Git
+JOB0048,excel,Excel
+JOB0049,aws,AWS
+JOB0049,azure,Azure
+JOB0049,python,Python
+JOB0049,git,Git
+JOB0049,tableau,Tableau
+JOB0049,statistics,Statistics
+JOB0050,aws,AWS
+JOB0050,machine learning,Machine Learning
+JOB0050,statistics,Statistics
+JOB0050,python,Python
+JOB0051,tableau,Tableau
+JOB0051,excel,Excel
+JOB0051,azure,Azure
+JOB0051,git,Git
+JOB0051,pyspark,PySpark
+JOB0051,aws,AWS
+JOB0051,statistics,Statistics
+JOB0052,tableau,Tableau
+JOB0052,excel,Excel
+JOB0052,sql,SQL
+JOB0052,python,Python
+JOB0053,excel,Excel
+JOB0053,java,Java
+JOB0053,azure,Azure
+JOB0053,sql,SQL
+JOB0053,git,Git
+JOB0054,sql,SQL
+JOB0054,machine learning,Machine Learning
+JOB0054,python,Python
+JOB0054,power bi,Power Bi
+JOB0054,aws,AWS
+JOB0054,excel,Excel
+JOB0055,statistics,Statistics
+JOB0055,machine learning,Machine Learning
+JOB0055,sql,SQL
+JOB0055,python,Python
+JOB0055,tableau,Tableau
+JOB0055,power bi,Power Bi
+JOB0056,sql,SQL
+JOB0056,aws,AWS
+JOB0056,tableau,Tableau
+JOB0056,azure,Azure
+JOB0056,java,Java
+JOB0056,excel,Excel
+JOB0056,git,Git
+JOB0057,aws,AWS
+JOB0057,machine learning,Machine Learning
+JOB0057,power bi,Power Bi
+JOB0057,tableau,Tableau
+JOB0057,excel,Excel
+JOB0057,git,Git
+JOB0057,python,Python
+JOB0058,azure,Azure
+JOB0058,tableau,Tableau
+JOB0058,java,Java
+JOB0058,git,Git
+JOB0059,pyspark,PySpark
+JOB0059,excel,Excel
+JOB0059,sql,SQL
+JOB0059,statistics,Statistics
+JOB0060,azure,Azure
+JOB0060,python,Python
+JOB0060,sql,SQL
+JOB0060,power bi,Power Bi
+JOB0060,excel,Excel
+JOB0060,git,Git
+JOB0060,tableau,Tableau
+JOB0061,aws,AWS
+JOB0061,pyspark,PySpark
+JOB0061,tableau,Tableau
+JOB0061,machine learning,Machine Learning
+JOB0061,azure,Azure
+JOB0061,java,Java
+JOB0062,excel,Excel
+JOB0062,git,Git
+JOB0062,azure,Azure
+JOB0062,power bi,Power Bi
+JOB0062,pyspark,PySpark
+JOB0063,power bi,Power Bi
+JOB0063,python,Python
+JOB0063,statistics,Statistics
+JOB0063,pyspark,PySpark
+JOB0063,git,Git
+JOB0064,azure,Azure
+JOB0064,git,Git
+JOB0064,statistics,Statistics
+JOB0064,tableau,Tableau
+JOB0064,java,Java
+JOB0064,python,Python
+JOB0065,java,Java
+JOB0065,git,Git
+JOB0065,machine learning,Machine Learning
+JOB0065,power bi,Power Bi
+JOB0066,azure,Azure
+JOB0066,git,Git
+JOB0066,power bi,Power Bi
+JOB0066,aws,AWS
+JOB0066,machine learning,Machine Learning
+JOB0066,statistics,Statistics
+JOB0066,pyspark,PySpark
+JOB0067,power bi,Power Bi
+JOB0067,statistics,Statistics
+JOB0067,sql,SQL
+JOB0067,java,Java
+JOB0067,excel,Excel
+JOB0068,power bi,Power Bi
+JOB0068,python,Python
+JOB0068,excel,Excel
+JOB0068,git,Git
+JOB0068,pyspark,PySpark
+JOB0068,tableau,Tableau
+JOB0068,machine learning,Machine Learning
+JOB0069,pyspark,PySpark
+JOB0069,excel,Excel
+JOB0069,java,Java
+JOB0069,power bi,Power Bi
+JOB0070,azure,Azure
+JOB0070,sql,SQL
+JOB0070,git,Git
+JOB0070,power bi,Power Bi
+JOB0070,aws,AWS
+JOB0070,java,Java
+JOB0071,machine learning,Machine Learning
+JOB0071,power bi,Power Bi
+JOB0071,python,Python
+JOB0071,sql,SQL
+JOB0071,excel,Excel
+JOB0071,tableau,Tableau
+JOB0072,java,Java
+JOB0072,azure,Azure
+JOB0072,pyspark,PySpark
+JOB0072,statistics,Statistics
+JOB0073,tableau,Tableau
+JOB0073,aws,AWS
+JOB0073,git,Git
+JOB0073,machine learning,Machine Learning
+JOB0073,sql,SQL
+JOB0073,statistics,Statistics
+JOB0073,azure,Azure
+JOB0074,azure,Azure
+JOB0074,sql,SQL
+JOB0074,tableau,Tableau
+JOB0074,power bi,Power Bi
+JOB0075,aws,AWS
+JOB0075,python,Python
+JOB0075,excel,Excel
+JOB0075,pyspark,PySpark
+JOB0075,tableau,Tableau
+JOB0075,power bi,Power Bi
+JOB0075,machine learning,Machine Learning
+JOB0076,azure,Azure
+JOB0076,git,Git
+JOB0076,sql,SQL
+JOB0076,python,Python
+JOB0076,excel,Excel
+JOB0076,tableau,Tableau
+JOB0077,azure,Azure
+JOB0077,sql,SQL
+JOB0077,java,Java
+JOB0077,git,Git
+JOB0078,azure,Azure
+JOB0078,pyspark,PySpark
+JOB0078,java,Java
+JOB0078,aws,AWS
+JOB0078,excel,Excel
+JOB0079,tableau,Tableau
+JOB0079,pyspark,PySpark
+JOB0079,power bi,Power Bi
+JOB0079,python,Python
+JOB0079,machine learning,Machine Learning
+JOB0079,git,Git
+JOB0079,java,Java
+JOB0080,tableau,Tableau
+JOB0080,git,Git
+JOB0080,pyspark,PySpark
+JOB0080,machine learning,Machine Learning
+JOB0080,aws,AWS
+JOB0080,excel,Excel
+JOB0080,java,Java
+JOB0081,python,Python
+JOB0081,tableau,Tableau
+JOB0081,azure,Azure
+JOB0081,aws,AWS
+JOB0081,pyspark,PySpark
+JOB0081,statistics,Statistics
+JOB0081,machine learning,Machine Learning
+JOB0082,sql,SQL
+JOB0082,pyspark,PySpark
+JOB0082,azure,Azure
+JOB0082,python,Python
+JOB0082,java,Java
+JOB0082,excel,Excel
+JOB0082,tableau,Tableau
+JOB0083,statistics,Statistics
+JOB0083,sql,SQL
+JOB0083,tableau,Tableau
+JOB0083,pyspark,PySpark
+JOB0083,aws,AWS
+JOB0083,java,Java
+JOB0083,machine learning,Machine Learning
+JOB0084,excel,Excel
+JOB0084,sql,SQL
+JOB0084,aws,AWS
+JOB0084,statistics,Statistics
+JOB0084,pyspark,PySpark
+JOB0084,git,Git
+JOB0085,tableau,Tableau
+JOB0085,aws,AWS
+JOB0085,java,Java
+JOB0085,excel,Excel
+JOB0085,statistics,Statistics
+JOB0085,power bi,Power Bi
+JOB0086,azure,Azure
+JOB0086,machine learning,Machine Learning
+JOB0086,java,Java
+JOB0086,excel,Excel
+JOB0086,git,Git
+JOB0087,sql,SQL
+JOB0087,azure,Azure
+JOB0087,tableau,Tableau
+JOB0087,power bi,Power Bi
+JOB0087,aws,AWS
+JOB0088,excel,Excel
+JOB0088,aws,AWS
+JOB0088,machine learning,Machine Learning
+JOB0088,tableau,Tableau
+JOB0089,machine learning,Machine Learning
+JOB0089,statistics,Statistics
+JOB0089,python,Python
+JOB0089,azure,Azure
+JOB0090,machine learning,Machine Learning
+JOB0090,power bi,Power Bi
+JOB0090,java,Java
+JOB0090,sql,SQL
+JOB0090,python,Python
+JOB0091,tableau,Tableau
+JOB0091,aws,AWS
+JOB0091,java,Java
+JOB0091,excel,Excel
+JOB0091,machine learning,Machine Learning
+JOB0091,statistics,Statistics
+JOB0092,power bi,Power Bi
+JOB0092,tableau,Tableau
+JOB0092,sql,SQL
+JOB0092,azure,Azure
+JOB0092,machine learning,Machine Learning
+JOB0092,pyspark,PySpark
+JOB0092,aws,AWS
+JOB0093,python,Python
+JOB0093,power bi,Power Bi
+JOB0093,pyspark,PySpark
+JOB0093,sql,SQL
+JOB0093,azure,Azure
+JOB0093,java,Java
+JOB0093,tableau,Tableau
+JOB0094,azure,Azure
+JOB0094,python,Python
+JOB0094,machine learning,Machine Learning
+JOB0094,pyspark,PySpark
+JOB0094,tableau,Tableau
+JOB0095,statistics,Statistics
+JOB0095,aws,AWS
+JOB0095,sql,SQL
+JOB0095,java,Java
+JOB0095,python,Python
+JOB0095,azure,Azure
+JOB0096,azure,Azure
+JOB0096,tableau,Tableau
+JOB0096,pyspark,PySpark
+JOB0096,aws,AWS
+JOB0096,java,Java
+JOB0096,excel,Excel
+JOB0096,statistics,Statistics
+JOB0097,excel,Excel
+JOB0097,azure,Azure
+JOB0097,statistics,Statistics
+JOB0097,git,Git
+JOB0097,tableau,Tableau
+JOB0097,python,Python
+JOB0098,power bi,Power Bi
+JOB0098,excel,Excel
+JOB0098,sql,SQL
+JOB0098,azure,Azure
+JOB0098,machine learning,Machine Learning
+JOB0098,tableau,Tableau
+JOB0098,pyspark,PySpark
+JOB0099,machine learning,Machine Learning
+JOB0099,excel,Excel
+JOB0099,sql,SQL
+JOB0099,pyspark,PySpark
+JOB0099,statistics,Statistics
+JOB0100,power bi,Power Bi
+JOB0100,java,Java
+JOB0100,statistics,Statistics
+JOB0100,pyspark,PySpark
+JOB0101,excel,Excel
+JOB0101,machine learning,Machine Learning
+JOB0101,tableau,Tableau
+JOB0101,python,Python
+JOB0101,java,Java
+JOB0101,azure,Azure
+JOB0102,tableau,Tableau
+JOB0102,pyspark,PySpark
+JOB0102,machine learning,Machine Learning
+JOB0102,sql,SQL
+JOB0102,azure,Azure
+JOB0102,power bi,Power Bi
+JOB0102,statistics,Statistics
+JOB0103,statistics,Statistics
+JOB0103,python,Python
+JOB0103,git,Git
+JOB0103,azure,Azure
+JOB0103,aws,AWS
+JOB0103,excel,Excel
+JOB0103,tableau,Tableau
+JOB0104,sql,SQL
+JOB0104,java,Java
+JOB0104,power bi,Power Bi
+JOB0104,pyspark,PySpark
+JOB0104,tableau,Tableau
+JOB0105,statistics,Statistics
+JOB0105,git,Git
+JOB0105,pyspark,PySpark
+JOB0105,excel,Excel
+JOB0106,git,Git
+JOB0106,sql,SQL
+JOB0106,tableau,Tableau
+JOB0106,aws,AWS
+JOB0106,machine learning,Machine Learning
+JOB0106,azure,Azure
+JOB0106,java,Java
+JOB0107,aws,AWS
+JOB0107,sql,SQL
+JOB0107,tableau,Tableau
+JOB0107,java,Java
+JOB0108,aws,AWS
+JOB0108,tableau,Tableau
+JOB0108,git,Git
+JOB0108,python,Python
+JOB0109,statistics,Statistics
+JOB0109,azure,Azure
+JOB0109,excel,Excel
+JOB0109,sql,SQL
+JOB0109,tableau,Tableau
+JOB0110,pyspark,PySpark
+JOB0110,machine learning,Machine Learning
+JOB0110,statistics,Statistics
+JOB0110,git,Git
+JOB0110,python,Python
+JOB0110,power bi,Power Bi
+JOB0110,tableau,Tableau
+JOB0111,python,Python
+JOB0111,java,Java
+JOB0111,statistics,Statistics
+JOB0111,aws,AWS
+JOB0111,sql,SQL
+JOB0111,azure,Azure
+JOB0112,tableau,Tableau
+JOB0112,java,Java
+JOB0112,git,Git
+JOB0112,power bi,Power Bi
+JOB0112,machine learning,Machine Learning
+JOB0112,aws,AWS
+JOB0112,pyspark,PySpark
+JOB0113,power bi,Power Bi
+JOB0113,azure,Azure
+JOB0113,aws,AWS
+JOB0113,statistics,Statistics
+JOB0114,aws,AWS
+JOB0114,sql,SQL
+JOB0114,power bi,Power Bi
+JOB0114,azure,Azure
+JOB0114,machine learning,Machine Learning
+JOB0114,python,Python
+JOB0115,java,Java
+JOB0115,power bi,Power Bi
+JOB0115,statistics,Statistics
+JOB0115,tableau,Tableau
+JOB0115,sql,SQL
+JOB0116,pyspark,PySpark
+JOB0116,git,Git
+JOB0116,tableau,Tableau
+JOB0116,sql,SQL
+JOB0116,aws,AWS
+JOB0117,machine learning,Machine Learning
+JOB0117,aws,AWS
+JOB0117,statistics,Statistics
+JOB0117,power bi,Power Bi
+JOB0117,sql,SQL
+JOB0117,excel,Excel
+JOB0117,python,Python
+JOB0118,sql,SQL
+JOB0118,excel,Excel
+JOB0118,aws,AWS
+JOB0118,machine learning,Machine Learning
+JOB0118,git,Git
+JOB0118,statistics,Statistics
+JOB0118,java,Java
+JOB0119,pyspark,PySpark
+JOB0119,git,Git
+JOB0119,excel,Excel
+JOB0119,tableau,Tableau
+JOB0120,statistics,Statistics
+JOB0120,sql,SQL
+JOB0120,java,Java
+JOB0120,azure,Azure
+JOB0120,pyspark,PySpark
+JOB0121,statistics,Statistics
+JOB0121,tableau,Tableau
+JOB0121,java,Java
+JOB0121,azure,Azure
+JOB0121,sql,SQL
+JOB0121,excel,Excel
+JOB0122,power bi,Power Bi
+JOB0122,azure,Azure
+JOB0122,statistics,Statistics
+JOB0122,python,Python
+JOB0123,azure,Azure
+JOB0123,machine learning,Machine Learning
+JOB0123,pyspark,PySpark
+JOB0123,python,Python
+JOB0123,git,Git
+JOB0123,aws,AWS
+JOB0123,power bi,Power Bi
+JOB0124,sql,SQL
+JOB0124,tableau,Tableau
+JOB0124,git,Git
+JOB0124,pyspark,PySpark
+JOB0124,java,Java
+JOB0124,python,Python
+JOB0124,machine learning,Machine Learning
+JOB0125,power bi,Power Bi
+JOB0125,aws,AWS
+JOB0125,statistics,Statistics
+JOB0125,tableau,Tableau
+JOB0125,python,Python
+JOB0125,machine learning,Machine Learning
+JOB0126,git,Git
+JOB0126,statistics,Statistics
+JOB0126,machine learning,Machine Learning
+JOB0126,java,Java
+JOB0126,tableau,Tableau
+JOB0126,python,Python
+JOB0127,power bi,Power Bi
+JOB0127,pyspark,PySpark
+JOB0127,aws,AWS
+JOB0127,tableau,Tableau
+JOB0128,pyspark,PySpark
+JOB0128,tableau,Tableau
+JOB0128,python,Python
+JOB0128,statistics,Statistics
+JOB0128,power bi,Power Bi
+JOB0128,sql,SQL
+JOB0128,aws,AWS
+JOB0129,sql,SQL
+JOB0129,pyspark,PySpark
+JOB0129,statistics,Statistics
+JOB0129,machine learning,Machine Learning
+JOB0129,python,Python
+JOB0129,tableau,Tableau
+JOB0130,git,Git
+JOB0130,azure,Azure
+JOB0130,python,Python
+JOB0130,aws,AWS
+JOB0130,tableau,Tableau
+JOB0131,power bi,Power Bi
+JOB0131,azure,Azure
+JOB0131,excel,Excel
+JOB0131,tableau,Tableau
+JOB0131,statistics,Statistics
+JOB0132,machine learning,Machine Learning
+JOB0132,java,Java
+JOB0132,power bi,Power Bi
+JOB0132,python,Python
+JOB0132,azure,Azure
+JOB0133,sql,SQL
+JOB0133,java,Java
+JOB0133,power bi,Power Bi
+JOB0133,azure,Azure
+JOB0133,statistics,Statistics
+JOB0133,aws,AWS
+JOB0134,aws,AWS
+JOB0134,python,Python
+JOB0134,git,Git
+JOB0134,pyspark,PySpark
+JOB0135,sql,SQL
+JOB0135,statistics,Statistics
+JOB0135,tableau,Tableau
+JOB0135,java,Java
+JOB0135,pyspark,PySpark
+JOB0135,python,Python
+JOB0136,sql,SQL
+JOB0136,python,Python
+JOB0136,power bi,Power Bi
+JOB0136,excel,Excel
+JOB0137,power bi,Power Bi
+JOB0137,excel,Excel
+JOB0137,git,Git
+JOB0137,sql,SQL
+JOB0138,azure,Azure
+JOB0138,machine learning,Machine Learning
+JOB0138,pyspark,PySpark
+JOB0138,python,Python
+JOB0139,machine learning,Machine Learning
+JOB0139,tableau,Tableau
+JOB0139,excel,Excel
+JOB0139,aws,AWS
+JOB0140,aws,AWS
+JOB0140,azure,Azure
+JOB0140,python,Python
+JOB0140,git,Git
+JOB0141,git,Git
+JOB0141,statistics,Statistics
+JOB0141,sql,SQL
+JOB0141,tableau,Tableau
+JOB0141,java,Java
+JOB0142,git,Git
+JOB0142,azure,Azure
+JOB0142,java,Java
+JOB0142,machine learning,Machine Learning
+JOB0142,sql,SQL
+JOB0142,tableau,Tableau
+JOB0142,excel,Excel
+JOB0143,pyspark,PySpark
+JOB0143,aws,AWS
+JOB0143,git,Git
+JOB0143,azure,Azure
+JOB0143,power bi,Power Bi
+JOB0143,python,Python
+JOB0144,power bi,Power Bi
+JOB0144,sql,SQL
+JOB0144,tableau,Tableau
+JOB0144,aws,AWS
+JOB0144,pyspark,PySpark
+JOB0144,machine learning,Machine Learning
+JOB0145,sql,SQL
+JOB0145,aws,AWS
+JOB0145,git,Git
+JOB0145,statistics,Statistics
+JOB0145,java,Java
+JOB0145,power bi,Power Bi
+JOB0146,machine learning,Machine Learning
+JOB0146,aws,AWS
+JOB0146,java,Java
+JOB0146,azure,Azure
+JOB0146,tableau,Tableau
+JOB0146,excel,Excel
+JOB0146,python,Python
+JOB0147,tableau,Tableau
+JOB0147,pyspark,PySpark
+JOB0147,java,Java
+JOB0147,python,Python
+JOB0147,machine learning,Machine Learning
+JOB0147,aws,AWS
+JOB0147,power bi,Power Bi
+JOB0148,machine learning,Machine Learning
+JOB0148,python,Python
+JOB0148,git,Git
+JOB0148,java,Java
+JOB0148,azure,Azure
+JOB0148,pyspark,PySpark
+JOB0148,aws,AWS
+JOB0149,excel,Excel
+JOB0149,sql,SQL
+JOB0149,python,Python
+JOB0149,java,Java
+JOB0149,azure,Azure
+JOB0149,power bi,Power Bi
+JOB0150,git,Git
+JOB0150,azure,Azure
+JOB0150,excel,Excel
+JOB0150,sql,SQL
+JOB0150,java,Java
+JOB0150,aws,AWS
+JOB0151,statistics,Statistics
+JOB0151,tableau,Tableau
+JOB0151,sql,SQL
+JOB0151,pyspark,PySpark
+JOB0151,power bi,Power Bi
+JOB0151,java,Java
+JOB0152,sql,SQL
+JOB0152,excel,Excel
+JOB0152,java,Java
+JOB0152,statistics,Statistics
+JOB0152,azure,Azure
+JOB0153,sql,SQL
+JOB0153,power bi,Power Bi
+JOB0153,aws,AWS
+JOB0153,azure,Azure
+JOB0154,statistics,Statistics
+JOB0154,sql,SQL
+JOB0154,azure,Azure
+JOB0154,machine learning,Machine Learning
+JOB0154,tableau,Tableau
+JOB0154,git,Git
+JOB0155,sql,SQL
+JOB0155,pyspark,PySpark
+JOB0155,java,Java
+JOB0155,power bi,Power Bi
+JOB0156,sql,SQL
+JOB0156,power bi,Power Bi
+JOB0156,excel,Excel
+JOB0156,pyspark,PySpark
+JOB0156,statistics,Statistics
+JOB0156,git,Git
+JOB0157,java,Java
+JOB0157,statistics,Statistics
+JOB0157,machine learning,Machine Learning
+JOB0157,tableau,Tableau
+JOB0157,python,Python
+JOB0158,machine learning,Machine Learning
+JOB0158,aws,AWS
+JOB0158,git,Git
+JOB0158,python,Python
+JOB0158,azure,Azure
+JOB0159,power bi,Power Bi
+JOB0159,azure,Azure
+JOB0159,sql,SQL
+JOB0159,python,Python
+JOB0159,java,Java
+JOB0159,excel,Excel
+JOB0159,aws,AWS
+JOB0160,git,Git
+JOB0160,tableau,Tableau
+JOB0160,aws,AWS
+JOB0160,java,Java
+JOB0160,statistics,Statistics
+JOB0160,power bi,Power Bi
+JOB0161,java,Java
+JOB0161,sql,SQL
+JOB0161,python,Python
+JOB0161,power bi,Power Bi
+JOB0161,aws,AWS
+JOB0162,excel,Excel
+JOB0162,java,Java
+JOB0162,azure,Azure
+JOB0162,pyspark,PySpark
+JOB0162,machine learning,Machine Learning
+JOB0162,git,Git
+JOB0163,excel,Excel
+JOB0163,git,Git
+JOB0163,machine learning,Machine Learning
+JOB0163,tableau,Tableau
+JOB0163,python,Python
+JOB0163,azure,Azure
+JOB0163,java,Java
+JOB0164,sql,SQL
+JOB0164,aws,AWS
+JOB0164,java,Java
+JOB0164,power bi,Power Bi
+JOB0165,tableau,Tableau
+JOB0165,pyspark,PySpark
+JOB0165,power bi,Power Bi
+JOB0165,sql,SQL
+JOB0165,aws,AWS
+JOB0166,aws,AWS
+JOB0166,tableau,Tableau
+JOB0166,statistics,Statistics
+JOB0166,pyspark,PySpark
+JOB0167,python,Python
+JOB0167,java,Java
+JOB0167,tableau,Tableau
+JOB0167,azure,Azure
+JOB0168,java,Java
+JOB0168,aws,AWS
+JOB0168,machine learning,Machine Learning
+JOB0168,power bi,Power Bi
+JOB0168,tableau,Tableau
+JOB0168,pyspark,PySpark
+JOB0169,tableau,Tableau
+JOB0169,git,Git
+JOB0169,sql,SQL
+JOB0169,aws,AWS
+JOB0170,power bi,Power Bi
+JOB0170,statistics,Statistics
+JOB0170,machine learning,Machine Learning
+JOB0170,excel,Excel
+JOB0170,python,Python
+JOB0170,git,Git
+JOB0170,pyspark,PySpark
+JOB0171,python,Python
+JOB0171,machine learning,Machine Learning
+JOB0171,sql,SQL
+JOB0171,excel,Excel
+JOB0171,git,Git
+JOB0172,git,Git
+JOB0172,python,Python
+JOB0172,java,Java
+JOB0172,pyspark,PySpark
+JOB0172,excel,Excel
+JOB0172,power bi,Power Bi
+JOB0172,machine learning,Machine Learning
+JOB0173,pyspark,PySpark
+JOB0173,tableau,Tableau
+JOB0173,power bi,Power Bi
+JOB0173,azure,Azure
+JOB0173,excel,Excel
+JOB0173,sql,SQL
+JOB0174,git,Git
+JOB0174,azure,Azure
+JOB0174,tableau,Tableau
+JOB0174,statistics,Statistics
+JOB0174,machine learning,Machine Learning
+JOB0175,tableau,Tableau
+JOB0175,java,Java
+JOB0175,power bi,Power Bi
+JOB0175,python,Python
+JOB0175,machine learning,Machine Learning
+JOB0175,git,Git
+JOB0175,pyspark,PySpark
+JOB0176,pyspark,PySpark
+JOB0176,power bi,Power Bi
+JOB0176,java,Java
+JOB0176,sql,SQL
+JOB0176,excel,Excel
+JOB0176,git,Git
+JOB0177,git,Git
+JOB0177,azure,Azure
+JOB0177,sql,SQL
+JOB0177,java,Java
+JOB0177,python,Python
+JOB0177,power bi,Power Bi
+JOB0178,power bi,Power Bi
+JOB0178,tableau,Tableau
+JOB0178,git,Git
+JOB0178,python,Python
+JOB0178,sql,SQL
+JOB0179,java,Java
+JOB0179,python,Python
+JOB0179,aws,AWS
+JOB0179,azure,Azure
+JOB0179,git,Git
+JOB0179,tableau,Tableau
+JOB0179,pyspark,PySpark
+JOB0180,azure,Azure
+JOB0180,statistics,Statistics
+JOB0180,pyspark,PySpark
+JOB0180,machine learning,Machine Learning
+JOB0180,git,Git
+JOB0180,sql,SQL
+JOB0181,git,Git
+JOB0181,azure,Azure
+JOB0181,power bi,Power Bi
+JOB0181,java,Java
+JOB0181,python,Python
+JOB0182,aws,AWS
+JOB0182,pyspark,PySpark
+JOB0182,tableau,Tableau
+JOB0182,sql,SQL
+JOB0182,git,Git
+JOB0182,machine learning,Machine Learning
+JOB0182,python,Python
+JOB0183,excel,Excel
+JOB0183,azure,Azure
+JOB0183,power bi,Power Bi
+JOB0183,tableau,Tableau
+JOB0183,machine learning,Machine Learning
+JOB0183,statistics,Statistics
+JOB0183,pyspark,PySpark
+JOB0184,azure,Azure
+JOB0184,power bi,Power Bi
+JOB0184,java,Java
+JOB0184,aws,AWS
+JOB0185,statistics,Statistics
+JOB0185,power bi,Power Bi
+JOB0185,tableau,Tableau
+JOB0185,excel,Excel
+JOB0186,pyspark,PySpark
+JOB0186,statistics,Statistics
+JOB0186,excel,Excel
+JOB0186,machine learning,Machine Learning
+JOB0186,sql,SQL
+JOB0186,power bi,Power Bi
+JOB0186,git,Git
+JOB0187,machine learning,Machine Learning
+JOB0187,pyspark,PySpark
+JOB0187,java,Java
+JOB0187,git,Git
+JOB0187,tableau,Tableau
+JOB0188,pyspark,PySpark
+JOB0188,azure,Azure
+JOB0188,python,Python
+JOB0188,statistics,Statistics
+JOB0189,git,Git
+JOB0189,python,Python
+JOB0189,aws,AWS
+JOB0189,power bi,Power Bi
+JOB0189,statistics,Statistics
+JOB0189,tableau,Tableau
+JOB0190,sql,SQL
+JOB0190,azure,Azure
+JOB0190,python,Python
+JOB0190,power bi,Power Bi
+JOB0191,azure,Azure
+JOB0191,aws,AWS
+JOB0191,statistics,Statistics
+JOB0191,sql,SQL
+JOB0191,java,Java
+JOB0191,tableau,Tableau
+JOB0191,git,Git
+JOB0192,python,Python
+JOB0192,git,Git
+JOB0192,power bi,Power Bi
+JOB0192,azure,Azure
+JOB0192,aws,AWS
+JOB0193,excel,Excel
+JOB0193,sql,SQL
+JOB0193,python,Python
+JOB0193,aws,AWS
+JOB0193,machine learning,Machine Learning
+JOB0193,statistics,Statistics
+JOB0194,aws,AWS
+JOB0194,azure,Azure
+JOB0194,excel,Excel
+JOB0194,pyspark,PySpark
+JOB0195,machine learning,Machine Learning
+JOB0195,git,Git
+JOB0195,tableau,Tableau
+JOB0195,excel,Excel
+JOB0195,power bi,Power Bi
+JOB0195,sql,SQL
+JOB0196,statistics,Statistics
+JOB0196,git,Git
+JOB0196,aws,AWS
+JOB0196,pyspark,PySpark
+JOB0196,azure,Azure
+JOB0197,aws,AWS
+JOB0197,java,Java
+JOB0197,power bi,Power Bi
+JOB0197,git,Git
+JOB0197,statistics,Statistics
+JOB0197,pyspark,PySpark
+JOB0197,machine learning,Machine Learning
+JOB0198,pyspark,PySpark
+JOB0198,aws,AWS
+JOB0198,statistics,Statistics
+JOB0198,git,Git
+JOB0199,azure,Azure
+JOB0199,tableau,Tableau
+JOB0199,sql,SQL
+JOB0199,pyspark,PySpark
+JOB0200,machine learning,Machine Learning
+JOB0200,statistics,Statistics
+JOB0200,pyspark,PySpark
+JOB0200,excel,Excel
+JOB0200,azure,Azure
+JOB0201,git,Git
+JOB0201,azure,Azure
+JOB0201,excel,Excel
+JOB0201,machine learning,Machine Learning
+JOB0202,power bi,Power Bi
+JOB0202,git,Git
+JOB0202,tableau,Tableau
+JOB0202,pyspark,PySpark
+JOB0202,azure,Azure
+JOB0202,excel,Excel
+JOB0203,aws,AWS
+JOB0203,python,Python
+JOB0203,machine learning,Machine Learning
+JOB0203,excel,Excel
+JOB0203,java,Java
+JOB0203,statistics,Statistics
+JOB0204,excel,Excel
+JOB0204,tableau,Tableau
+JOB0204,git,Git
+JOB0204,aws,AWS
+JOB0204,machine learning,Machine Learning
+JOB0205,azure,Azure
+JOB0205,java,Java
+JOB0205,tableau,Tableau
+JOB0205,statistics,Statistics
+JOB0205,pyspark,PySpark
+JOB0205,machine learning,Machine Learning
+JOB0205,power bi,Power Bi
+JOB0206,sql,SQL
+JOB0206,statistics,Statistics
+JOB0206,python,Python
+JOB0206,machine learning,Machine Learning
+JOB0207,pyspark,PySpark
+JOB0207,azure,Azure
+JOB0207,tableau,Tableau
+JOB0207,python,Python
+JOB0207,statistics,Statistics
+JOB0208,pyspark,PySpark
+JOB0208,power bi,Power Bi
+JOB0208,git,Git
+JOB0208,statistics,Statistics
+JOB0209,pyspark,PySpark
+JOB0209,java,Java
+JOB0209,excel,Excel
+JOB0209,machine learning,Machine Learning
+JOB0210,aws,AWS
+JOB0210,azure,Azure
+JOB0210,machine learning,Machine Learning
+JOB0210,excel,Excel
+JOB0210,pyspark,PySpark
+JOB0210,java,Java
+JOB0211,aws,AWS
+JOB0211,git,Git
+JOB0211,pyspark,PySpark
+JOB0211,azure,Azure
+JOB0211,python,Python
+JOB0211,tableau,Tableau
+JOB0211,machine learning,Machine Learning
+JOB0212,pyspark,PySpark
+JOB0212,python,Python
+JOB0212,excel,Excel
+JOB0212,machine learning,Machine Learning
+JOB0213,pyspark,PySpark
+JOB0213,machine learning,Machine Learning
+JOB0213,python,Python
+JOB0213,java,Java
+JOB0213,tableau,Tableau
+JOB0213,statistics,Statistics
+JOB0214,java,Java
+JOB0214,machine learning,Machine Learning
+JOB0214,excel,Excel
+JOB0214,aws,AWS
+JOB0214,tableau,Tableau
+JOB0214,statistics,Statistics
+JOB0215,python,Python
+JOB0215,sql,SQL
+JOB0215,aws,AWS
+JOB0215,excel,Excel
+JOB0215,statistics,Statistics
+JOB0215,java,Java
+JOB0216,azure,Azure
+JOB0216,git,Git
+JOB0216,excel,Excel
+JOB0216,tableau,Tableau
+JOB0216,aws,AWS
+JOB0216,machine learning,Machine Learning
+JOB0217,sql,SQL
+JOB0217,power bi,Power Bi
+JOB0217,java,Java
+JOB0217,aws,AWS
+JOB0218,power bi,Power Bi
+JOB0218,azure,Azure
+JOB0218,tableau,Tableau
+JOB0218,git,Git
+JOB0219,sql,SQL
+JOB0219,python,Python
+JOB0219,git,Git
+JOB0219,tableau,Tableau
+JOB0219,machine learning,Machine Learning
+JOB0219,power bi,Power Bi
+JOB0219,aws,AWS
+JOB0220,git,Git
+JOB0220,pyspark,PySpark
+JOB0220,excel,Excel
+JOB0220,statistics,Statistics
+JOB0221,sql,SQL
+JOB0221,java,Java
+JOB0221,aws,AWS
+JOB0221,power bi,Power Bi
+JOB0221,machine learning,Machine Learning
+JOB0222,machine learning,Machine Learning
+JOB0222,git,Git
+JOB0222,excel,Excel
+JOB0222,azure,Azure
+JOB0222,sql,SQL
+JOB0222,pyspark,PySpark
+JOB0222,java,Java
+JOB0223,aws,AWS
+JOB0223,statistics,Statistics
+JOB0223,machine learning,Machine Learning
+JOB0223,java,Java
+JOB0223,power bi,Power Bi
+JOB0223,pyspark,PySpark
+JOB0224,git,Git
+JOB0224,statistics,Statistics
+JOB0224,azure,Azure
+JOB0224,excel,Excel
+JOB0224,tableau,Tableau
+JOB0224,pyspark,PySpark
+JOB0225,statistics,Statistics
+JOB0225,pyspark,PySpark
+JOB0225,python,Python
+JOB0225,azure,Azure
+JOB0225,excel,Excel
+JOB0226,java,Java
+JOB0226,statistics,Statistics
+JOB0226,power bi,Power Bi
+JOB0226,excel,Excel
+JOB0226,machine learning,Machine Learning
+JOB0226,tableau,Tableau
+JOB0226,sql,SQL
+JOB0227,pyspark,PySpark
+JOB0227,git,Git
+JOB0227,aws,AWS
+JOB0227,statistics,Statistics
+JOB0227,python,Python
+JOB0227,machine learning,Machine Learning
+JOB0227,java,Java
+JOB0228,java,Java
+JOB0228,statistics,Statistics
+JOB0228,machine learning,Machine Learning
+JOB0228,python,Python
+JOB0228,aws,AWS
+JOB0228,azure,Azure
+JOB0229,azure,Azure
+JOB0229,tableau,Tableau
+JOB0229,aws,AWS
+JOB0229,git,Git
+JOB0229,java,Java
+JOB0230,tableau,Tableau
+JOB0230,power bi,Power Bi
+JOB0230,git,Git
+JOB0230,azure,Azure
+JOB0230,excel,Excel
+JOB0231,power bi,Power Bi
+JOB0231,python,Python
+JOB0231,sql,SQL
+JOB0231,statistics,Statistics
+JOB0232,pyspark,PySpark
+JOB0232,java,Java
+JOB0232,git,Git
+JOB0232,statistics,Statistics
+JOB0232,tableau,Tableau
+JOB0233,java,Java
+JOB0233,statistics,Statistics
+JOB0233,aws,AWS
+JOB0233,machine learning,Machine Learning
+JOB0233,python,Python
+JOB0234,git,Git
+JOB0234,excel,Excel
+JOB0234,statistics,Statistics
+JOB0234,power bi,Power Bi
+JOB0235,tableau,Tableau
+JOB0235,excel,Excel
+JOB0235,azure,Azure
+JOB0235,sql,SQL
+JOB0235,power bi,Power Bi
+JOB0235,git,Git
+JOB0236,machine learning,Machine Learning
+JOB0236,sql,SQL
+JOB0236,tableau,Tableau
+JOB0236,git,Git
+JOB0236,azure,Azure
+JOB0236,power bi,Power Bi
+JOB0236,statistics,Statistics
+JOB0237,excel,Excel
+JOB0237,power bi,Power Bi
+JOB0237,sql,SQL
+JOB0237,java,Java
+JOB0238,aws,AWS
+JOB0238,java,Java
+JOB0238,azure,Azure
+JOB0238,pyspark,PySpark
+JOB0238,statistics,Statistics
+JOB0238,power bi,Power Bi
+JOB0238,sql,SQL
+JOB0239,tableau,Tableau
+JOB0239,python,Python
+JOB0239,azure,Azure
+JOB0239,java,Java
+JOB0240,aws,AWS
+JOB0240,azure,Azure
+JOB0240,statistics,Statistics
+JOB0240,java,Java
+JOB0240,sql,SQL
+JOB0240,power bi,Power Bi
+JOB0240,python,Python
+JOB0241,azure,Azure
+JOB0241,machine learning,Machine Learning
+JOB0241,git,Git
+JOB0241,pyspark,PySpark
+JOB0241,sql,SQL
+JOB0242,git,Git
+JOB0242,azure,Azure
+JOB0242,pyspark,PySpark
+JOB0242,excel,Excel
+JOB0243,azure,Azure
+JOB0243,power bi,Power Bi
+JOB0243,tableau,Tableau
+JOB0243,sql,SQL
+JOB0244,java,Java
+JOB0244,machine learning,Machine Learning
+JOB0244,git,Git
+JOB0244,excel,Excel
+JOB0244,pyspark,PySpark
+JOB0244,aws,AWS
+JOB0244,python,Python
+JOB0245,power bi,Power Bi
+JOB0245,machine learning,Machine Learning
+JOB0245,git,Git
+JOB0245,pyspark,PySpark
+JOB0245,sql,SQL
+JOB0245,azure,Azure
+JOB0246,excel,Excel
+JOB0246,java,Java
+JOB0246,tableau,Tableau
+JOB0246,git,Git
+JOB0246,aws,AWS
+JOB0247,sql,SQL
+JOB0247,statistics,Statistics
+JOB0247,git,Git
+JOB0247,aws,AWS
+JOB0247,power bi,Power Bi
+JOB0247,tableau,Tableau
+JOB0247,java,Java
+JOB0248,statistics,Statistics
+JOB0248,git,Git
+JOB0248,tableau,Tableau
+JOB0248,sql,SQL
+JOB0248,aws,AWS
+JOB0248,pyspark,PySpark
+JOB0248,excel,Excel
+JOB0249,machine learning,Machine Learning
+JOB0249,azure,Azure
+JOB0249,tableau,Tableau
+JOB0249,python,Python
+JOB0249,pyspark,PySpark
+JOB0250,python,Python
+JOB0250,aws,AWS
+JOB0250,excel,Excel
+JOB0250,java,Java
+JOB0250,power bi,Power Bi
+JOB0250,sql,SQL
+JOB0250,pyspark,PySpark
+JOB0251,statistics,Statistics
+JOB0251,power bi,Power Bi
+JOB0251,excel,Excel
+JOB0251,aws,AWS
+JOB0251,sql,SQL
+JOB0251,tableau,Tableau
+JOB0251,python,Python
+JOB0252,python,Python
+JOB0252,git,Git
+JOB0252,tableau,Tableau
+JOB0252,sql,SQL
+JOB0252,aws,AWS
+JOB0252,machine learning,Machine Learning
+JOB0252,pyspark,PySpark
+JOB0253,tableau,Tableau
+JOB0253,power bi,Power Bi
+JOB0253,java,Java
+JOB0253,aws,AWS
+JOB0253,machine learning,Machine Learning
+JOB0253,git,Git
+JOB0254,git,Git
+JOB0254,excel,Excel
+JOB0254,java,Java
+JOB0254,aws,AWS
+JOB0254,azure,Azure
+JOB0254,pyspark,PySpark
+JOB0255,tableau,Tableau
+JOB0255,aws,AWS
+JOB0255,git,Git
+JOB0255,java,Java
+JOB0255,excel,Excel
+JOB0255,pyspark,PySpark
+JOB0255,machine learning,Machine Learning
+JOB0256,statistics,Statistics
+JOB0256,power bi,Power Bi
+JOB0256,excel,Excel
+JOB0256,pyspark,PySpark
+JOB0257,aws,AWS
+JOB0257,sql,SQL
+JOB0257,excel,Excel
+JOB0257,azure,Azure
+JOB0257,statistics,Statistics
+JOB0257,power bi,Power Bi
+JOB0257,python,Python
+JOB0258,pyspark,PySpark
+JOB0258,statistics,Statistics
+JOB0258,java,Java
+JOB0258,azure,Azure
+JOB0258,sql,SQL
+JOB0258,python,Python
+JOB0259,statistics,Statistics
+JOB0259,pyspark,PySpark
+JOB0259,aws,AWS
+JOB0259,machine learning,Machine Learning
+JOB0259,git,Git
+JOB0259,python,Python
+JOB0260,pyspark,PySpark
+JOB0260,excel,Excel
+JOB0260,java,Java
+JOB0260,git,Git
+JOB0261,git,Git
+JOB0261,excel,Excel
+JOB0261,python,Python
+JOB0261,statistics,Statistics
+JOB0261,sql,SQL
+JOB0261,pyspark,PySpark
+JOB0261,machine learning,Machine Learning
+JOB0262,git,Git
+JOB0262,java,Java
+JOB0262,python,Python
+JOB0262,statistics,Statistics
+JOB0263,java,Java
+JOB0263,power bi,Power Bi
+JOB0263,sql,SQL
+JOB0263,python,Python
+JOB0263,tableau,Tableau
+JOB0263,aws,AWS
+JOB0264,azure,Azure
+JOB0264,git,Git
+JOB0264,pyspark,PySpark
+JOB0264,tableau,Tableau
+JOB0265,machine learning,Machine Learning
+JOB0265,statistics,Statistics
+JOB0265,sql,SQL
+JOB0265,excel,Excel
+JOB0266,azure,Azure
+JOB0266,tableau,Tableau
+JOB0266,aws,AWS
+JOB0266,java,Java
+JOB0267,excel,Excel
+JOB0267,aws,AWS
+JOB0267,tableau,Tableau
+JOB0267,power bi,Power Bi
+JOB0267,sql,SQL
+JOB0267,pyspark,PySpark
+JOB0268,aws,AWS
+JOB0268,sql,SQL
+JOB0268,azure,Azure
+JOB0268,power bi,Power Bi
+JOB0269,power bi,Power Bi
+JOB0269,machine learning,Machine Learning
+JOB0269,git,Git
+JOB0269,excel,Excel
+JOB0269,azure,Azure
+JOB0270,java,Java
+JOB0270,python,Python
+JOB0270,aws,AWS
+JOB0270,statistics,Statistics
+JOB0270,excel,Excel
+JOB0271,statistics,Statistics
+JOB0271,aws,AWS
+JOB0271,power bi,Power Bi
+JOB0271,sql,SQL
+JOB0272,sql,SQL
+JOB0272,python,Python
+JOB0272,excel,Excel
+JOB0272,pyspark,PySpark
+JOB0272,aws,AWS
+JOB0272,tableau,Tableau
+JOB0273,statistics,Statistics
+JOB0273,aws,AWS
+JOB0273,sql,SQL
+JOB0273,python,Python
+JOB0273,git,Git
+JOB0274,tableau,Tableau
+JOB0274,azure,Azure
+JOB0274,power bi,Power Bi
+JOB0274,excel,Excel
+JOB0274,sql,SQL
+JOB0274,statistics,Statistics
+JOB0275,aws,AWS
+JOB0275,sql,SQL
+JOB0275,pyspark,PySpark
+JOB0275,tableau,Tableau
+JOB0275,excel,Excel
+JOB0275,azure,Azure
+JOB0276,git,Git
+JOB0276,machine learning,Machine Learning
+JOB0276,python,Python
+JOB0276,excel,Excel
+JOB0276,tableau,Tableau
+JOB0276,sql,SQL
+JOB0277,power bi,Power Bi
+JOB0277,java,Java
+JOB0277,python,Python
+JOB0277,aws,AWS
+JOB0277,azure,Azure
+JOB0277,git,Git
+JOB0278,python,Python
+JOB0278,excel,Excel
+JOB0278,java,Java
+JOB0278,statistics,Statistics
+JOB0279,sql,SQL
+JOB0279,python,Python
+JOB0279,git,Git
+JOB0279,excel,Excel
+JOB0279,azure,Azure
+JOB0279,aws,AWS
+JOB0280,azure,Azure
+JOB0280,python,Python
+JOB0280,java,Java
+JOB0280,aws,AWS
+JOB0281,excel,Excel
+JOB0281,java,Java
+JOB0281,power bi,Power Bi
+JOB0281,machine learning,Machine Learning
+JOB0281,azure,Azure
+JOB0281,sql,SQL
+JOB0282,pyspark,PySpark
+JOB0282,azure,Azure
+JOB0282,python,Python
+JOB0282,sql,SQL
+JOB0282,power bi,Power Bi
+JOB0282,excel,Excel
+JOB0282,git,Git
+JOB0283,aws,AWS
+JOB0283,tableau,Tableau
+JOB0283,azure,Azure
+JOB0283,pyspark,PySpark
+JOB0284,java,Java
+JOB0284,python,Python
+JOB0284,tableau,Tableau
+JOB0284,excel,Excel
+JOB0284,statistics,Statistics
+JOB0284,aws,AWS
+JOB0285,java,Java
+JOB0285,sql,SQL
+JOB0285,excel,Excel
+JOB0285,machine learning,Machine Learning
+JOB0285,power bi,Power Bi
+JOB0286,java,Java
+JOB0286,git,Git
+JOB0286,excel,Excel
+JOB0286,tableau,Tableau
+JOB0286,pyspark,PySpark
+JOB0286,power bi,Power Bi
+JOB0287,pyspark,PySpark
+JOB0287,power bi,Power Bi
+JOB0287,java,Java
+JOB0287,azure,Azure
+JOB0287,python,Python
+JOB0287,git,Git
+JOB0287,aws,AWS
+JOB0288,java,Java
+JOB0288,tableau,Tableau
+JOB0288,git,Git
+JOB0288,statistics,Statistics
+JOB0288,python,Python
+JOB0289,sql,SQL
+JOB0289,tableau,Tableau
+JOB0289,aws,AWS
+JOB0289,git,Git
+JOB0289,statistics,Statistics
+JOB0289,java,Java
+JOB0290,statistics,Statistics
+JOB0290,tableau,Tableau
+JOB0290,java,Java
+JOB0290,pyspark,PySpark
+JOB0290,git,Git
+JOB0290,sql,SQL
+JOB0290,azure,Azure
+JOB0291,git,Git
+JOB0291,python,Python
+JOB0291,machine learning,Machine Learning
+JOB0291,aws,AWS
+JOB0291,statistics,Statistics
+JOB0292,azure,Azure
+JOB0292,java,Java
+JOB0292,tableau,Tableau
+JOB0292,sql,SQL
+JOB0293,azure,Azure
+JOB0293,python,Python
+JOB0293,power bi,Power Bi
+JOB0293,excel,Excel
+JOB0293,pyspark,PySpark
+JOB0293,tableau,Tableau
+JOB0294,azure,Azure
+JOB0294,aws,AWS
+JOB0294,java,Java
+JOB0294,statistics,Statistics
+JOB0294,git,Git
+JOB0294,excel,Excel
+JOB0294,machine learning,Machine Learning
+JOB0295,java,Java
+JOB0295,azure,Azure
+JOB0295,sql,SQL
+JOB0295,python,Python
+JOB0295,power bi,Power Bi
+JOB0296,java,Java
+JOB0296,sql,SQL
+JOB0296,pyspark,PySpark
+JOB0296,statistics,Statistics
+JOB0296,tableau,Tableau
+JOB0296,power bi,Power Bi
+JOB0296,aws,AWS
+JOB0297,java,Java
+JOB0297,python,Python
+JOB0297,sql,SQL
+JOB0297,tableau,Tableau
+JOB0297,excel,Excel
+JOB0297,machine learning,Machine Learning
+JOB0297,azure,Azure
+JOB0298,power bi,Power Bi
+JOB0298,excel,Excel
+JOB0298,sql,SQL
+JOB0298,python,Python
+JOB0298,aws,AWS
+JOB0298,git,Git
+JOB0299,statistics,Statistics
+JOB0299,git,Git
+JOB0299,machine learning,Machine Learning
+JOB0299,azure,Azure
+JOB0299,excel,Excel
+JOB0299,python,Python
+JOB0300,power bi,Power Bi
+JOB0300,aws,AWS
+JOB0300,azure,Azure
+JOB0300,machine learning,Machine Learning
